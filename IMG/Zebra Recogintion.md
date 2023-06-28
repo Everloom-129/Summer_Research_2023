@@ -2,6 +2,8 @@
 
 [amusi/awesome-lane-detection: A paper list of lane detection. (github.com)](https://github.com/amusi/awesome-lane-detection)
 
+车道线识别的论文，可以找找斑马线相关的
+
 [昙花一现-2 (huggingface.co)](https://huggingface.co/docs/transformers/main/model_doc/blip-2)
 
 
@@ -10,17 +12,21 @@
 
 效果欠佳的VQA，解析原理比较重要
 
+![image-20230626195357603](./Zebra Recogintion.assets/image-20230626195357603.png)
 
+好像测不出来，也可能是提问的原因
 
+![image-20230626195526652](./Zebra Recogintion.assets/image-20230626195526652.png)
 
-
-Albef-VQA: hugging face no online testing
+### Albef-VQA: hugging face no online testing
 
 ![image-20230626153135691](./Zebra Recogintion.assets/image-20230626153135691.png)
 
+Q: Is the man in the middle walking?
+
 Fail the test( maybe model is too small)
 
-Salesforce's ALBEF: segmentation, don't work
+### Salesforce's ALBEF: segmentation, don't work
 
 ![image-20230626153438877](./Zebra Recogintion.assets/image-20230626153438877.png)
 
@@ -53,6 +59,12 @@ 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
 ## Segment Anything
 
 可以成功分离人，但是不能分离斑马线，可能是因为他训练的是检测图像边缘，不符合条件，不考虑此模型
+
+好，他是我新的大爹，
+
+中间结果 取text 或者其他
+
+落脚点
 
 ![image-20230626163534791](./Zebra Recogintion.assets/image-20230626163534791.png)
 
