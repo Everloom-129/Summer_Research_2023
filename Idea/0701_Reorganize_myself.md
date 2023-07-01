@@ -53,3 +53,33 @@ After long conversation with my mentor, I get much deeper understanding on the c
 
 
 无标签的情况下：random 后取平均，需要人工肉眼看一下
+
+
+
+BEST: road boundary detection( 车道线少的场景)
+
+车道线多的场景 ：车道线检测比较成熟
+
+试试看 SAM + rule based 
+
+目标检测的论文 ! 在找找直接detect road
+
+看他们的图，高被引，有没有detect，
+
+有的话，demo, api, 部署
+
+可行性测试，全局测试
+
+
+
+### 未来研究生申请
+
+- 需要
+
+
+
+
+
+### 总结
+
+多读读论文，多想想，培养科研能力
