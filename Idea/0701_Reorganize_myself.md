@@ -41,7 +41,7 @@ After long conversation with my mentor, I get much deeper understanding on the c
 
 1. 各种方式识别行人是否on the road 准确率，量化
    - grounded SAM : 看看行不行
-     - [ ] 阅读论文
+     - [x] 阅读论文 
      - [ ] 文书总结
    - SAM + grounding DINO: 分析自己组装可行性
 2. 看SAM 对道路区域识别准确性（能否区分行车区域和行人区域）
