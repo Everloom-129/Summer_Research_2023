@@ -26,7 +26,7 @@ Here I didn't take person into account, but it won't be hard if necessary.
 
 5. - [x]  label the result with label and confidence
 
-6. - [ ] do image sequence experiment, analyze the behavior of person
+6. - [x] do image sequence experiment, analyze the behavior of person
 
 7. - [ ]  split cases based on JAAD info
 
@@ -124,6 +124,43 @@ Think step by step, the key problem is how to do sequence analysis, provide me w
 > ```
 >
 > This is just a rough skeleton and the real implementation might be a lot more complex, especially for the `analyze_frame` and `analyze_temporal` methods. For the actual implementation of those methods, you would likely need a deep learning model, possibly trained on a dataset of pedestrian behaviors or unsupervised learning techniques.
+
+
+### TEST ON GPT
+### role: You are a 
+As an AI Driver Assistant, you are observing the current road situation from the front-facing camera feed. Your task is to analyze the complexity of the current road conditions based on the information provided and give a professional driving suggestion. Here's the observed data:
+
+- There are a total of 6 surface masks detected in the scene.
+- There are 2 Road and Sidewalk objects detected.
+- There are 6 detected masks representing people, with 15 actual people detected.
+- Person 0, 2, and 5 are detected on the right_down of the image, on road 0.
+- Person 1 is detected on the left_down of the image, on both road 0 and sidewalk 1.
+- Person 3 and 4 are detected on the middle_down of the image, on road 0.
+- Road 0 is located at the middle_down part of the image.
+- Sidewalk 1 is located at the left_down part of the image.
+
+Considering this information, what would be your advice for safe and efficient driving?",
+    "max_tokens": 200
+New crossroad environment:
+Person 0 is on the road 0, sidewalk 1
+Person 1 is on the road 0, sidewalk 1
+Person 2 is on the road 0, sidewalk 1
+Person 3 is on the road 0, sidewalk 1
+Person 4 is on the road 0, sidewalk 1
+Person 5 is on the road 0, sidewalk 1
+number of Surface mask, Road&sidewalk, People 's mask, actural people:  6 2 6 15
+output_dir:  DINOmasked/video_0268
+image_name:  0003
+txt_path:  DINOmasked/video_0268/Info_Video_0268.txt
+road 0 is at middle_down
+sidewalk 1 is at left_down
+person 0 is at right_down
+person 1 is at left_down
+person 2 is at right_down
+person 3 is at middle_down
+person 4 is at middle_down
+person 5 is at right_down
+
 
 
 
