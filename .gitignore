@@ -8,6 +8,7 @@ __pycache__/
 
 # Other
 *.pdf
+*.cn 
 
 # Distribution / packaging
 .Python
