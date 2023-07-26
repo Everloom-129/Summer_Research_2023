@@ -74,7 +74,8 @@ BEST: road boundary detection( 车道线少的场景)
 
 ### 未来研究生申请
 
-- 需要
+- 多思考多请教，收获很大
+- 在
 
 
 
