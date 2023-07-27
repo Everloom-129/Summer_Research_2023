@@ -1,10 +1,14 @@
 # 0726: Project Pipeline
 ## Intro and feedback 
-Today is a bad day, for I may catch a cold, and feeling quite bad these days. However, after spending some valuable time wondering and rethinking my path, I get to recognize the correct path again. 
+Today is a bad day, for I may catch a cold, and feeling quite bad these days. 
+
+However, after spending some valuable time wondering and rethinking my path, I get to recognize the correct path again. 
 
 On 0725 lab meeting, our group firstly seriously considered the whole project pipeline for the final demo and further experiment, which is important and fundamental.
 
-I felt exhausted because I lost passion for a while. However, as the saying goes, a shitty draft is better than any dreamy draft. 
+I felt exhausted because I lost passion for a while. However, as the saying goes, 
+**a shitty draft is better than any dreamy draft.**
+
 The first goal I should set while I am on a favor, is to get plan set up and resist on it each day. 
 
 It should be acknowledged that research is challenging and unclear, but I should still find the interest in it. Fortunately, while I was taking the shower, I found my "euraka moment".
