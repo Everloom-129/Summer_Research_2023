@@ -105,18 +105,18 @@ Intro background method 都可以写了，result 和discussion之后写
   - [ ] 用rule的方式对其路的名称，或者干脆叫近端路，远端路
 - [ ] HP: 暗夜精灵修复
   - [x] confirm buyer & IT schedule 
-  - [ ] 工具箱
-  - [ ] 检查应用
+  - [x] 工具箱
+  - [x] 检查应用
 - [ ] 试验环境搭建
   - [ ] 重新建立黑盒，放驾驶方向盘等
   - [ ] 托下巴的固定器
-  - [ ] 显示屏和定位器
+  - [x] 显示屏和定位器
   - [ ] 或许需要支架
 - [ ] 提前跑数据，demo跑通后狠狠算数据，崩内核就反复重启跑
-  - [ ] 输出成text mode之后交给llm分析
+  - [x] 输出成text mode之后交给llm分析
   - [ ] 视频标定
   - [ ] JAAD 导入?
   - [ ] 自己测的数据导入
 - [ ] ground truch benchmark是什么
   - [ ] JAAD 的标记一定要搞定了，学会用他的api
-  - [ ] 读读论文
+  - [x] 读读论文
