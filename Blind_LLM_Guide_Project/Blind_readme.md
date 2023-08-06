@@ -120,13 +120,19 @@ def detect_road(image_path:str, output_path:str):
     counts = display_mask(SAM_masks,P_masks,P_boxes,DINO_boxes,person_annotation,output_path)
 
     return obj_dict, counts,labels, P_labels
-```
 
 ```
-video_diff
+
+### Todo: Object Tracking
+比较困难的实现
+
+```
+video_diff：上周的暴力方法，不确定性太高,但思想可以继承
 ```
 
-挫败点
+#### 和hyy学姐对过之后：
+
+新思路：利用SOTA MOT 模型，做frame-level alignment
 
 
 
@@ -156,7 +162,7 @@ for frame in video[0,frame]:
 	
 	
 search algo, 10% pixel ~ then true
-二分，改变上下界的不是查而是等于
+二分，改变上下界的不是查而是等于，
 存的
 
 	
@@ -189,7 +195,7 @@ t_bbox[f0] = [(p0, [x1,x2,y1,y2]),(p0, [x1,x2,y1,y2]),[x1,x2,y1,y2],[x1,x2,y1,y2
 
     
 
-
+#### 获得正确的pedestrian数据后，输出为文本/图像
 
 ```python
 # Process and write results
@@ -225,7 +231,11 @@ def analyze_road(image_path,output_path,counts, labels, P_labels,depth_flag=Fals
 analyze_road(inputfile,outputfile,obj_dict,counts ,labels, P_labels)
 ```
 
+#### Note:
 
+1. 视频算法对齐的不能整除的问题：
+
+   
 
 手写30 -> 3 的提取
 
