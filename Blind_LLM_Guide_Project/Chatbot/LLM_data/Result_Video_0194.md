@@ -109,7 +109,6 @@ The situation in Frame 0003 continues to be critical, with all detected persons 
 The situation in Frame 0004 maintains the critical nature of the previous frames. Persons 0, 1, and 2 are assessed with a high-risk evaluation due to their location on the road and sidewalk, very close proximity to the dashcam, and angles close to 90 degrees. Persons 3, 4, and 5, who are not on any detected surface, are considered medium risk. Their proximity to the dashcam and negative angles contribute to the risk assessment. Immediate monitoring and decision-making are required to ensure safety.
 
 
-
 ### Frame 0005 Analysis
 
 **Summary of Key Frame Information:**
@@ -130,8 +129,6 @@ The situation in Frame 0004 maintains the critical nature of the previous frames
 - **Person 2:** High (on road, very close to the dashcam, negative angle)
 
 The situation in Frame 0005 is consistent with previous frames, with all detected persons located on the road and in very close proximity to the vehicle. The positive and negative angles for persons 0, 1, and 2 indicate that they are positioned almost directly to the right or left of the vehicle. This, combined with their positions on the road and closeness to the dashcam, results in a high-risk evaluation for all detected persons. The absence of additional information about sidewalks or other surfaces may further complicate the situation. Immediate and cautious action is likely required to avoid potential collisions.
-
-
 
 
 ### Frame 0006 Analysis
@@ -207,3 +204,5 @@ Frame 0008 exhibits a complex and critical scenario where all detected persons a
 The situation in Frame 0009 is notably complex due to the large number of detected persons, some of whom are on the road and others on the sidewalks. The high-risk evaluation for Persons 0-10 stems from their locations on the road and/or sidewalks, extreme angles, and proximity to the dashcam. Persons 6, 7, and 11 are evaluated as medium risk since they are only on the sidewalk but still in very close proximity to the vehicle.
 
 This frame necessitates highly attentive monitoring and decision-making to safely navigate the crowded environment and mitigate the risk of collisions or other incidents. Proper consideration of pedestrians' intentions and potential movements is crucial in this scenario.
+
+
