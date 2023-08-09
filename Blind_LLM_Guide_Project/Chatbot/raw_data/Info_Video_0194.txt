@@ -1,0 +1,1175 @@
+INFO of 0001:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97567850454345]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.97128033898481]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98346900030981]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98502153235941]
+person 4 is at middle_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.98260645390403]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.99403606265135]
+Person 0 is on the road 0, sidewalk 1,his/her bbox is [1148.4463   625.3968  1183.7595   663.28143]
+Person 1 is on the road 0, sidewalk 1,his/her bbox is [1120.0143  636.9002 1149.0658  672.4008]
+Person 2 is on the road 0, sidewalk 1,his/her bbox is [648.042   667.07153 665.49365 719.2749 ]
+Person 3 is not on any detected surface
+Person 4 is not on any detected surface
+Person 5 is not on any detected surface
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 9)
+Labels: [road 0 0.79, sidewalk 1 0.54]
+Person Labels: [person 0 0.62, person 1 0.61, person 2 0.58, person 3 0.53, person 4 0.43, person 5 0.38, person 6 0.38, person 7 0.32, person 8 0.31]
+
+INFO of 0002:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.98071200660746]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98497590749453]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.97741173473587]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.99259868277007]
+person 4 is at middle_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.98390249179239]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.91651432745489]
+Person 0 is on the road 0, sidewalk 1,his/her bbox is [1198.5688   652.10834 1241.2085   755.20197]
+Person 1 is on the road 0, sidewalk 1,his/her bbox is [621.4365  695.20935 631.2711  725.8157 ]
+Person 2 is on the road 0, sidewalk 1,his/her bbox is [1164.8732   663.21277 1198.9618   754.44324]
+Person 3 is on the road 0,his/her bbox is [272.70007 638.92316 292.74884 687.86066]
+Person 4 is on the road 0,his/her bbox is [640.6342  698.09467 656.5699  752.0599 ]
+Person 5 is not on any detected surface
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 10)
+Labels: [road 0 0.78, sidewalk 1 0.42]
+Person Labels: [person 0 0.60, person 1 0.60, person 2 0.57, person 3 0.57, person 4 0.55, person 5 0.37, person 6 0.30, person 7 0.29, person 8 0.28, person 9 0.25]
+
+INFO of 0003:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,-89.98414898675088]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.9823814886414]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98485229475875]
+Person 0 is on the road 0,his/her bbox is [633.53595 712.7891  653.9832  770.7911 ]
+Person 1 is on the road 0,his/her bbox is [1223.1569  683.0388 1265.8732  785.2406]
+Person 2 is on the road 0,his/her bbox is [623.22614 708.7739  634.92694 739.9016 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 12)
+Labels: [road 0 0.48]
+Person Labels: [person 0 0.52, person 1 0.47, person 2 0.46, person 3 0.45, person 4 0.43, person 5 0.43, person 6 0.31, person 7 0.30, person 8 0.28, person 9 0.27, person 10 0.26, person 11 0.25]
+
+INFO of 0004:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+person 0 is at right_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.98815501713453]
+person 1 is at right_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.98602862336652]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.9843277363718]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98347863746814]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99202480761129]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.9907287706888]
+Person 0 is on the road 0, sidewalk 1,his/her bbox is [1354.1584   638.22577 1412.2305   710.695  ]
+Person 1 is on the road 0, sidewalk 1,his/her bbox is [1293.3057  651.9293 1344.2659  713.5785]
+Person 2 is on the road 0, sidewalk 1,his/her bbox is [629.94415 689.3527  650.36127 750.0545 ]
+Person 3 is not on any detected surface
+Person 4 is not on any detected surface
+Person 5 is not on any detected surface
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 9)
+Labels: [road 0 0.79, sidewalk 1 0.31]
+Person Labels: [person 0 0.67, person 1 0.65, person 2 0.63, person 3 0.51, person 4 0.40, person 5 0.39, person 6 0.34, person 7 0.32, person 8 0.28]
+
+INFO of 0005:
+road 0 is at middle_down
+person 0 is at right_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.99065820394561]
+person 1 is at right_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.9888725267206]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99258601319453]
+Person 0 is on the road 0,his/her bbox is [1464.9961  632.0057 1528.1875  727.5109]
+Person 1 is on the road 0,his/her bbox is [1383.5889   646.3811  1437.376    776.93665]
+Person 2 is on the road 0,his/her bbox is [268.93106 664.59155 298.8326  712.9031 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 13)
+Labels: [road 0 0.57]
+Person Labels: [person 0 0.70, person 1 0.62, person 2 0.59, person 3 0.58, person 4 0.50, person 5 0.39, person 6 0.33, person 7 0.29, person 8 0.29, person 9 0.29, person 10 0.28, person 11 0.27, person 12 0.26]
+
+INFO of 0006:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] from person 0 to our dashcam is: [very close,-89.99296547277963]
+person 1 is at right_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.99236587087832]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98449503587727]
+Person 0 is on the road 0,his/her bbox is [227.46402 656.43787 267.35672 747.2274 ]
+Person 1 is on the road 0,his/her bbox is [1584.7592   606.091   1648.4833   814.27277]
+Person 2 is on the road 0,his/her bbox is [624.1323  685.16565 649.27075 763.6383 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 6)
+Labels: [road 0 0.49]
+Person Labels: [person 0 0.73, person 1 0.62, person 2 0.62, person 3 0.61, person 4 0.52, person 5 0.28]
+
+INFO of 0007:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] from person 0 to our dashcam is: [very close,-89.99336139621396]
+person 1 is at right_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.9936153857751]
+person 2 is at right_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.99215887641698]
+Person 0 is on the road 0,his/her bbox is [186.78958 668.5995  223.03409 769.6998 ]
+Person 1 is on the road 0,his/her bbox is [1705.9092  594.7339 1784.3442  832.7887]
+Person 2 is on the road 0,his/her bbox is [1567.8595  625.4367 1630.7152  793.3532]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 9)
+Labels: [road 0 0.61]
+Person Labels: [person 0 0.79, person 1 0.68, person 2 0.65, person 3 0.65, person 4 0.57, person 5 0.43, person 6 0.32, person 7 0.30, person 8 0.27]
+
+INFO of 0008:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+person 0 is at left_down
+The [distance,angle] from person 0 to our dashcam is: [very close,-89.9937052129371]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99413951983986]
+person 2 is at right_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.99321324709761]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98534218009172]
+person 4 is at middle_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.98423694290393]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.99131593435072]
+Person 0 is on the road 0, sidewalk 1,his/her bbox is [142.65933 650.54913 184.6796  757.67426]
+Person 1 is on the road 0, sidewalk 1,his/her bbox is [ 90.686646 636.00757  118.62378  719.73804 ]
+Person 2 is on the road 0, sidewalk 1,his/her bbox is [1668.414    614.89124 1728.7965   716.0073 ]
+Person 3 is on the road 0,his/her bbox is [604.4751  693.5216  631.5581  775.30566]
+Person 4 is on the road 0, sidewalk 1,his/her bbox is [632.4733  704.41956 651.51666 774.18445]
+Person 5 is on the road 0,his/her bbox is [369.39355 668.3336  396.14    734.6432 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 12)
+Labels: [road 0 0.66, sidewalk 1 0.30]
+Person Labels: [person 0 0.77, person 1 0.67, person 2 0.63, person 3 0.63, person 4 0.52, person 5 0.52, person 6 0.40, person 7 0.32, person 8 0.29, person 9 0.29, person 10 0.29, person 11 0.26]
+
+INFO of 0009:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+sidewalk 2 is at left_down
+sidewalk 3 is at left_down
+person 0 is at left_down
+The [distance,angle] from person 0 to our dashcam is: [close,-89.98802899198611]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [close,89.90997266137732]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [close,-89.97221581873896]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98503794580941]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99443507724601]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.99424462406199]
+person 6 is at left_down
+The [distance,angle] from person 6 to our dashcam is: [very close,-89.99331194724948]
+person 7 is at left_down
+The [distance,angle] from person 7 to our dashcam is: [very close,-89.99469762763879]
+person 8 is at left_down
+The [distance,angle] from person 8 to our dashcam is: [very close,-89.9917159197481]
+person 9 is at left_down
+The [distance,angle] from person 9 to our dashcam is: [very close,-89.98772747833672]
+person 10 is at left_down
+The [distance,angle] from person 10 to our dashcam is: [very close,-89.99157576243879]
+person 11 is at left_down
+The [distance,angle] from person 11 to our dashcam is: [very close,-89.99471836974027]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [100.37908 635.32446 144.66385 746.24756]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1025.562    645.1663  1117.1582   848.24725]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [585.9738  670.0713  612.3593  758.46814]
+Person 3 is on the road 0, sidewalk 3,his/her bbox is [613.3167 674.8073 636.6241 756.6031]
+Person 4 is on the road 0, sidewalk 3,his/her bbox is [ 45.623108 625.6866    72.83125  707.77203 ]
+Person 5 is on the road 0, sidewalk 3,his/her bbox is [ 78.40114 592.47205  99.66881 655.59155]
+Person 6 is on the sidewalk 3,his/her bbox is [197.69064 582.33997 223.2987  640.0021 ]
+Person 7 is on the sidewalk 3,his/her bbox is [1.2809086e-01 6.4075433e+02 2.9121574e+01 7.2757428e+02]
+Person 8 is on the road 0, sidewalk 1, sidewalk 2, sidewalk 3,his/her bbox is [343.59586 648.1002  366.1959  717.2583 ]
+Person 9 is on the road 0, sidewalk 1, sidewalk 2, sidewalk 3,his/her bbox is [546.514   650.66895 556.5828  680.7406 ]
+Person 10 is on the road 0, sidewalk 3,his/her bbox is [349.81015 652.0436  380.1163  718.99976]
+Person 11 is on the sidewalk 3,his/her bbox is [2.8384304e-01 6.9102673e+02 2.1540436e+01 8.0757336e+02]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (12, 4, 12, 12)
+Labels: [road 0 0.38, sidewalk 1 0.27, sidewalk 2 0.25, sidewalk 3 0.25]
+Person Labels: [person 0 0.71, person 1 0.65, person 2 0.63, person 3 0.62, person 4 0.62, person 5 0.45, person 6 0.40, person 7 0.39, person 8 0.32, person 9 0.30, person 10 0.28, person 11 0.28]
+
+INFO of 0010:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.96458821188357]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99426010981661]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99466609249127]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98565109210142]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99178640905706]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98665554646166]
+Person 0 is on the road 0, sidewalk 1,his/her bbox is [1061.492   655.3698 1141.6189  894.7857]
+Person 1 is on the road 0, sidewalk 1,his/her bbox is [ 65.01688  644.01     108.353485 759.22107 ]
+Person 2 is on the road 0, sidewalk 1,his/her bbox is [  6.8409386 632.12976    33.587227  721.17175  ]
+Person 3 is not on any detected surface
+Person 4 is on the road 0,his/her bbox is [335.08588 666.7575  364.31982 737.71906]
+Person 5 is on the road 0, sidewalk 1,his/her bbox is [569.8991 690.9442 598.8178 780.8861]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 12)
+Labels: [road 0 0.77, sidewalk 1 0.37]
+Person Labels: [person 0 0.80, person 1 0.75, person 2 0.60, person 3 0.49, person 4 0.49, person 5 0.48, person 6 0.46, person 7 0.30, person 8 0.27, person 9 0.26, person 10 0.26, person 11 0.26]
+
+INFO of 0011:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.96974658600067]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.9944541625191]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99197858519469]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.9871820048973]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.9862130475883]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98813424835872]
+person 6 is at left_down
+The [distance,angle] from person 6 to our dashcam is: [very close,-89.9936060696411]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1085.7943   655.06085 1165.5885   921.84686]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [ 34.705    655.3758    77.549576 770.9432  ]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [322.38293 676.166   347.7799  749.26733]
+Person 3 is on the road 0,his/her bbox is [553.99316 695.32025 583.8672  794.10504]
+Person 4 is on the road 0,his/her bbox is [583.90283 714.77625 608.9269  791.8733 ]
+Person 5 is not on any detected surface
+Person 6 is on the road 0,his/her bbox is [162.03264 603.23315 190.00185 661.0791 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 7)
+Labels: [road 0 0.68, sidewalk 1 0.28, sidewalk 2 0.26]
+Person Labels: [person 0 0.84, person 1 0.74, person 2 0.67, person 3 0.59, person 4 0.56, person 5 0.39, person 6 0.34]
+
+INFO of 0012:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97405229629578]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99458442649693]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98753262646534]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98667106599484]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99205773083158]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98824767308022]
+person 6 is at left_down
+The [distance,angle] from person 6 to our dashcam is: [very close,-89.9946732445085]
+person 7 is at left_down
+The [distance,angle] from person 7 to our dashcam is: [very close,-89.99368862990974]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1105.6389  656.9138 1200.7329  952.0172]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [ 12.533213 649.1798    56.2386   766.0641  ]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [542.3323  699.1081  573.53186 798.1877 ]
+Person 3 is on the road 0,his/her bbox is [571.0802  711.9949  596.76196 796.71375]
+Person 4 is on the road 0,his/her bbox is [316.81915 676.44147 340.88892 745.0622 ]
+Person 5 is not on any detected surface
+Person 6 is not on any detected surface
+Person 7 is not on any detected surface
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 8)
+Labels: [road 0 0.77, sidewalk 1 0.36, sidewalk 2 0.25]
+Person Labels: [person 0 0.83, person 1 0.68, person 2 0.61, person 3 0.56, person 4 0.44, person 5 0.35, person 6 0.28, person 7 0.27]
+
+INFO of 0013:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97621683885589]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98768604522714]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.9946704731504]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98705479320125]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99207427677358]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98835705039369]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1119.0557  667.8196 1222.4805  986.3069]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [537.0821  714.9371  568.76337 816.17145]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [3.3824158e-01 6.5879395e+02 3.8544991e+01 7.7582507e+02]
+Person 3 is on the road 0,his/her bbox is [559.4389  717.84454 586.1075  813.7828 ]
+Person 4 is not on any detected surface
+Person 5 is not on any detected surface
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 6)
+Labels: [road 0 0.75, sidewalk 1 0.36, sidewalk 2 0.31]
+Person Labels: [person 0 0.85, person 1 0.62, person 2 0.57, person 3 0.57, person 4 0.45, person 5 0.28]
+
+INFO of 0014:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.9780999787806]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98778138246215]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98723342555698]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.99471495028348]
+person 4 is at middle_down
+The [distance,angle] from person 4 to our dashcam is: [very close,89.96539483454741]
+Person 0 is on the road 0, sidewalk 1,his/her bbox is [1135.3256  671.2162 1242.4576 1010.0764]
+Person 1 is on the road 0, sidewalk 1,his/her bbox is [533.91846 714.77704 565.57446 820.79   ]
+Person 2 is on the road 0, sidewalk 1,his/her bbox is [555.0768 733.5629 579.6333 817.5109]
+Person 3 is on the road 0,his/her bbox is [1.6386604e-01 6.5493134e+02 2.2888544e+01 7.7137360e+02]
+Person 4 is on the road 0,his/her bbox is [1096.035    720.72534 1113.6749   735.2372 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 5)
+Labels: [road 0 0.72, sidewalk 1 0.39]
+Person Labels: [person 0 0.87, person 1 0.63, person 2 0.45, person 3 0.43, person 4 0.37]
+
+INFO of 0015:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97882034977458]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98784748945731]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98739805355399]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.99474006829904]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.98796107454103]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.99327980949785]
+person 6 is at left_down
+The [distance,angle] from person 6 to our dashcam is: [very close,-89.99189508258732]
+person 7 is at left_down
+The [distance,angle] from person 7 to our dashcam is: [very close,-89.99386866898577]
+person 8 is at middle_down
+The [distance,angle] from person 8 to our dashcam is: [very close,89.96679795505227]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1142.1727  678.0247 1251.1808 1020.7568]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [525.9049  723.4004  569.12463 826.79663]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [548.8095 742.1981 575.6418 824.8303]
+Person 3 is on the road 0,his/her bbox is [9.5391273e-02 6.7608698e+02 1.3898430e+01 7.6530756e+02]
+Person 4 is on the road 0,his/her bbox is [527.3798  737.97314 559.8663  827.9131 ]
+Person 5 is not on any detected surface
+Person 6 is on the road 0,his/her bbox is [331.3451  690.6703  351.69446 735.1896 ]
+Person 7 is on the road 0,his/her bbox is [128.09848 610.3992  156.78146 671.57837]
+Person 8 is on the road 0,his/her bbox is [1102.6453   723.9182  1119.3079   740.62744]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 9)
+Labels: [road 0 0.68, sidewalk 1 0.34, sidewalk 2 0.28]
+Person Labels: [person 0 0.86, person 1 0.46, person 2 0.41, person 3 0.36, person 4 0.35, person 5 0.33, person 6 0.28, person 7 0.28, person 8 0.28]
+
+INFO of 0016:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97960036997033]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98811258767391]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98749824583163]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,89.96852785395733]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99328360812777]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.99173842984247]
+person 6 is at left_down
+The [distance,angle] from person 6 to our dashcam is: [very close,-89.99199265188705]
+person 7 is at left_down
+The [distance,angle] from person 7 to our dashcam is: [very close,-89.99241327380344]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1151.6272   683.91156 1259.8259  1029.4976 ]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [520.33466 722.2189  556.2974  830.36035]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [544.58014 737.0274  573.4954  827.68024]
+Person 3 is on the road 0,his/her bbox is [1110.2614  723.2576 1128.289   741.3161]
+Person 4 is on the road 0,his/her bbox is [205.18512 686.6346  222.12915 713.3797 ]
+Person 5 is on the road 0, sidewalk 1,his/her bbox is [343.09924 702.2559  363.39508 733.56   ]
+Person 6 is on the road 0,his/her bbox is [324.6748  691.9793  343.29242 718.48505]
+Person 7 is on the road 0,his/her bbox is [291.81046 690.33636 306.7418  715.5451 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 8)
+Labels: [road 0 0.69, sidewalk 1 0.31, sidewalk 2 0.31]
+Person Labels: [person 0 0.87, person 1 0.57, person 2 0.51, person 3 0.49, person 4 0.45, person 5 0.37, person 6 0.34, person 7 0.26]
+
+INFO of 0017:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97966521324103]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98759975644593]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98826479490369]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,89.9697556324995]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99327007503135]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.99206126617104]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1154.7794   678.69617 1258.2408  1020.0333 ]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [541.44543 740.17786 570.0654  827.4907 ]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [515.1401  724.1713  550.5534  831.03217]
+Person 3 is on the road 0, sidewalk 1,his/her bbox is [1116.2134   723.7852  1135.2686   741.15265]
+Person 4 is on the road 0,his/her bbox is [206.05312 684.9285  224.26277 712.7602 ]
+Person 5 is not on any detected surface
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 6)
+Labels: [road 0 0.70, sidewalk 1 0.28, sidewalk 2 0.25]
+Person Labels: [person 0 0.86, person 1 0.58, person 2 0.56, person 3 0.51, person 4 0.47, person 5 0.27]
+
+INFO of 0018:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.9779122586773]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98822542394227]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99325891164173]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.99396277599085]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.98779608179073]
+Person 0 is on the road 0, sidewalk 1,his/her bbox is [1133.3169   687.69104 1240.5757  1019.10706]
+Person 1 is on the road 0, sidewalk 1,his/her bbox is [511.32635 722.56726 557.2237  831.4414 ]
+Person 2 is on the road 0, sidewalk 1,his/her bbox is [207.96475 685.9256  224.81808 711.64667]
+Person 3 is on the road 0, sidewalk 1,his/her bbox is [112.80119 607.2725  146.59084 678.7099 ]
+Person 4 is on the road 0,his/her bbox is [536.6618  742.58844 561.84283 827.9887 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 5)
+Labels: [road 0 0.68, sidewalk 1 0.30]
+Person Labels: [person 0 0.85, person 1 0.52, person 2 0.35, person 3 0.28, person 4 0.27]
+
+INFO of 0019:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.9760029853545]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98838961377002]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.9878419196829]
+Person 0 is on the road 0,his/her bbox is [1117.7823   688.4474  1219.9972  1009.94165]
+Person 1 is on the road 0,his/her bbox is [510.0614  721.2446  546.44775 831.4232 ]
+Person 2 is on the road 0,his/her bbox is [534.1141  741.07336 561.2934  828.0591 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 5)
+Labels: [road 0 0.64]
+Person Labels: [person 0 0.84, person 1 0.55, person 2 0.45, person 3 0.29, person 4 0.28]
+
+INFO of 0020:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at right_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97549234512226]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98848306036007]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98790572957613]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1116.0067   688.2108  1213.068    991.08215]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [506.828  720.0752 542.6749 831.5802]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [532.39545 739.06494 558.66144 828.55176]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 3)
+Labels: [road 0 0.65, sidewalk 1 0.27, sidewalk 2 0.25]
+Person Labels: [person 0 0.83, person 1 0.59, person 2 0.51]
+
+INFO of 0021:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97489532692273]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99471951082363]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98787432213967]
+Person 0 is on the road 0,his/her bbox is [1119.6975   696.16455 1199.6489   984.6692 ]
+Person 1 is on the road 0,his/her bbox is [1.7683983e-01 6.7578131e+02 2.1237255e+01 7.9877179e+02]
+Person 2 is on the road 0,his/her bbox is [531.5927  738.24176 561.61127 828.38715]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 7)
+Labels: [road 0 0.63]
+Person Labels: [person 0 0.87, person 1 0.60, person 2 0.52, person 3 0.47, person 4 0.36, person 5 0.27, person 6 0.27]
+
+INFO of 0022:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97173290283894]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99469479342747]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98796947766466]
+Person 0 is on the road 0,his/her bbox is [1085.7294   693.63776 1188.9396   969.8482 ]
+Person 1 is on the road 0,his/her bbox is [2.6106644e-01 6.7455017e+02 2.9998697e+01 7.9823511e+02]
+Person 2 is on the road 0,his/her bbox is [531.46533 738.3248  555.1991  828.2737 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 9)
+Labels: [road 0 0.66]
+Person Labels: [person 0 0.84, person 1 0.73, person 2 0.58, person 3 0.40, person 4 0.36, person 5 0.34, person 6 0.30, person 7 0.28, person 8 0.25]
+
+INFO of 0023:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97141952026426]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99461423637564]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98798110274717]
+Person 0 is on the road 0,his/her bbox is [1089.003    698.7168  1181.777    956.45447]
+Person 1 is on the road 0,his/her bbox is [  8.371754 682.5315    50.15362  798.77234 ]
+Person 2 is on the road 0,his/her bbox is [530.1426 741.2816 555.7158 830.6848]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 9)
+Labels: [road 0 0.64]
+Person Labels: [person 0 0.83, person 1 0.72, person 2 0.56, person 3 0.50, person 4 0.34, person 5 0.34, person 6 0.29, person 7 0.27, person 8 0.26]
+
+INFO of 0024:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97080690620062]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99453463441495]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.97671998616266]
+Person 0 is on the road 0,his/her bbox is [1088.9978   704.08344 1174.4211   951.82294]
+Person 1 is on the road 0,his/her bbox is [ 26.740587 677.8406    58.896797 797.6112  ]
+Person 2 is on the road 0,his/her bbox is [1162.8839   718.652   1187.7628   747.46533]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 6)
+Labels: [road 0 0.64]
+Person Labels: [person 0 0.77, person 1 0.76, person 2 0.59, person 3 0.52, person 4 0.38, person 5 0.29]
+
+INFO of 0025:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.96889552020043]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99449889381867]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.97729357803975]
+Person 0 is on the road 0,his/her bbox is [1073.9132   695.99054 1168.4025   938.34955]
+Person 1 is on the road 0,his/her bbox is [ 30.809792 678.13385   66.745415 793.4516  ]
+Person 2 is on the road 0,his/her bbox is [1166.7081   714.89905 1194.8173   746.23584]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 6)
+Labels: [road 0 0.65]
+Person Labels: [person 0 0.78, person 1 0.77, person 2 0.47, person 3 0.31, person 4 0.28, person 5 0.27]
+
+INFO of 0026:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.96761874430013]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99444003833496]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99116508463509]
+Person 0 is on the road 0,his/her bbox is [1071.6326  693.4338 1157.9744  928.2415]
+Person 1 is on the road 0,his/her bbox is [ 35.350174 674.79926   81.49669  791.34503 ]
+Person 2 is on the road 0,his/her bbox is [345.83112 557.8346  439.41412 656.3755 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 5)
+Labels: [road 0 0.69]
+Person Labels: [person 0 0.79, person 1 0.73, person 2 0.42, person 3 0.38, person 4 0.34]
+
+INFO of 0027:
+road 0 is at middle_down
+road 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.96335279895409]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.87132829137826]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.977411983236]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,89.6948838416645]
+person 4 is at middle_down
+The [distance,angle] from person 4 to our dashcam is: [very close,89.68882623701676]
+Person 0 is on the road 0, road 1,his/her bbox is [1054.7141   692.3669  1138.8528   921.06256]
+Person 1 is on the road 0, road 1,his/her bbox is [908.8268 729.0692 933.2583 809.4436]
+Person 2 is on the road 0, road 1,his/her bbox is [1167.5619   703.2721  1196.278    739.98083]
+Person 3 is on the road 0, road 1,his/her bbox is [967.60864 688.58124 985.2489  712.2839 ]
+Person 4 is on the road 0, road 1,his/her bbox is [964.4563  689.0669  987.7616  738.68176]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 5)
+Labels: [road 0 0.45, road 1 0.29]
+Person Labels: [person 0 0.78, person 1 0.50, person 2 0.48, person 3 0.33, person 4 0.26]
+
+INFO of 0028:
+road 0 is at middle_down
+road 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.95683259816451]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.90096491831584]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.977276816677]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.97931265234435]
+Person 0 is on the road 0, road 1,his/her bbox is [1035.0068  684.5757 1117.2393  912.1952]
+Person 1 is on the road 0, road 1,his/her bbox is [897.0293  720.00745 921.7394  806.8972 ]
+Person 2 is on the road 0, road 1,his/her bbox is [1165.4003  701.781  1195.7994  740.7223]
+Person 3 is on the road 0, road 1,his/her bbox is [711.35693 711.3299  724.025   740.7171 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 4)
+Labels: [road 0 0.50, road 1 0.26]
+Person Labels: [person 0 0.81, person 1 0.58, person 2 0.56, person 3 0.33]
+
+INFO of 0029:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.94881035396226]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98991146780143]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.97714102800677]
+Person 0 is on the road 0,his/her bbox is [1019.7171   694.14404 1096.1322   915.98193]
+Person 1 is on the road 0,his/her bbox is [444.00812 704.23474 482.24353 825.2744 ]
+Person 2 is on the road 0,his/her bbox is [1164.78     706.47815 1193.7988   745.8341 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 9)
+Labels: [road 0 0.58]
+Person Labels: [person 0 0.75, person 1 0.63, person 2 0.60, person 3 0.59, person 4 0.36, person 5 0.35, person 6 0.34, person 7 0.34, person 8 0.28]
+
+INFO of 0030:
+road 0 is at middle_down
+road 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.94062268959122]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99466036905942]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.9901864502846]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,89.97771338494458]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.98956684689227]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.92375271870152]
+Person 0 is on the road 0, road 1,his/her bbox is [1005.5309  688.5441 1083.3124  911.7247]
+Person 1 is on the road 0, road 1,his/her bbox is [2.2402573e-01 6.5931525e+02 4.2218811e+01 7.7720343e+02]
+Person 2 is on the road 0, road 1,his/her bbox is [430.1405  695.6874  468.26562 820.76184]
+Person 3 is on the road 0, road 1,his/her bbox is [1169.8931  699.6294 1199.9492  738.6018]
+Person 4 is on the road 0, road 1,his/her bbox is [463.52408 717.95624 495.5524  816.664  ]
+Person 5 is on the road 0, road 1,his/her bbox is [880.0567 709.8414 908.4572 807.6027]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 13)
+Labels: [road 0 0.48, road 1 0.27]
+Person Labels: [person 0 0.77, person 1 0.69, person 2 0.62, person 3 0.61, person 4 0.60, person 5 0.58, person 6 0.35, person 7 0.31, person 8 0.28, person 9 0.26, person 10 0.25, person 11 0.25, person 12 0.25]
+
+INFO of 0031:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.9264796600262]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.97848351805524]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99042608090814]
+Person 0 is on the road 0,his/her bbox is [ 985.63806  674.99036 1070.725    902.3351 ]
+Person 1 is on the road 0,his/her bbox is [1178.4302   691.07697 1207.5132   729.8536 ]
+Person 2 is on the road 0,his/her bbox is [415.90756 684.3269  456.92856 813.6886 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 11)
+Labels: [road 0 0.49]
+Person Labels: [person 0 0.76, person 1 0.71, person 2 0.66, person 3 0.64, person 4 0.59, person 5 0.52, person 6 0.46, person 7 0.33, person 8 0.31, person 9 0.30, person 10 0.27]
+
+INFO of 0032:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.91380469363223]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99465171487105]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.91938042324364]
+Person 0 is on the road 0,his/her bbox is [ 978.38696  680.1846  1057.924    907.4275 ]
+Person 1 is on the road 0,his/her bbox is [6.8635941e-01 6.5875195e+02 4.4794598e+01 7.8103064e+02]
+Person 2 is on the road 0,his/her bbox is [879.9834 712.6309 915.6615 810.1143]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 12)
+Labels: [road 0 0.50]
+Person Labels: [person 0 0.77, person 1 0.69, person 2 0.66, person 3 0.60, person 4 0.60, person 5 0.49, person 6 0.42, person 7 0.38, person 8 0.36, person 9 0.35, person 10 0.33, person 11 0.25]
+
+INFO of 0033:
+road 0 is at middle_down
+road 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.89404989671334]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.98063320250999]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99459784768858]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.99098344529682]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99044475505531]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.9171210003644]
+Person 0 is on the road 0, road 1,his/her bbox is [ 962.6471   684.2024  1051.9772   915.25684]
+Person 1 is on the road 0, road 1,his/her bbox is [1200.5189  693.4088 1237.1434  733.4702]
+Person 2 is on the road 0, road 1,his/her bbox is [ 13.280487 657.40344   50.892105 786.1482  ]
+Person 3 is on the road 0, road 1,his/her bbox is [381.81857 691.0187  426.2864  828.53906]
+Person 4 is on the road 0, road 1,his/her bbox is [416.76364 714.3718  454.02597 824.23413]
+Person 5 is on the road 0, road 1,his/her bbox is [880.4133  723.47107 918.6217  816.86255]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 11)
+Labels: [road 0 0.46, road 1 0.33]
+Person Labels: [person 0 0.78, person 1 0.73, person 2 0.67, person 3 0.63, person 4 0.58, person 5 0.55, person 6 0.48, person 7 0.39, person 8 0.38, person 9 0.37, person 10 0.32]
+
+INFO of 0034:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.88021214803261]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99459385404784]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99075372646685]
+Person 0 is on the road 0,his/her bbox is [ 958.7097  675.6958 1044.9836  909.8436]
+Person 1 is on the road 0,his/her bbox is [3.8919449e-01 6.5768549e+02 6.5154343e+01 7.8951044e+02]
+Person 2 is on the road 0,his/her bbox is [397.72476 711.82623 438.00467 824.04144]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 12)
+Labels: [road 0 0.56]
+Person Labels: [person 0 0.74, person 1 0.69, person 2 0.62, person 3 0.62, person 4 0.61, person 5 0.56, person 6 0.40, person 7 0.34, person 8 0.32, person 9 0.30, person 10 0.26, person 11 0.25]
+
+INFO of 0035:
+road 0 is at middle_down
+road 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.87595499790355]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.98246809706252]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.9915557876154]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.90419180298615]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.991049141212]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98481215875735]
+Person 0 is on the road 0, road 1,his/her bbox is [ 958.9711   678.0379  1041.85     913.25275]
+Person 1 is on the road 0, road 1,his/her bbox is [1226.7107   685.02325 1265.1304   729.858  ]
+Person 2 is on the road 0, road 1,his/her bbox is [342.92633 684.97253 389.81525 831.9568 ]
+Person 3 is on the road 0, road 1,his/her bbox is [885.7699  712.5245  929.58923 823.6403 ]
+Person 4 is on the road 0, road 1,his/her bbox is [381.3093  709.0708  418.6348  826.57324]
+Person 5 is on the road 0, road 1,his/her bbox is [620.2313 689.1103 639.6708 738.3636]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 12)
+Labels: [road 0 0.44, road 1 0.29]
+Person Labels: [person 0 0.71, person 1 0.70, person 2 0.63, person 3 0.62, person 4 0.60, person 5 0.50, person 6 0.49, person 7 0.49, person 8 0.41, person 9 0.38, person 10 0.33, person 11 0.26]
+
+INFO of 0036:
+road 0 is at middle_down
+road 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.8622713348741]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.98343320007444]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99451928599991]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.90622158023216]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.991873154208]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.9913747065081]
+Person 0 is on the road 0, road 1,his/her bbox is [ 951.6842  679.7155 1041.107   920.2276]
+Person 1 is on the road 0, road 1,his/her bbox is [1242.2771   687.12616 1282.8767   733.462  ]
+Person 2 is on the road 0, road 1,his/her bbox is [ 24.322832 655.4311    66.45158  793.87836 ]
+Person 3 is on the road 0, road 1,his/her bbox is [885.8562  715.1899  927.23804 830.168  ]
+Person 4 is on the road 0, road 1,his/her bbox is [318.23276 684.7676  368.14444 836.60095]
+Person 5 is on the road 0, road 1,his/her bbox is [359.16055 708.08307 398.50656 831.5445 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 11)
+Labels: [road 0 0.44, road 1 0.33]
+Person Labels: [person 0 0.70, person 1 0.63, person 2 0.60, person 3 0.57, person 4 0.56, person 5 0.52, person 6 0.44, person 7 0.41, person 8 0.38, person 9 0.30, person 10 0.25]
+
+INFO of 0037:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.81240167823096]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.98413228077209]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.89669150337345]
+Person 0 is on the road 0,his/her bbox is [ 940.99286  674.5834  1032.448    917.0128 ]
+Person 1 is on the road 0,his/her bbox is [1257.5364   681.32367 1294.2786   726.74994]
+Person 2 is on the road 0,his/her bbox is [889.0633  715.2817  933.8929  835.99835]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 13)
+Labels: [road 0 0.42]
+Person Labels: [person 0 0.66, person 1 0.58, person 2 0.58, person 3 0.54, person 4 0.53, person 5 0.43, person 6 0.38, person 7 0.37, person 8 0.36, person 9 0.35, person 10 0.30, person 11 0.26, person 12 0.26]
+
+INFO of 0038:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.82017875661846]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.994437536834]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99246196571765]
+Person 0 is on the road 0,his/her bbox is [ 944.91437  687.19446 1030.8378   931.7499 ]
+Person 1 is on the road 0,his/her bbox is [ 38.63491 666.61945  79.02285 809.50116]
+Person 2 is on the road 0,his/her bbox is [268.76596 690.04193 321.2504  853.6768 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 12)
+Labels: [road 0 0.78]
+Person Labels: [person 0 0.63, person 1 0.58, person 2 0.56, person 3 0.56, person 4 0.53, person 5 0.52, person 6 0.46, person 7 0.34, person 8 0.34, person 9 0.30, person 10 0.26, person 11 0.25]
+
+INFO of 0039:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.83559136209146]
+person 1 is at right_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.98611975815058]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99444835900005]
+Person 0 is on the road 0,his/her bbox is [ 944.7389   682.36865 1036.2399   933.78687]
+Person 1 is on the road 0,his/her bbox is [1296.3914  681.8932 1345.8916  737.3552]
+Person 2 is on the road 0,his/her bbox is [ 35.06079 669.599    79.08355 814.64954]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 10)
+Labels: [road 0 0.72]
+Person Labels: [person 0 0.66, person 1 0.61, person 2 0.59, person 3 0.59, person 4 0.58, person 5 0.57, person 6 0.43, person 7 0.33, person 8 0.30, person 9 0.26]
+
+INFO of 0040:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] from person 0 to our dashcam is: [very close,-89.99441405376861]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.83364319815378]
+person 2 is at right_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.98689168316322]
+Person 0 is on the road 0,his/her bbox is [ 28.776909 683.0869    96.45782  820.56555 ]
+Person 1 is on the road 0,his/her bbox is [ 942.9689   685.7965  1037.2958   934.07056]
+Person 2 is on the road 0,his/her bbox is [1321.5348  684.6631 1363.2821  738.4956]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 11)
+Labels: [road 0 0.71]
+Person Labels: [person 0 0.63, person 1 0.62, person 2 0.60, person 3 0.60, person 4 0.53, person 5 0.52, person 6 0.46, person 7 0.33, person 8 0.32, person 9 0.30, person 10 0.25]
+
+INFO of 0041:
+road 0 is at middle_down
+person 0 is at right_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.98805771331354]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.86420742813796]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.85492499326786]
+Person 0 is on the road 0,his/her bbox is [1351.6101   681.39386 1407.8826   742.59076]
+Person 1 is on the road 0,his/her bbox is [ 950.3865  693.5081 1043.4426  945.9727]
+Person 2 is on the road 0,his/her bbox is [895.45886 726.4206  955.4359  876.1425 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 11)
+Labels: [road 0 0.64]
+Person Labels: [person 0 0.67, person 1 0.67, person 2 0.61, person 3 0.60, person 4 0.59, person 5 0.52, person 6 0.42, person 7 0.40, person 8 0.39, person 9 0.32, person 10 0.32]
+
+INFO of 0042:
+road 0 is at middle_down
+person 0 is at right_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.98889997335459]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.906325760939]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.82557987135331]
+Person 0 is on the road 0,his/her bbox is [1386.9507  676.4704 1436.242   740.2441]
+Person 1 is on the road 0,his/her bbox is [ 967.19867  686.40173 1059.8259   945.7672 ]
+Person 2 is on the road 0,his/her bbox is [896.4966  728.0452  966.0248  885.71686]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 15)
+Labels: [road 0 0.58]
+Person Labels: [person 0 0.71, person 1 0.68, person 2 0.64, person 3 0.55, person 4 0.54, person 5 0.51, person 6 0.33, person 7 0.32, person 8 0.30, person 9 0.30, person 10 0.29, person 11 0.28, person 12 0.27, person 13 0.26, person 14 0.25]
+
+INFO of 0043:
+road 0 is at middle_down
+road 1 is at middle_down
+road 2 is at middle_down
+person 0 is at right_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.98995797674941]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.92323115523733]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.63058735623694]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98404597948007]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.9943536707166]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98321162037834]
+person 6 is at left_down
+The [distance,angle] from person 6 to our dashcam is: [very close,-89.99383258485834]
+person 7 is at middle_down
+The [distance,angle] from person 7 to our dashcam is: [very close,-89.97693294650573]
+person 8 is at left_down
+The [distance,angle] from person 8 to our dashcam is: [very close,-89.99339163748863]
+Person 0 is on the road 0, road 1, road 2,his/her bbox is [1433.5769   673.84955 1484.7739   738.658  ]
+Person 1 is on the road 0, road 1, road 2,his/her bbox is [ 973.91156  688.5728  1076.6813   943.48236]
+Person 2 is on the road 0, road 1, road 2,his/her bbox is [914.12146 723.1975  978.74    890.1808 ]
+Person 3 is on the road 0, road 1, road 2,his/her bbox is [636.7742  707.7717  654.8286  747.12756]
+Person 4 is on the road 0, road 1, road 2,his/her bbox is [ 52.132027 666.88196   92.2963   757.5626  ]
+Person 5 is on the road 0, road 1, road 2,his/her bbox is [654.9944  709.18854 667.83887 744.3261 ]
+Person 6 is on the road 0, road 1, road 2,his/her bbox is [123.106735 671.67236  171.33992  725.70557 ]
+Person 7 is on the road 0, road 1, road 2,his/her bbox is [735.6593  722.09357 749.71814 755.5855 ]
+Person 8 is on the road 0, road 1, road 2,his/her bbox is [191.5018  667.2205  211.41098 698.5159 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 13)
+Labels: [road 0 0.41, road 1 0.32, road 2 0.25]
+Person Labels: [person 0 0.71, person 1 0.70, person 2 0.64, person 3 0.49, person 4 0.47, person 5 0.47, person 6 0.37, person 7 0.33, person 8 0.30, person 9 0.28, person 10 0.28, person 11 0.27, person 12 0.27]
+
+INFO of 0044:
+road 0 is at middle_down
+road 1 is at middle_down
+road 2 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.94625494990066]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.54473114610957]
+person 2 is at right_down
+The [distance,angle] from person 2 to our dashcam is: [very close,89.99114006480053]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [close,-89.96677054371237]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99357465982878]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98269535952922]
+person 6 is at middle_down
+The [distance,angle] from person 6 to our dashcam is: [very close,-89.97660015664474]
+person 7 is at middle_down
+The [distance,angle] from person 7 to our dashcam is: [very close,-89.97615665783479]
+person 8 is at left_down
+The [distance,angle] from person 8 to our dashcam is: [very close,-89.99387851313412]
+Person 0 is on the road 0, road 1, road 2,his/her bbox is [1004.0351   696.56573 1102.5022   967.0085 ]
+Person 1 is on the road 0, road 1, road 2,his/her bbox is [ 933.7228   733.46606 1008.2977   913.76135]
+Person 2 is on the road 0, road 1, road 2,his/her bbox is [1492.6068  677.6604 1558.9435  747.4928]
+Person 3 is on the road 0, road 1, road 2,his/her bbox is [649.3089  714.62537 667.283   755.86365]
+Person 4 is on the road 0, road 1, road 2,his/her bbox is [169.50113 676.2665  190.19824 707.01965]
+Person 5 is on the road 0, road 1, road 2,his/her bbox is [665.2323  720.4675  675.4166  754.21375]
+Person 6 is on the road 0, road 1, road 2,his/her bbox is [734.9729  725.7494  756.5857  766.04065]
+Person 7 is on the road 0, road 1, road 2,his/her bbox is [742.435   725.9584  757.09283 765.5137 ]
+Person 8 is on the road 0, road 1, road 2,his/her bbox is [131.06812 678.0656  151.18234 698.35834]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 12)
+Labels: [road 0 0.36, road 1 0.35, road 2 0.26]
+Person Labels: [person 0 0.72, person 1 0.72, person 2 0.65, person 3 0.47, person 4 0.41, person 5 0.38, person 6 0.36, person 7 0.35, person 8 0.30, person 9 0.27, person 10 0.27, person 11 0.26]
+
+INFO of 0045:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.96610635270484]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.91266555723143]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99371942069344]
+Person 0 is on the road 0,his/her bbox is [1056.4418   691.34625 1159.35     970.8648 ]
+Person 1 is on the road 0,his/her bbox is [ 974.3705   733.0458  1060.4233   928.37976]
+Person 2 is on the road 0,his/her bbox is [133.36993 724.2191  190.36612 912.13794]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 10)
+Labels: [road 0 0.69]
+Person Labels: [person 0 0.67, person 1 0.65, person 2 0.54, person 3 0.52, person 4 0.51, person 5 0.35, person 6 0.33, person 7 0.32, person 8 0.31, person 9 0.27]
+
+INFO of 0046:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.97870575429177]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.95593960762524]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99384573412998]
+Person 0 is on the road 0,his/her bbox is [1135.4353   695.7157  1255.3708  1005.46204]
+Person 1 is on the road 0,his/her bbox is [1039.7344  737.1691 1107.8047  955.1457]
+Person 2 is on the road 0,his/her bbox is [107.127045 730.9286   183.84644  940.25696 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 14)
+Labels: [road 0 0.67]
+Person Labels: [person 0 0.68, person 1 0.67, person 2 0.60, person 3 0.60, person 4 0.58, person 5 0.52, person 6 0.51, person 7 0.46, person 8 0.45, person 9 0.35, person 10 0.34, person 11 0.33, person 12 0.32, person 13 0.28]
+
+INFO of 0047:
+road 0 is at middle_down
+person 0 is at right_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.98612384810242]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.97688952220965]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99431543237542]
+Person 0 is on the road 0,his/her bbox is [1257.3807  686.8207 1385.1151 1044.0701]
+Person 1 is on the road 0,his/her bbox is [1130.6987  738.8383 1223.1072  996.2957]
+Person 2 is on the road 0,his/her bbox is [ 21.163254 733.61597  135.2088   992.07776 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 17)
+Labels: [road 0 0.44]
+Person Labels: [person 0 0.76, person 1 0.74, person 2 0.65, person 3 0.55, person 4 0.47, person 5 0.44, person 6 0.40, person 7 0.38, person 8 0.37, person 9 0.34, person 10 0.32, person 11 0.32, person 12 0.29, person 13 0.29, person 14 0.28, person 15 0.28, person 16 0.27]
+
+INFO of 0048:
+road 0 is at middle_down
+person 0 is at right_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.98528338777666]
+person 1 is at right_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.99079816900584]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.99384196177947]
+Person 0 is on the road 0,his/her bbox is [1251.5281  742.4752 1349.7063 1064.4719]
+Person 1 is on the road 0,his/her bbox is [1432.6987  680.9116 1576.8086 1075.0651]
+Person 2 is on the road 0,his/her bbox is [131.5015  650.78674 160.46991 817.29065]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (3, 1, 3, 16)
+Labels: [road 0 0.65]
+Person Labels: [person 0 0.79, person 1 0.79, person 2 0.56, person 3 0.52, person 4 0.44, person 5 0.39, person 6 0.36, person 7 0.33, person 8 0.32, person 9 0.30, person 10 0.30, person 11 0.27, person 12 0.26, person 13 0.26, person 14 0.25, person 15 0.25]
+
+INFO of 0049:
+road 0 is at middle_down
+road 1 is at middle_down
+road 2 is at middle_down
+sidewalk 3 is at left_down
+sidewalk 4 is at left_down
+person 0 is at right_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.99076945114938]
+person 1 is at right_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.9938544161295]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.9724644580679]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [close,-89.94916410474701]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99439430697964]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,89.9283677315156]
+person 6 is at left_down
+The [distance,angle] from person 6 to our dashcam is: [very close,-89.99338959952652]
+person 7 is at middle_down
+The [distance,angle] from person 7 to our dashcam is: [very close,-89.96660921400075]
+person 8 is at middle_down
+The [distance,angle] from person 8 to our dashcam is: [very close,-89.96470413265482]
+person 9 is at middle_down
+The [distance,angle] from person 9 to our dashcam is: [very close,-89.9707373403995]
+Person 0 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [1426.8535   725.76697 1579.2642  1067.676  ]
+Person 1 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [1650.9591   635.90936 1900.3688   996.1381 ]
+Person 2 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [770.62036 707.04474 785.28796 747.91656]
+Person 3 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [755.34174 706.7818  770.2338  745.2917 ]
+Person 4 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [ 58.16836 643.8913   73.38866 701.5037 ]
+Person 5 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [1023.71674  720.47437 1036.2406   757.34094]
+Person 6 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [189.04857 652.32477 214.33192 685.79083]
+Person 7 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [795.80444 711.24243 823.9492  761.9055 ]
+Person 8 is on the road 0, road 1, road 2, sidewalk 3, sidewalk 4,his/her bbox is [809.35266 706.7567  826.6067  759.2943 ]
+Person 9 is on the road 0, road 1, sidewalk 3, sidewalk 4,his/her bbox is [781.64355 707.1313  795.7539  750.3564 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (15, 5, 15, 10)
+Labels: [road 0 0.38, road 1 0.31, road 2 0.29, sidewalk 3 0.27, sidewalk 4 0.25]
+Person Labels: [person 0 0.72, person 1 0.70, person 2 0.37, person 3 0.37, person 4 0.30, person 5 0.29, person 6 0.28, person 7 0.28, person 8 0.28, person 9 0.27]
+
+INFO of 0050:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+road 2 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [close,-89.95422344170642]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.97269675139283]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.97536122320807]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.97049526622217]
+person 4 is at middle_down
+The [distance,angle] from person 4 to our dashcam is: [very close,89.96174742927218]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.97473037454931]
+Person 0 is on the road 0, sidewalk 1, road 2,his/her bbox is [732.58966 712.6607  749.3931  754.29254]
+Person 1 is on the road 0, sidewalk 1, road 2,his/her bbox is [767.69415 717.43567 785.1165  768.2112 ]
+Person 2 is on the road 0, sidewalk 1, road 2,his/her bbox is [748.25085 712.68726 764.85144 755.775  ]
+Person 3 is on the road 0,his/her bbox is [780.8258  721.3307  799.38257 769.53577]
+Person 4 is on the road 0,his/her bbox is [1081.9766  720.0736 1100.1094  768.1162]
+Person 5 is on the road 0,his/her bbox is [755.9426  713.32263 767.31775 755.3666 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (9, 3, 9, 6)
+Labels: [road 0 0.38, sidewalk 1 0.38, road 2 0.36]
+Person Labels: [person 0 0.48, person 1 0.47, person 2 0.44, person 3 0.39, person 4 0.28, person 5 0.27]
+
+INFO of 0051:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+person 0 is at left_down
+The [distance,angle] from person 0 to our dashcam is: [very close,-89.99433912358428]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.99223943296015]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.9946997244632]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,89.95748695417245]
+person 4 is at middle_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.97611456631819]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98004881256291]
+Person 0 is on the road 0, sidewalk 1,his/her bbox is [ 59.218773 650.84186   89.77236  732.73676 ]
+Person 1 is on the road 0, sidewalk 1,his/her bbox is [303.35947 668.8809  324.7939  738.7248 ]
+Person 2 is on the road 0, sidewalk 1,his/her bbox is [  7.10467  660.832     21.397001 709.863   ]
+Person 3 is on the road 0,his/her bbox is [1067.9257  727.6627 1087.8951  776.3478]
+Person 4 is on the road 0,his/her bbox is [739.59503 727.91473 760.67377 775.89606]
+Person 5 is on the road 0,his/her bbox is [700.2619  716.90936 717.2386  759.5411 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (6, 2, 6, 17)
+Labels: [road 0 0.73, sidewalk 1 0.43]
+Person Labels: [person 0 0.56, person 1 0.51, person 2 0.49, person 3 0.43, person 4 0.40, person 5 0.39, person 6 0.38, person 7 0.34, person 8 0.32, person 9 0.31, person 10 0.30, person 11 0.30, person 12 0.28, person 13 0.27, person 14 0.27, person 15 0.26, person 16 0.26]
+
+INFO of 0052:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+sidewalk 2 is at left_down
+sidewalk 3 is at left_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,-89.9806725484364]
+person 1 is at middle_down
+The [distance,angle] from person 1 to our dashcam is: [very close,89.94708054219271]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98286260822397]
+person 3 is at middle_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.9820283627908]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.99436626896873]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.99325687361332]
+person 6 is at middle_down
+The [distance,angle] from person 6 to our dashcam is: [very close,89.85201929217259]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [690.8543 721.4696 710.4295 776.8036]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1046.3414   727.4517  1063.1061   776.03314]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [659.0671 712.1885 675.9278 756.8983]
+Person 3 is on the sidewalk 3,his/her bbox is [668.86536 712.6572  693.2855  775.1356 ]
+Person 4 is on the sidewalk 3,his/her bbox is [ 62.03701 677.6318   78.42075 720.48627]
+Person 5 is on the sidewalk 3,his/her bbox is [210.77147 676.86554 222.46086 703.1573 ]
+Person 6 is on the road 0, sidewalk 1, sidewalk 2, sidewalk 3,his/her bbox is [988.2453  729.1117  999.503   755.89307]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (12, 4, 12, 7)
+Labels: [road 0 0.79, sidewalk 1 0.33, sidewalk 2 0.27, sidewalk 3 0.26]
+Person Labels: [person 0 0.51, person 1 0.50, person 2 0.49, person 3 0.48, person 4 0.33, person 5 0.27, person 6 0.26]
+
+INFO of 0053:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+sidewalk 2 is at left_down
+sidewalk 3 is at left_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.93068525374268]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98516990337038]
+person 2 is at middle_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98418303060329]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.99433599758152]
+person 4 is at middle_down
+The [distance,angle] from person 4 to our dashcam is: [very close,89.16445103574642]
+person 5 is at left_down
+The [distance,angle] from person 5 to our dashcam is: [very close,-89.98453914534765]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1021.85034  719.5225  1042.7864   773.5286 ]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [611.421   706.41486 632.5576  772.4848 ]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [631.6515  704.48083 654.50635 775.6752 ]
+Person 3 is on the road 0, sidewalk 3,his/her bbox is [ 61.851486 668.52673   88.11708  722.72925 ]
+Person 4 is on the road 0, sidewalk 3,his/her bbox is [960.5474  721.4679  971.4504  750.82947]
+Person 5 is on the road 0, sidewalk 3,his/her bbox is [627.36035 703.7829  644.198   770.8156 ]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (12, 4, 12, 6)
+Labels: [road 0 0.75, sidewalk 1 0.33, sidewalk 2 0.29, sidewalk 3 0.26]
+Person Labels: [person 0 0.57, person 1 0.57, person 2 0.52, person 3 0.33, person 4 0.31, person 5 0.28]
+
+INFO of 0054:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+sidewalk 2 is at left_down
+road 3 is at middle_down
+person 0 is at middle_down
+The [distance,angle] from person 0 to our dashcam is: [very close,89.90899393040839]
+person 1 is at left_down
+The [distance,angle] from person 1 to our dashcam is: [very close,-89.98745199326788]
+person 2 is at left_down
+The [distance,angle] from person 2 to our dashcam is: [very close,-89.98665282476625]
+person 3 is at left_down
+The [distance,angle] from person 3 to our dashcam is: [very close,-89.98623338905749]
+person 4 is at left_down
+The [distance,angle] from person 4 to our dashcam is: [very close,-89.98702326117373]
+person 5 is at middle_down
+The [distance,angle] from person 5 to our dashcam is: [very close,89.74205857847069]
+person 6 is at right_up
+The [distance,angle] from person 6 to our dashcam is: [very close,89.99251812360559]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1004.9817   704.4569  1025.1808   764.95215]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [545.05634 705.5133  575.97516 770.3157 ]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [569.7244 704.6735 599.1457 775.696 ]
+Person 3 is on the road 0, road 3,his/her bbox is [584.8168  696.747   606.9385  750.48895]
+Person 4 is on the road 0, road 3,his/her bbox is [563.32495 702.1647  584.1033  770.2147 ]
+Person 5 is on the road 0, road 3,his/her bbox is [973.0722  714.5072  985.79474 762.2938 ]
+Person 6 is on the road 0, sidewalk 1, sidewalk 2,his/her bbox is [1.3406366e+03 5.4183960e-01 1.9193297e+03 7.3217383e+02]
+number of Surface mask, Road&sidewalk, People 's mask, actural people: (12, 4, 12, 7)
+Labels: [road 0 0.52, sidewalk 1 0.37, sidewalk 2 0.27, road 3 0.26]
+Person Labels: [person 0 0.58, person 1 0.48, person 2 0.47, person 3 0.30, person 4 0.29, person 5 0.25, person 6 0.25]
+
