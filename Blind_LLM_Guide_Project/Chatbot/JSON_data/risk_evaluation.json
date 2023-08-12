@@ -1,42 +1,346 @@
 {
     "Frame0001": {
         "Time": "0.5s",
-        "Text": "Text summary goes here...",
-        "Pedestrian": {}
+        "Text": "The high-risk evaluation for Persons 0, 1, and 2 is due to their position on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. The medium-risk evaluation for Persons 3, 4, and 5 is attributed to their undetected surface and close proximity to the dashcam. Immediate attention to the road situation is recommended.",
+        "Pedestrian": {
+            "0": [
+                "High",
+                [
+                    1148.4463,
+                    625.3968,
+                    1183.7595,
+                    663.28143
+                ]
+            ],
+            "1": [
+                "High",
+                [
+                    1120.0143,
+                    636.9002,
+                    1149.0658,
+                    672.4008
+                ]
+            ],
+            "2": [
+                "High",
+                [
+                    648.042,
+                    667.07153,
+                    665.49365,
+                    719.2749
+                ]
+            ],
+            "3": [
+                "Medium",
+                [
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ],
+            "4": [
+                "Medium",
+                [
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ],
+            "5": [
+                "Medium",
+                [
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ]
+        }
     },
     "Frame0002": {
         "Time": "1.0s",
-        "Text": "Text summary goes here...",
-        "Pedestrian": {}
+        "Text": "The situation in Frame 0002 is more critical compared to the previous frame, as more persons are now detected on the road. The high-risk evaluation for Persons 0 through 4 is due to their positions on the road or sidewalk, very close proximity to the dashcam, and angles near the extremes of the field of view. Person 5, who is not on any detected surface, is considered a medium risk. Immediate and cautious action may be required to avoid a potential collision.",
+        "Pedestrian": {
+            "0": [
+                "High",
+                [
+                    1198.5688,
+                    652.10834,
+                    1241.2085,
+                    755.20197
+                ]
+            ],
+            "1": [
+                "High",
+                [
+                    621.4365,
+                    695.20935,
+                    631.2711,
+                    725.8157
+                ]
+            ],
+            "2": [
+                "High",
+                [
+                    1164.8732,
+                    663.21277,
+                    1198.9618,
+                    754.44324
+                ]
+            ],
+            "3": [
+                "High",
+                [
+                    272.70007,
+                    638.92316,
+                    292.74884,
+                    687.86066
+                ]
+            ],
+            "4": [
+                "High",
+                [
+                    640.6342,
+                    698.09467,
+                    656.5699,
+                    752.0599
+                ]
+            ],
+            "5": [
+                "Medium",
+                [
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ]
+        }
     },
     "Frame0003": {
         "Time": "1.5s",
-        "Text": "Text summary goes here...",
-        "Pedestrian": {}
+        "Text": "The situation in Frame 0003 continues to be critical, with all detected persons on the road and in very close proximity to the vehicle. The negative and positive angles for persons 0, 1, and 2 indicate that they are positioned almost directly to the left or right of the vehicle. The combination of their positions on the road, closeness to the dashcam, and extreme angles results in a high-risk evaluation for all detected persons. Immediate and precise action is necessary to mitigate the risk of collision.",
+        "Pedestrian": {
+            "0": [
+                "High",
+                [
+                    633.53595,
+                    712.7891,
+                    653.9832,
+                    770.7911
+                ]
+            ],
+            "1": [
+                "High",
+                [
+                    1223.1569,
+                    683.0388,
+                    1265.8732,
+                    785.2406
+                ]
+            ],
+            "2": [
+                "High",
+                [
+                    623.22614,
+                    708.7739,
+                    634.92694,
+                    739.9016
+                ]
+            ]
+        }
     },
     "Frame0004": {
         "Time": "2.0s",
-        "Text": "Text summary goes here...",
-        "Pedestrian": {}
+        "Text": "The situation in Frame 0004 maintains the critical nature of the previous frames. Persons 0, 1, and 2 are assessed with a high-risk evaluation due to their location on the road and sidewalk, very close proximity to the dashcam, and angles close to 90 degrees. Persons 3, 4, and 5, who are not on any detected surface, are considered medium risk. Their proximity to the dashcam and negative angles contribute to the risk assessment. Immediate monitoring and decision-making are required to ensure safety.",
+        "Pedestrian": {
+            "0": [
+                "High",
+                [
+                    1354.1584,
+                    638.22577,
+                    1412.2305,
+                    710.695
+                ]
+            ],
+            "1": [
+                "High",
+                [
+                    1293.3057,
+                    651.9293,
+                    1344.2659,
+                    713.5785
+                ]
+            ],
+            "2": [
+                "High",
+                [
+                    629.94415,
+                    689.3527,
+                    650.36127,
+                    750.0545
+                ]
+            ],
+            "3": [
+                "Medium",
+                [
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ],
+            "4": [
+                "Medium",
+                [
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ],
+            "5": [
+                "Medium",
+                [
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ]
+        }
     },
     "Frame0005": {
         "Time": "2.5s",
-        "Text": "Text summary goes here...",
-        "Pedestrian": {}
+        "Text": "The situation in Frame 0005 is consistent with previous frames, with all detected persons located on the road and in very close proximity to the vehicle. The positive and negative angles for persons 0, 1, and 2 indicate that they are positioned almost directly to the right or left of the vehicle. This, combined with their positions on the road and closeness to the dashcam, results in a high-risk evaluation for all detected persons. The absence of additional information about sidewalks or other surfaces may further complicate the situation. Immediate and cautious action is likely required to avoid potential collisions.",
+        "Pedestrian": {
+            "0": [
+                "High",
+                [
+                    1464.9961,
+                    632.0057,
+                    1528.1875,
+                    727.5109
+                ]
+            ],
+            "1": [
+                "High",
+                [
+                    1383.5889,
+                    646.3811,
+                    1437.376,
+                    776.93665
+                ]
+            ],
+            "2": [
+                "High",
+                [
+                    268.93106,
+                    664.59155,
+                    298.8326,
+                    712.9031
+                ]
+            ]
+        }
     },
     "Frame0006": {
         "Time": "3.0s",
-        "Text": "Text summary goes here...",
-        "Pedestrian": {}
+        "Text": "The analysis of Frame 0006 reflects a consistent pattern from previous frames. All detected persons are located on the road and in very close proximity to the vehicle. The negative and positive angles for persons 0, 1, and 2 indicate that they are positioned almost directly to the left or right of the vehicle. These factors, combined with their positions on the road and closeness to the dashcam, continue to result in a high-risk evaluation for all detected persons. The critical nature of the situation persists, and immediate and appropriate action is required to ensure safety on the road.",
+        "Pedestrian": {
+            "0": [
+                "High",
+                [
+                    227.46402,
+                    656.43787,
+                    267.35672,
+                    747.2274
+                ]
+            ],
+            "1": [
+                "High",
+                [
+                    1584.7592,
+                    606.091,
+                    1648.4833,
+                    814.27277
+                ]
+            ],
+            "2": [
+                "High",
+                [
+                    624.1323,
+                    685.16565,
+                    649.27075,
+                    763.6383
+                ]
+            ]
+        }
     },
     "Frame0008": {
         "Time": "4.0s",
-        "Text": "Text summary goes here...",
-        "Pedestrian": {}
+        "Text": "Frame 0008 exhibits a complex and critical scenario where all detected persons are on the road or sidewalk and in close proximity to the vehicle. The negative and positive angles for the persons indicate that they are positioned almost directly to the left or right of the vehicle. The combination of these factors leads to a high-risk evaluation for all detected persons. Immediate and well-calculated actions are required to ensure safety and mitigate the risk of potential collisions.",
+        "Pedestrian": {
+            "0": [
+                "High",
+                [
+                    142.65933,
+                    650.54913,
+                    184.6796,
+                    757.67426
+                ]
+            ],
+            "1": [
+                "High",
+                [
+                    90.686646,
+                    636.00757,
+                    118.62378,
+                    719.73804
+                ]
+            ],
+            "2": [
+                "High",
+                [
+                    1668.414,
+                    614.89124,
+                    1728.7965,
+                    716.0073
+                ]
+            ],
+            "3": [
+                "High",
+                [
+                    604.4751,
+                    693.5216,
+                    631.5581,
+                    775.30566
+                ]
+            ],
+            "4": [
+                "High",
+                [
+                    632.4733,
+                    704.41956,
+                    651.51666,
+                    774.18445
+                ]
+            ],
+            "5": [
+                "High",
+                [
+                    369.39355,
+                    668.3336,
+                    396.14,
+                    734.6432
+                ]
+            ]
+        }
     },
     "Frame0009": {
         "Time": "4.5s",
-        "Text": "Text summary goes here...",
+        "Text": "This frame necessitates highly attentive monitoring and decision-making to safely navigate the crowded environment and mitigate the risk of collisions or other incidents. Proper consideration of pedestrians' intentions and potential movements is crucial in this scenario.",
         "Pedestrian": {}
     }
 }
