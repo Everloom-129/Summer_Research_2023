@@ -4,7 +4,7 @@ I now have the following data obtained from dashcam video.
   Upper left, upper middle, upper right, lower left, lower middle, lower right
 - the angles are measured with respect to the image plane, which serves as a parallel plane to the dashcam lens. Analyzing these angles provides insights into the spatial relationships between the vehicle and pedestrians.  
 
-your output should be in markdown format, as below:
+your output should be in markdown format, for example:
 ### Frame 0002 Analysis
 
 **Summary of Key Frame Information:**
