@@ -1,0 +1,60 @@
+Video file: video_0001.mp4
+Resolution: 1920x1080
+Number of frames: 600
+Frames per second: 29.97002997002997
+Duration (seconds): 20.02
+
+Video file: video_0310.mp4
+Resolution: 1920x1080
+Number of frames: 150
+Frames per second: 30.0
+Duration (seconds): 5.0
+
+Video file: video_0194.mp4
+Resolution: 1920x1080
+Number of frames: 540
+Frames per second: 30.0
+Duration (seconds): 18.0
+
+Video file: video_0343.mp4
+Resolution: 1920x1080
+Number of frames: 720
+Frames per second: 30.0
+Duration (seconds): 24.0
+
+Video file: video_0003.mp4
+Resolution: 1920x1080
+Number of frames: 210
+Frames per second: 29.97002997002997
+Duration (seconds): 7.007000000000001
+
+Video file: video_0333.mp4
+Resolution: 1920x1080
+Number of frames: 210
+Frames per second: 30.0
+Duration (seconds): 7.0
+
+Video file: video_0313.mp4
+Resolution: 1920x1080
+Number of frames: 600
+Frames per second: 30.0
+Duration (seconds): 20.0
+
+Video file: video_0055.mp4
+Resolution: 1920x1080
+Number of frames: 210
+Frames per second: 29.97002997002997
+Duration (seconds): 7.007000000000001
+
+Video file: video_0056.mp4
+Resolution: 1920x1080
+Number of frames: 270
+Frames per second: 29.97002997002997
+Duration (seconds): 9.009
+
+Video file: video_0057.mp4
+Resolution: 1920x1080
+Number of frames: 240
+Frames per second: 29.97002997002997
+Duration (seconds): 8.008000000000001
+

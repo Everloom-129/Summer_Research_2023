@@ -1,0 +1,90 @@
+Video file: b1c9c847-3bda4659.mov
+Resolution: 1280x720
+Number of frames: 1208
+Frames per second: 29.97002997002997
+Duration (seconds): 40.30693333333333
+
+Video file: b1d10d08-c35503b8.mov
+Resolution: 1280x720
+Number of frames: 1202
+Frames per second: 29.97002997002997
+Duration (seconds): 40.10673333333333
+
+Video file: b1d22ed6-f1cac061.mov
+Resolution: 1280x720
+Number of frames: 1214
+Frames per second: 59.94005994005994
+Duration (seconds): 20.253566666666668
+
+Video file: b1dac7f7-6b2e0382.mov
+Resolution: 1280x720
+Number of frames: 1203
+Frames per second: 29.97002997002997
+Duration (seconds): 40.140100000000004
+
+Video file: b1f4491b-33824f31.mov
+Resolution: 1280x720
+Number of frames: 1204
+Frames per second: 30.0
+Duration (seconds): 40.13333333333333
+
+Video file: b1f4491b-9958bd99.mov
+Resolution: 1280x720
+Number of frames: 1207
+Frames per second: 29.97002997002997
+Duration (seconds): 40.27356666666667
+
+Video file: b2ae0446-4b0bfda7.mov
+Resolution: 1280x720
+Number of frames: 1211
+Frames per second: 59.94005994005994
+Duration (seconds): 20.203516666666665
+
+Video file: b2be7200-b6f7fe0a.mov
+Resolution: 1280x720
+Number of frames: 1206
+Frames per second: 29.97002997002997
+Duration (seconds): 40.2402
+
+Video file: b2bee3e1-80c787bd.mov
+Resolution: 1280x720
+Number of frames: 1205
+Frames per second: 29.97002997002997
+Duration (seconds): 40.206833333333336
+
+Video file: b2d22b2f-8302eb61.mov
+Resolution: 1280x720
+Number of frames: 1209
+Frames per second: 29.97002997002997
+Duration (seconds): 40.3403
+
+Video file: b2d502aa-f0b28e3e.mov
+Resolution: 1280x720
+Number of frames: 1259
+Frames per second: 29.97002997002997
+Duration (seconds): 42.008633333333336
+
+Video file: b4542860-0b880bb4.mov
+Resolution: 1280x720
+Number of frames: 1200
+Frames per second: 29.97002997002997
+Duration (seconds): 40.04
+
+Video file: cd09a73f-5f6b9212.mov
+Resolution: 1280x720
+Number of frames: 1213
+Frames per second: 29.97002997002997
+Duration (seconds): 40.47376666666667
+
+Video file: cd17ff29-f393274e.mov
+Resolution: 1280x720
+Number of frames: 1209
+Frames per second: 59.94005994005994
+Duration (seconds): 20.17015
+
+Video file: cd26264b-22001629.mov
+Resolution: 1280x720
+Number of frames: 1208
+Frames per second: 29.97002997002997
+Duration (seconds): 40.30693333333333
+
