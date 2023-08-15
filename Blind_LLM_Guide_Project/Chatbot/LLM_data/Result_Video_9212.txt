@@ -1,0 +1,723 @@
+### Frame 0002 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Position:** Car 0 is located in the middle-down region of the frame.
+
+**People Positions and Distances:**
+- **Person 0:** Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1.
+- **Person 1:** Located at left-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1.
+- **Person 2:** Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1.
+- **Person 3:** Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+- **Person 4:** Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0.
+- **Person 5:** Located at middle-down, very close to the dashcam, with an angle of -89.92 degrees. Not on any detected surface.
+
+**Potential Risks:**
+- **Persons on Road and Sidewalk:** Persons 0, 1, 2, 3, and 4 are on the road or sidewalk, posing a potential risk of collision.
+- **Close Proximity to Dashcam:** All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+- **Non-Detected Surfaces:** Person 5 is not on any detected surface, which could indicate an unexpected position or movement pattern.
+
+**Risk Evaluation:**
+- **Person 0:** High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+- **Person 1:** High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+- **Person 2:** High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+- **Person 3:** High (on road, very close to the dashcam, negative angle)
+- **Person 4:** High (on road, very close to the dashcam, negative angle)
+- **Person 5:** Medium (not on any detected surface, very close to the dashcam, negative angle)
+
+The situation in Frame 0002 is more critical compared to the previous frame, as more persons are now detected on the road. The high-risk evaluation for Persons 0 through 4 is due to their positions on the road or sidewalk, very close proximity to the dashcam, and angles near the extremes of the field of view. Person 5, who is not on any detected surface, is considered a medium risk. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0003 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:**
+  - Sidewalk 1 is located in the right-down region of the frame.
+  - Sidewalk 2 is located in the right-down region of the frame.
+  - Sidewalk 3 is located in the right-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at middle-down, with an unknown distance. On road 0, sidewalk 1, sidewalk 2. Bounding box coordinates: [576.9507, 348.54663, 596.1223, 398.55707].
+- **Car Positions:**
+  - **Car 1:** Located at middle-down, with bounding box coordinates [461.78192, 353.0229, 580.4268, 454.0213].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road and sidewalks 1 and 2, posing a potential risk of collision.
+- **Close Proximity to Dashcam:** Person 0 is located at middle-down, indicating a potentially crowded and dangerous situation.
+- **Car on Road:** Car 1 is on the road, which may pose a risk to pedestrians.
+
+**Risk Evaluation:**
+- **Person 0:** Medium (on road and sidewalks, unknown distance)
+- **Car 1:** Low (on road)
+
+The situation in Frame 0003 indicates a potential risk due to the presence of Person 0 on the road and sidewalks. However, since the distance of Person 0 is unknown, the risk evaluation is considered medium. Car 1, being on the road, poses a low risk to pedestrians. Caution should be exercised to ensure the safety of both pedestrians and vehicles.
+### Frame 0004 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at middle-down, close to the dashcam, straight ahead. On road 0, sidewalk 1. Bounding box coordinates: [602.2639, 354.6152, 625.58984, 408.15714].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road and sidewalk, posing a potential risk of collision.
+
+**Risk Evaluation:**
+- **Person 0:** Medium (on road and sidewalk, close to the dashcam, straight ahead)
+
+The situation in Frame 0004 indicates a potential risk due to Person 0 being on both the road and sidewalk. The person is close to the dashcam and positioned straight ahead. Immediate attention and caution are advised to avoid a potential collision.
+### Frame 0005 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** The sidewalks (sidewalk 1, sidewalk 2) are located in the right-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at middle-down, close to the dashcam, straight ahead. On road 0, sidewalk 1, sidewalk 2.
+- **Car Positions:**
+  - **Car 1:** Located at middle-down, with bounding box coordinates [482.8484, 354.21716, 609.43005, 465.15356].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road and sidewalks, posing a potential risk of collision.
+- **Close Proximity to Dashcam:** Person 0 is close to the dashcam, indicating a potentially dangerous situation.
+- **Car Proximity:** Car 1 is present in the middle-down region, which may pose a risk to pedestrians.
+
+**Risk Evaluation:**
+- **Person 0:** High (on road and sidewalks, close to the dashcam, straight ahead)
+- **Car 1:** Medium (presence in the middle-down region)
+
+The situation in Frame 0005 indicates a potential risk due to the presence of Person 0 on the road and sidewalks. The high-risk evaluation is based on their position, close proximity to the dashcam, and the fact that they are straight ahead. Additionally, the presence of Car 1 in the middle-down region poses a medium risk to pedestrians. Caution should be exercised to avoid any potential collisions.
+### Frame 0006 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** The sidewalks (sidewalk 1 and sidewalk 2) are located in the right-down region of the frame.
+- **Road Position:** The road (road 3) is also located in the middle-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at middle-down, straight ahead, at a medium distance from the dashcam. On road 0, sidewalk 1, sidewalk 2, and road 3. The bounding box coordinates are [659.7143, 350.23883, 688.3692, 420.0204].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on multiple surfaces, including road 0, sidewalk 1, sidewalk 2, and road 3, which poses a potential risk of collision.
+- **Close Proximity to Dashcam:** Person 0 is at a medium distance from the dashcam, indicating a potential risk of collision.
+- **Multiple Surface Occupancy:** Person 0 being present on multiple surfaces simultaneously may indicate unpredictable movement patterns.
+
+**Risk Evaluation:**
+- **Person 0:** Medium (on multiple surfaces, medium distance from the dashcam)
+
+The situation in Frame 0006 indicates a potential risk due to Person 0 being present on multiple surfaces (road and sidewalks) simultaneously. Additionally, their medium distance from the dashcam suggests a need for caution. Immediate attention and careful monitoring of Person 0's movements are recommended to avoid any potential collisions.
+### Frame 0007 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** The sidewalks (sidewalk 1, sidewalk 2) are located in the right-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at middle-down, slightly to the right, with a medium distance. On road 0, sidewalk 1, sidewalk 2. Bounding box coordinates: [695.6095, 343.025, 730.77734, 424.40683].
+- **Car Positions:**
+  - **Car 1:** Located at middle-down. Bounding box coordinates: [499.78754, 357.0998, 639.20026, 478.8448].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road (road 0) and sidewalks (sidewalk 1, sidewalk 2), posing a potential risk of collision.
+- **Close Proximity to Dashcam:** Person 0 is very close to the dashcam, indicating a potentially dangerous situation.
+- **Car on Road:** Car 1 is on the road, which may pose a risk to pedestrians.
+
+**Risk Evaluation:**
+- **Person 0:** Medium (on road and sidewalks, slightly to the right, medium distance)
+- **Car 1:** Low (on road)
+
+The situation in Frame 0007 indicates a potential risk due to the presence of Person 0 on the road and sidewalks. The medium-risk evaluation for Person 0 is based on their position on the road and sidewalks, being slightly to the right, and at a medium distance. Car 1, being on the road, poses a low risk to pedestrians. Caution should be exercised to ensure the safety of both pedestrians and vehicles.
+### Frame 0008 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** The sidewalks (sidewalk 1, sidewalk 2) are located in the right-down region of the frame.
+- **Person 0 Position and Distance:**
+  - **Person 0:** Located at middle-down, slightly to the right, with a medium distance. On road 0, sidewalk 1, sidewalk 2. Bounding box coordinates: [738.61, 341.58, 788.84, 441.68].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road and sidewalks, posing a potential risk of collision.
+- **Close Proximity to Dashcam:** Person 0 is very close to the dashcam, indicating a potentially dangerous situation.
+
+**Risk Evaluation:**
+- **Person 0:** Medium (on road and sidewalks, slightly to the right, medium distance)
+
+The situation in Frame 0008 indicates a potential risk due to Person 0 being on the road and sidewalks. The medium-risk evaluation is based on their position slightly to the right, medium distance, and close proximity to the dashcam. Caution should be exercised to avoid a potential collision.
+### Frame 0009 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at middle-down, with a medium distance to the right of the dashcam. On road 0, sidewalk 1. Bounding box coordinates: [813.8379, 330.45837, 877.5825, 456.5645].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road and sidewalk, posing a potential risk of collision.
+
+**Risk Evaluation:**
+- **Person 0:** Medium (on road and sidewalk, medium distance to the right)
+
+In Frame 0009, there is one person detected on the road and sidewalk. Person 0 is considered a medium risk due to their position on the road and sidewalk, with a medium distance to the right of the dashcam. Caution should be exercised to avoid a potential collision with Person 0.
+### Frame 0010 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at right-down, on the road 0 and sidewalk 1. The distance to the person is medium, and the person is positioned to the right of the vehicle.
+- **Car Positions:**
+  - **Car 1:** Located at left-down, with bounding box coordinates [165.60919, 372.29047, 236.82031, 436.45166].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road and sidewalk, posing a potential risk of collision.
+- **Close Proximity to Dashcam:** Person 0 is very close to the dashcam, indicating a potentially dangerous situation.
+- **Position Relative to Vehicle:** Person 0 is positioned to the right of the vehicle, which may require extra caution while driving.
+
+**Risk Evaluation:**
+- **Person 0:** Medium (on road and sidewalk, medium distance, positioned to the right of the vehicle)
+
+The situation in Frame 0010 indicates a potential risk due to the presence of Person 0 on the road and sidewalk. The medium-risk evaluation is based on the person's position relative to the vehicle, the medium distance, and the need for extra caution while driving. Immediate attention and appropriate action may be necessary to ensure safety and avoid a potential collision.
+### Frame 0011 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** The sidewalks (sidewalk 1 and sidewalk 2) are located in the right-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at right-down, on road 0, sidewalk 1, and sidewalk 2. The distance to person 0 is close, and the angle indicates that person 0 is far to the right.
+- **Car Positions:**
+  - **Car 1:** Located at left-down.
+  - **Car 2:** Located at left-down.
+  - **Car 3:** Located at middle-down.
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road (road 0) and both sidewalks (sidewalk 1 and sidewalk 2), posing a potential risk of collision.
+- **Close Proximity to Dashcam:** Person 0 is close to the dashcam, indicating a potentially dangerous situation.
+
+**Risk Evaluation:**
+- **Person 0:** High (on road and sidewalks, close proximity to the dashcam, far to the right)
+
+The situation in Frame 0011 indicates a potential risk due to person 0 being on the road and sidewalks, as well as their close proximity to the dashcam. The angle suggests that person 0 is positioned far to the right, which could increase the risk of a collision. Immediate attention and caution are advised to avoid any potential accidents.
+### Frame 0012 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** The sidewalks (sidewalk 1 and sidewalk 2) are located in the right-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at left-down, with bounding box coordinates [52.57286, 367.64053, 152.30229, 434.93185].
+  - **Car 1:** Located at middle-down, with bounding box coordinates [626.56573, 352.48737, 833.3133, 534.5707].
+  - **Car 2:** Located at left-down, with bounding box coordinates [0.13384056, 397.79211, 34.471474, 538.06134].
+  - **Car 3:** Located at middle-up, with bounding box coordinates [536.76624, 325.7823, 582.08154, 356.3573].
+
+**Potential Risks:**
+- **Car 0:** Located on the left side of the frame, potentially posing a risk to other vehicles or pedestrians.
+- **Car 1:** Located in the middle-down region, potentially posing a risk to other vehicles or pedestrians.
+- **Car 2:** Located on the left side of the frame, potentially posing a risk to other vehicles or pedestrians.
+- **Car 3:** Located in the middle-up region, potentially posing a risk to other vehicles or pedestrians.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (located on the left side of the frame)
+- **Car 1:** Medium (located in the middle-down region)
+- **Car 2:** Medium (located on the left side of the frame)
+- **Car 3:** Medium (located in the middle-up region)
+
+The situation in Frame 0012 indicates the presence of multiple cars in different regions of the frame. While there are no pedestrians detected in this frame, the presence of cars in potentially risky positions suggests the need for caution and awareness of other vehicles on the road.
+### Frame 0013 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at middle-down, with bounding box coordinates [674.9924, 354.6595, 896.0701, 525.20483].
+  - **Car 1:** Located at middle-up, with bounding box coordinates [553.23694, 310.02542, 595.9966, 337.96622].
+
+**Potential Risks:**
+- **Car 0:** The car is located on the road, indicating potential traffic.
+- **Car 1:** The car is located in the middle-up region, suggesting it might be approaching the road.
+
+**Risk Evaluation:**
+- **Car 0:** Low (on road)
+- **Car 1:** Medium (approaching the road)
+
+The situation in Frame 0013 indicates the presence of cars on the road and a car approaching the road. Car 0 is considered a low risk as it is already on the road. Car 1 is evaluated as a medium risk since it is in the middle-up region, indicating its proximity to the road. Caution should be exercised to ensure safe driving and avoid potential collisions.
+### Frame 0014 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Position:** Car 0 is located in the right-down region of the frame.
+- **Car 0 Bounding Box:** The bounding box coordinates for car 0 are [741.16, 360.75, 992.60, 549.21].
+
+**Potential Risks:**
+- **Car on Road:** Car 0 is on the road, indicating potential traffic.
+- **Close Proximity to Dashcam:** Car 0 is very close to the dashcam, suggesting a potential collision risk.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road, very close to the dashcam)
+
+The situation in Frame 0014 indicates the presence of a car (Car 0) on the road, which poses a potential risk. Additionally, the car's close proximity to the dashcam increases the likelihood of a collision. Therefore, Car 0 is evaluated as a medium risk. Caution should be exercised to ensure safe driving conditions.
+### Frame 0015 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the middle-down region of the frame.
+- **Car Position:** Car 0 is located in the right-down region of the frame.
+
+**People Positions and Distances:**
+No people detected in the current frame.
+
+**Potential Risks:**
+- No pedestrians are detected in the current frame, so there is no immediate risk of collision with pedestrians.
+
+**Risk Evaluation:**
+Since no pedestrians are detected in the current frame, the risk evaluation for pedestrians is not applicable.
+
+The current frame (0015) shows no pedestrians on the road or sidewalk. The car is located in the right-down region of the frame. As there are no pedestrians present, the risk of collision with pedestrians is currently low.
+### Frame 0016 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The roads (road 0 and road 1) are located in the middle-down region of the frame.
+- **Car Position:** Car 0 is located at the right-down region of the frame.
+- **Car Bounding Box:** The bounding box coordinates for car 0 are [891.5759, 362.001, 1202.1106, 564.81433].
+
+**Potential Risks:**
+- No pedestrians or other objects have been detected in the current frame.
+
+**Risk Evaluation:**
+- N/A
+
+The current frame (0016) does not show any pedestrians or objects on the road. Therefore, there are no potential risks or risk evaluations to be made in this frame. The focus should be on monitoring the road and maintaining safe driving practices.
+### Frame 0017 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The roads are located in the middle-down and left-up regions of the frame.
+  - Road 0: Middle-down
+  - Road 1: Middle-down
+  - Road 2: Left-up
+- **Car Positions and Distances:**
+  - **Car 0:** Located at right-down, with bounding box coordinates [970.9572, 332.17462, 1279.7124, 528.752].
+  - **Car 1:** Located at middle-down, with bounding box coordinates [621.70795, 311.91373, 866.1331, 408.2056].
+
+**Potential Risks:**
+- **Car 0:** Car 0 is located at the right-down region of the frame, indicating its presence on the road. No specific risk factors are identified based on the given information.
+- **Car 1:** Car 1 is located at the middle-down region of the frame, indicating its presence on the road. No specific risk factors are identified based on the given information.
+
+**Risk Evaluation:**
+- **Car 0:** Low (no specific risk factors identified)
+- **Car 1:** Low (no specific risk factors identified)
+
+The situation in Frame 0017 does not indicate any immediate risks or potential dangers based on the given information. Both cars are located on the road, but no specific risk factors are identified.
+### Frame 0018 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Positions:**
+  - Road 0: Located in the middle-down region of the frame.
+  - Road 1: Located in the middle-down region of the frame.
+  - Road 2: Located in the middle-up region of the frame.
+- **Car Positions and Distances:**
+  - Car 0: Located at right-down, with coordinates [1035.5344, 323.5776, 1279.7483, 523.77405]. On road 0.
+  - Car 1: Located at middle-down, with coordinates [408.2459, 317.79953, 701.9244, 433.97964]. On road 1.
+  - Car 2: Located at right-up, with coordinates [805.93384, 279.73892, 927.1333, 325.2067]. On road 2.
+
+**Potential Risks:**
+- **Car 0:** Located on road 0, potentially posing a risk to other vehicles or pedestrians on the same road.
+- **Car 1:** Located on road 1, potentially posing a risk to other vehicles or pedestrians on the same road.
+- **Car 2:** Located on road 2, potentially posing a risk to other vehicles or pedestrians on the same road.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road 0, potential risk to other vehicles or pedestrians on the same road)
+- **Car 1:** Medium (on road 1, potential risk to other vehicles or pedestrians on the same road)
+- **Car 2:** Medium (on road 2, potential risk to other vehicles or pedestrians on the same road)
+
+In Frame 0018, there are three cars detected on different roads. Car 0 is on road 0, Car 1 is on road 1, and Car 2 is on road 2. These cars may pose a potential risk to other vehicles or pedestrians on their respective roads. The risk evaluation for all cars is medium. Caution should be exercised to ensure the safety of all road users.
+### Frame 0019 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at left-down, with coordinates [32.56, 309.43, 464.26, 477.02]. On road 0.
+  - **Car 1:** Located at right-up, with coordinates [815.66, 314.95, 1014.39, 396.30]. On road 0.
+  - **Car 2:** Located at middle-up, with coordinates [586.96, 279.06, 712.88, 326.20]. On road 0.
+
+**Potential Risks:**
+- **Car Proximity to Dashcam:** Car 0 is located at the left-down region, indicating potential proximity to the dashcam and the possibility of a collision.
+- **Car Positions on Road:** All detected cars (Car 0, Car 1, and Car 2) are on road 0, indicating potential traffic congestion and the need for caution.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (proximity to dashcam, left-down position)
+- **Car 1:** Low (right-up position, not in close proximity to dashcam)
+- **Car 2:** Low (middle-up position, not in close proximity to dashcam)
+
+The situation in Frame 0019 shows potential risks due to the proximity of Car 0 to the dashcam and the presence of multiple cars on the road. Car 1 and Car 2 are in positions that pose a lower risk. Caution should be exercised to avoid potential collisions, especially with Car 0.
+### Frame 0020 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at right-down, with coordinates [998.7499, 329.68292, 1223.2316, 482.2727].
+  - **Car 1:** Located at left-up, with coordinates [308.4755, 301.40594, 459.43515, 352.65967].
+
+**Potential Risks:**
+- No pedestrians or other objects are detected in the current frame.
+
+**Risk Evaluation:**
+- No pedestrians or objects detected, hence no risk evaluation is required.
+
+In Frame 0020, there are no pedestrians or objects detected on the road. The road is located in the middle-down region of the frame, and there are two cars present. However, since no pedestrians or objects are detected, there is no potential risk or risk evaluation required in this frame.
+### Frame 0021 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at right-down, with bounding box coordinates [874.78253, 349.20026, 1066.8071, 485.614]. On road 0.
+  - **Car 1:** Located at middle-down, with bounding box coordinates [781.2794, 369.2323, 867.6669, 413.76373]. On road 0.
+  - **Car 2:** Located at left-down, with bounding box coordinates [0.15415955, 360.88031, 205.54039, 508.79327]. On road 0.
+
+**Potential Risks:**
+- **Car Proximity:** Car 0 is located at the right-down region, indicating potential proximity to the vehicle's right side.
+- **Car Proximity:** Car 1 is located at the middle-down region, indicating potential proximity to the vehicle's front.
+- **Car Proximity:** Car 2 is located at the left-down region, indicating potential proximity to the vehicle's left side.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (proximity to the vehicle's right side)
+- **Car 1:** Medium (proximity to the vehicle's front)
+- **Car 2:** Medium (proximity to the vehicle's left side)
+
+The situation in Frame 0021 shows potential risks due to the proximity of other cars to the vehicle. Car 0, Car 1, and Car 2 are all in close proximity to the vehicle, indicating the need for caution and potential adjustments in driving behavior to avoid collisions.
+### Frame 0022 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the left-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at right-down, with bounding box coordinates [964.3017, 361.77087, 1011.12213, 380.56238].
+  - **Car 1:** Located at middle-down, with bounding box coordinates [543.19965, 379.63675, 635.0931, 430.83835].
+
+**Potential Risks:**
+- **Car 0:** Car 0 is located on the road, indicating potential traffic.
+- **Car 1:** Car 1 is located on the road, indicating potential traffic.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road)
+- **Car 1:** Medium (on road)
+
+The situation in Frame 0022 indicates the presence of two cars on the road. Both Car 0 and Car 1 pose a medium risk as they are located on the road. Caution should be exercised while driving to avoid any potential collisions with these vehicles.
+### Frame 0023 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the left-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at left-down, with bounding box coordinates [313.76, 386.97, 427.48, 448.33].
+  - **Car 1:** Located at middle-down, with bounding box coordinates [580.07, 364.15, 735.46, 504.93].
+
+**Potential Risks:**
+- **Car 0:** The car is located at the left-down region, indicating a potential risk of collision with other vehicles or pedestrians.
+- **Car 1:** The car is located at the middle-down region, indicating a potential risk of collision with other vehicles or pedestrians.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (located at left-down region)
+- **Car 1:** Medium (located at middle-down region)
+
+The situation in Frame 0023 indicates a potential risk of collision for both Car 0 and Car 1. Immediate attention and caution are advised to avoid any potential accidents.
+### Frame 0024 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at left-down, with bounding box coordinates [94.85, 393.90, 249.20, 473.92]. On road 0.
+  - **Car 1:** Located at middle-down, with bounding box coordinates [647.67, 363.49, 693.17, 383.29]. On road 0.
+  - **Car 2:** Located at middle-down, with bounding box coordinates [465.55, 362.34, 621.33, 502.65]. On road 0.
+
+**Potential Risks:**
+- **Car Proximity to Dashcam:** Car 0 is located at the left-down region, indicating potential proximity to the dashcam and the possibility of a collision.
+- **Multiple Cars on Road:** Cars 0, 1, and 2 are detected on road 0, indicating potential traffic congestion and increased risk of collisions.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (proximity to dashcam, left-down region)
+- **Car 1:** Low (middle-down region, no immediate risk factors)
+- **Car 2:** Low (middle-down region, no immediate risk factors)
+
+The situation in Frame 0024 shows multiple cars detected on the road, which may indicate traffic congestion. Car 0, located at the left-down region, poses a medium risk due to its proximity to the dashcam. Car 1 and Car 2, located in the middle-down region, are considered low risk as there are no immediate risk factors identified. Caution should be exercised to ensure safe driving and avoid potential collisions.
+### Frame 0025 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at left-down, with a bounding box coordinates of [1.8567657e-01, 4.0220288e+02, 8.8449089e+01, 4.9138257e+02].
+  - **Car 1:** Located at middle-down, with a bounding box coordinates of [391.8978, 363.00793, 555.0894, 503.45667].
+  - **Car 2:** Located at middle-down, with a bounding box coordinates of [585.70483, 365.13983, 633.4729, 385.93793].
+
+**Potential Risks:**
+- **Car Proximity:** Car 0 is located at the left-down region, indicating a potential risk of collision with other vehicles.
+- **Crowded Road:** The presence of multiple cars (Car 0, Car 1, and Car 2) in the middle-down region suggests a crowded road scenario.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (located at left-down, potential risk of collision with other vehicles)
+- **Car 1:** Low (located at middle-down, no immediate risk observed)
+- **Car 2:** Low (located at middle-down, no immediate risk observed)
+
+The situation in Frame 0025 indicates a medium risk for Car 0 due to its position at the left-down region, which may pose a potential risk of collision with other vehicles. Car 1 and Car 2 are considered low risk as they are located in the middle-down region with no immediate risk observed. Caution should be exercised to ensure safe driving and avoid potential collisions.
+### Frame 0026 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** 
+  - Sidewalk 1 is located in the right-down region of the frame.
+  - Sidewalk 2 is located in the middle-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at middle-down, with a bounding box of [536.7393, 368.63135, 587.6668, 390.93268]. On road 0.
+  - **Car 1:** Located at left-down, with a bounding box of [314.27734, 365.71643, 489.23517, 511.98065]. On road 0.
+  - **Car 3:** Located at left-down, with a bounding box of [160.83777, 395.63696, 252.32031, 450.09265]. On road 0.
+  - **Car 4:** Located at left-down, with a bounding box of [18.166512, 403.22028, 153.18784, 475.57477]. On road 0.
+- **Person 2:** Located at right-down, with a bounding box of [1057.0469, 353.08316, 1090.6931, 405.01358]. On road 0, sidewalk 1, sidewalk 2.
+
+**Potential Risks:**
+- **Cars on Road:** Cars 0, 1, 3, and 4 are on the road, posing a potential risk of collision.
+- **Close Proximity to Dashcam:** All detected cars are relatively close to the dashcam, indicating a potentially crowded and dangerous situation.
+- **Person on Road and Sidewalk:** Person 2 is on the road and sidewalks 1 and 2, posing a potential risk of collision.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road, relatively close to the dashcam)
+- **Car 1:** Medium (on road, relatively close to the dashcam)
+- **Car 3:** Medium (on road, relatively close to the dashcam)
+- **Car 4:** Medium (on road, relatively close to the dashcam)
+- **Person 2:** Medium (on road and sidewalks, relatively close to the dashcam)
+
+The situation in Frame 0026 indicates a moderate level of risk. Cars 0, 1, 3, and 4 are on the road and relatively close to the dashcam, which increases the potential for collisions. Person 2 being on the road and sidewalks 1 and 2 also adds to the risk. Caution should be exercised to ensure the safety of all individuals and vehicles involved.
+### Frame 0027 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at middle-down, with bounding box coordinates [501.38, 367.14, 556.13, 390.56]. On road 0.
+  - **Car 1:** Located at left-down, with bounding box coordinates [36.73, 395.06, 155.52, 456.06]. On road 0.
+  - **Car 2:** Located at left-down, with bounding box coordinates [224.59, 358.29, 427.25, 520.86]. On road 0.
+
+**Potential Risks:**
+- **Cars on Road:** Cars 0, 1, and 2 are on the road, indicating potential risks of collision.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road, middle-down position)
+- **Car 1:** Medium (on road, left-down position)
+- **Car 2:** Medium (on road, left-down position)
+
+The situation in Frame 0027 shows the presence of multiple cars on the road. While there are no pedestrians detected in this frame, the presence of cars indicates a potential risk of collision. Cars 0, 1, and 2 are considered medium risk due to their positions on the road. Caution should be exercised to maintain a safe distance and avoid any potential accidents.
+### Frame 0028 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at middle-down, with bounding box coordinates [492.73, 372.54, 552.24, 397.19].
+  - **Car 1:** Located at left-down, with bounding box coordinates [0.09, 412.07, 60.81, 482.25].
+  - **Car 2:** Located at left-down, with bounding box coordinates [140.52, 369.90, 384.54, 549.20].
+
+**Potential Risks:**
+- **Car Proximity:** Car 0 is in close proximity to the dashcam, indicating a potential risk of collision.
+- **Multiple Cars:** The presence of multiple cars (Car 1 and Car 2) in the frame increases the complexity of the road scenario.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (close proximity to the dashcam)
+- **Car 1:** Low (not in close proximity to the dashcam)
+- **Car 2:** Low (not in close proximity to the dashcam)
+
+The situation in Frame 0028 indicates a moderate risk due to the close proximity of Car 0 to the dashcam. Car 1 and Car 2 pose a lower risk as they are not in close proximity to the dashcam. It is important to maintain awareness of the surrounding cars and take appropriate actions to ensure safety on the road.
+### Frame 0029 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at middle-down, with bounding box coordinates [482.05432, 361.6141, 547.3629, 389.95993].
+  - **Car 1:** Located at left-down, with bounding box coordinates [16.33052, 365.08078, 333.1012, 575.7318].
+
+**Potential Risks:**
+- **Car Proximity to Road:** Car 0 is located on the road, posing a potential risk of collision.
+- **Car Proximity to Sidewalk:** Car 1 is located close to the sidewalk, indicating a potential risk of collision with pedestrians.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road, close proximity to other objects)
+- **Car 1:** Medium (close to sidewalk, potential risk of collision with pedestrians)
+
+The situation in Frame 0029 indicates a potential risk of collision. Car 0 is on the road, while Car 1 is close to the sidewalk, posing a risk of collision with pedestrians. Immediate attention and caution are advised to avoid any potential accidents.
+### Frame 0030 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at middle-down, with bounding box coordinates [465.1699, 353.50204, 538.42755, 384.7194].
+  - **Car 1:** Located at left-down, with bounding box coordinates [0.0034637451, 357.3689, 270.24713, 577.95886].
+
+**Potential Risks:**
+- **Car Proximity to Dashcam:** Both cars are relatively close to the dashcam, indicating a potential risk of collision.
+- **Car 0 on Road:** Car 0 is located on the road, posing a potential risk to other road users.
+- **Car 1 on Left Side:** Car 1 is located on the left side, potentially affecting the movement of other vehicles.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road, close to the dashcam)
+- **Car 1:** Medium (on left side, close to the dashcam)
+
+The situation in Frame 0030 indicates a moderate risk due to the proximity of both cars to the dashcam. Car 0, being on the road, poses a potential risk to other road users. Car 1, located on the left side, may affect the movement of other vehicles. Caution should be exercised to avoid any potential collisions.
+### Frame 0031 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at middle-down, with bounding box coordinates [440.45782, 349.87506, 525.3232, 385.78357].
+  - **Car 1:** Located at left-down, with bounding box coordinates [0.16821289, 355.43018, 183.52364, 609.31458].
+
+**Potential Risks:**
+- **Car Proximity to Dashcam:** Both cars are relatively close to the dashcam, indicating a potential risk of collision.
+- **Car 0 on Road:** Car 0 is located on the road, posing a potential risk to other road users.
+- **Car 1 on Left Side:** Car 1 is located on the left side, potentially affecting the movement of other vehicles.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road, close to the dashcam)
+- **Car 1:** Medium (on left side, close to the dashcam)
+
+The situation in Frame 0031 indicates a moderate risk due to the proximity of both cars to the dashcam and their potential impact on other road users. Immediate attention and caution are advised to prevent any potential collisions.
+### Frame 0032 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Position:** Car 0 is located in the middle-down region of the frame.
+- **Car 0 Bounding Box:** The bounding box coordinates for car 0 are [403.91876, 350.18204, 503.2218, 392.03592].
+
+**Potential Risks:**
+- No pedestrians or other objects have been detected in this frame.
+
+**Risk Evaluation:**
+- N/A
+
+The current frame (0032) does not show any pedestrians or objects on the road or sidewalk. Therefore, there are no potential risks or risk evaluations to be made in this frame. The road and sidewalk are clear, and the car is in a normal position.
+### Frame 0033 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 1) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 0) is located in the right-down region of the frame.
+- **Car Position:** Car 0 is located in the left-down region of the frame, with a bounding box coordinates of [334.55, 351.84, 455.38, 400.54].
+
+**People Positions and Distances:**
+- **Person 1:** Located at right-up, on the sidewalk 0 and road 1. The bounding box coordinates for Person 1 are [914.48, 178.34, 930.66, 221.74]. The distance and angle of Person 1 are close and to the right, respectively.
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 1 is on both the road and sidewalk, posing a potential risk of collision.
+- **Close Proximity to Car:** Person 1 is close to Car 0, indicating a potential danger zone.
+
+**Risk Evaluation:**
+- **Person 1:** Medium (on road and sidewalk, close proximity to Car 0, to the right)
+
+The situation in Frame 0033 indicates a potential risk due to Person 1 being on both the road and sidewalk, as well as their close proximity to Car 0. Immediate attention and caution are advised to avoid a potential collision.
+### Frame 0034 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Position:** Car 0 is located in the left-down region of the frame.
+
+**Potential Risks:**
+- **Car on Road:** Car 0 is on the road, indicating potential traffic.
+- **Close Proximity to Dashcam:** Car 0 is very close to the dashcam, suggesting a potential collision risk.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road, very close to the dashcam)
+
+The situation in Frame 0034 indicates the presence of a car on the road, which poses a potential risk. Car 0's close proximity to the dashcam further increases the risk of a collision. Immediate attention and caution are advised to ensure safety on the road.
+### Frame 0035 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** Road 1 is located in the middle-down region of the frame.
+- **Sidewalk Position:** Sidewalk 0 is located in the right-down region of the frame.
+- **Car Position:** Car 0 is located in the left-down region of the frame.
+
+**Potential Risks:**
+- **Car Position:** Car 0 is in the left-down region of the frame, indicating its presence on the road. It poses a potential risk of collision.
+
+**Risk Evaluation:**
+- **Car 0:** High (on road, left-down position)
+
+The situation in Frame 0035 indicates a potential risk due to the presence of Car 0 on the road. Immediate attention and caution are required to avoid a potential collision.
+### Frame 0036 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **People Positions and Distances:**
+  - **Person 0:** Located at middle-down, very close to the dashcam. On road 0, sidewalk 1. Bounding box coordinates: [525.43555, 342.26407, 539.7722, 389.17465].
+
+**Potential Risks:**
+- **Person on Road and Sidewalk:** Person 0 is on the road and sidewalk, posing a potential risk of collision.
+- **Close Proximity to Dashcam:** Person 0 is very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+**Risk Evaluation:**
+- **Person 0:** High (on road and sidewalk, very close to the dashcam)
+
+The situation in Frame 0036 indicates a potential risk due to the presence of Person 0 on the road and sidewalk. Person 0 is also very close to the dashcam, further increasing the risk of a collision. Immediate attention and caution are advised to avoid any potential accidents.
+### Frame 0060 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Position:** Car 0 is located in the left-down region of the frame.
+- **Car 0 Velocity:** The velocity of car 0 is [95.73, 372.63, 286.43, 489.67].
+
+**Potential Risks:**
+- **Car on Road:** Car 0 is on the road, indicating potential traffic on the road.
+
+**Risk Evaluation:**
+- **Car 0:** Low (on road, no immediate risk identified)
+
+The situation in Frame 0060 does not pose an immediate risk as there are no pedestrians detected. However, the presence of car 0 on the road suggests the need for caution while driving.
+### Frame 0061 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Position:** The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- **Car Position:** Car 0 is located at the left-down region of the frame, with the following coordinates: [2.1065903e-01, 3.6650104e+02, 1.2123100e+02, 5.2175922e+02].
+
+**Potential Risks:**
+- **Car Position:** Car 0 is located on the road, indicating potential traffic on the road.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road)
+
+The situation in Frame 0061 indicates the presence of a car on the road. This poses a medium risk as it suggests potential traffic on the road. Caution should be exercised while driving to avoid any potential collisions.
+### Frame 0066 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** 
+  - Sidewalk 1 is located in the middle-down region of the frame.
+  - Sidewalk 2 is located in the right-down region of the frame.
+- **Car Position:**
+  - Car 0 is located in the left-down region of the frame, with bounding box coordinates [167.57921, 389.76126, 272.53595, 427.32895].
+
+**Potential Risks:**
+- **Car Position:** Car 0 is located in the left-down region of the frame, indicating its presence on the road. It poses a potential risk of collision.
+
+**Risk Evaluation:**
+- **Car 0:** High (on road, left-down region)
+
+The situation in Frame 0066 indicates the presence of a car (Car 0) on the road. This poses a high risk of collision. Immediate attention and caution are required to avoid any potential accidents.
+### Frame 0067 Analysis
+
+**Summary of Key Frame Information:**
+- **Road Position:** The road (road 0) is located in the middle-down region of the frame.
+- **Sidewalk Positions:** Sidewalk 1 and sidewalk 2 are located in the right-down region of the frame.
+- **Car Positions and Distances:**
+  - **Car 0:** Located at left-down, with a bounding box of [2.0658493e-01, 4.0801770e+02, 1.1997102e+02, 4.7331677e+02]. On road 0.
+  - **Car 1:** Located at left-down, with a bounding box of [133.31839, 387.96426, 249.85995, 429.28635]. On road 0.
+- **Person 2 Position and Distance:**
+  - **Person 2:** Located at right-up, with a bounding box of [1185.158, 281.58148, 1249.7952, 401.01013]. On road 0, sidewalk 1, sidewalk 2. The distance to person 2 is close, and the angle is far to the right.
+
+**Potential Risks:**
+- **Cars on Road:** Cars 0 and 1 are on the road, potentially posing a risk of collision.
+- **Person on Road and Sidewalk:** Person 2 is on the road, sidewalk 1, and sidewalk 2, posing a potential risk of collision.
+- **Person Distance and Angle:** Person 2 is close to the dashcam and positioned far to the right, indicating a potential risk of unexpected movement.
+
+**Risk Evaluation:**
+- **Car 0:** Medium (on road, left-down position)
+- **Car 1:** Medium (on road, left-down position)
+- **Person 2:** High (on road and sidewalks, close distance, far right angle)
+
+The situation in Frame 0067 indicates potential risks due to the presence of cars on the road and a person on the road and sidewalks. Car 0 and Car 1 are considered medium risks, while Person 2 is considered a high risk due to their close distance to the dashcam and a far right angle. Caution should be exercised to avoid potential collisions with these objects.
