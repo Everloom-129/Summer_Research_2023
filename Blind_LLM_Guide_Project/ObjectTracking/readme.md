@@ -1,12 +1,15 @@
-# Readme for object tracking module
+# Object tracking module
 
 How do we realize mix-precision analysis in driving scenario?
 
 - [ ] car following
 - [ ] video folder output
-- [ ] txt -> json
-- [x] confirm MOT form
 - [ ] 
+- [x] txt -> json
+- [x] confirm MOT form
+- [x] Try aot tracking
+  - [x] mask based, hard to adopt into our task
+
 
 
 
