@@ -154,5 +154,23 @@ The risk level for Person 1 gradually increases to High by Frame 25 as they are 
 打开Custom instruction, 设置好role 和task
 之后丢数据就好（GPT处理好的数据）
 
-- [ ] 五秒间隔那个我还没想好怎么实现，过1h给你们
+- [x] 五秒间隔那个我还没想好怎么实现，过1h给你们
+- [x] 通过NLP数帧的方式简单实现了
+
+```
+t frame 96.0, person 1.0 is located at coordinates [1189.24, 160.84] with a bounding box of width 159.04 and height 375.80.
+ At frame 97.0, person 1.0 is located at coordinates [1185.26, 160.48] with a bounding box of width 160.87 and height 379.44.
+ At frame 98.0, person 1.0 is located at coordinates [1192.97, 169.40] with a bounding box of width 154.74 and height 370.26.
+ At frame 146.0, person 2.0 is located at coordinates [1042.64, 224.56] with a bounding box of width 38.00 and height 94.23.
+ 
+
+'=====================================================
+
+'At frame 147.0, person 2.0 is located at coordinates [1042.38, 226.04] with a bounding box of width 37.61 and height 93.25.
+ At frame 148.0, person 2.0 is located at coordinates [1041.76, 224.91] with a bounding box of width 37.62 and height 93.16.
+ At frame 149.0, person 2.0 is located at coordinates [1042.22, 224.97] with a bounding box of width 38.14 and height 94.27.
+ At frame 150.0, person 2.0 is located at coordinates [1042.33, 224.89] with a bounding box of widt
+```
+
+
 
