@@ -9,6 +9,8 @@ __pycache__/
 # Other
 *.pdf
 *.cn 
+*.mp4
+*.mov
 
 # Distribution / packaging
 .Python
