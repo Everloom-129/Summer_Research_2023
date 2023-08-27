@@ -2,13 +2,17 @@
 
 How do we realize mix-precision analysis in driving scenario?
 
-- [ ] car following
-- [ ] video folder output
-- [ ] 
+- [x] car following
+- [x] video folder output
+- [ ] run the program with bash again
 - [x] txt -> json
 - [x] confirm MOT form
 - [x] Try aot tracking
   - [x] mask based, hard to adopt into our task
+- [ ] merge workflow into other module
+  - [ ] selective input for data?
+  - [ ] how to let gpt understand current scene?
+  - [ ] person id is most important
 
 
 
