@@ -1,0 +1,46 @@
+### Frame 0 Analysis
+
+#### Because
+In frame 0, there are multiple people present on the road. 
+
+Person 1 is located at coordinates [-21.95, 662.12] with a bounding box of width 134.39 and height -352.60. 
+
+Person 2 is located at coordinates [1098.65, 677.22] with a bounding box of width -1061.35 and height -591.07. 
+
+Person 3 is located at coordinates [848.19, 709.19] with a bounding box of width -818.88 and height -645.24. 
+
+Person 4 is located at coordinates [180.30, 675.00] with a bounding box of width -147.88 and height -589.74. 
+
+Person 5 is located at coordinates [1078.22, 684.77] with a bounding box of width -1048.02 and height -614.61.
+
+#### Therefore
+Based on the information provided, it is difficult to determine the specific movements or events of the people in frame 0. However, it can be noted that all the people are potentially in a dangerous situation as their bounding boxes have negative widths and heights, indicating that they are outside the frame or partially occluded.
+
+### Frame 2 Analysis
+
+#### Because
+In frame 2, some of the people from frame 0 are still present on the road, along with additional people.
+
+Person 2 is located at coordinates [1106.75, 664.70] with a bounding box of width -1070.18 and height -580.42. 
+
+Person 3 is located at coordinates [850.14, 701.16] with a bounding box of width -820.63 and height -636.72. 
+
+Person 4 is located at coordinates [166.48, 667.77] with a bounding box of width -139.04 and height -595.49. 
+
+Person 5 is located at coordinates [1085.93, 675.70] with a bounding box of width -1059.57 and height -614.71. 
+
+Person 7 is located at coordinates [646.13, 701.64] with a bounding box of width -627.47.
+
+#### Therefore
+Based on the updated information in frame 2, it is still difficult to determine the specific movements or events of the people. However, similar to frame 0, all the people are potentially in a dangerous situation as their bounding boxes have negative widths and heights, indicating that they are outside the frame or partially occluded.
+
+Overall, based on the available information, it is not possible to provide a detailed description of significant events or movements of people in the road scene. However, it can be concluded that all the people present in both frame 0 and frame 2 are potentially in a dangerous situation.
+### Frame 0000 to 0005 Analysis
+
+#### Because
+In frame 6, person 4 is located at coordinates [127.10, 643.83] with a bounding box of width -88.00 and height -540.50.  
+In frame 6, person 5 is located at coordinates [1101.62, 645.90] with a bounding box of width -1068.44 and height -568.79.  
+In frame 6, person 7 is located at coordinates [645.18, 675.45] with a bounding box of width -626.14 and height -626.03.  
+
+#### Therefore
+Based on the given information, it can be observed that person 4, person 5, and person 7 are present in the scene. However, without further context or analysis, it is difficult to determine the specific movements or events occurring in the road scene during this time frame.
