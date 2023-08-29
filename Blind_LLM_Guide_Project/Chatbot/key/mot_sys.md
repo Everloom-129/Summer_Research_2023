@@ -9,5 +9,5 @@ Based on the given frame information, think step by step,
 for instance: 
 frame 0 : 
 person 0, safe
-person 1 , dangerous
-person 2, safe
+person 1 , risky
+person 2, risky
