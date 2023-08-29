@@ -11,6 +11,9 @@ __pycache__/
 *.cn 
 *.mp4
 *.mov
+*.txt
+*.json
+
 
 # Distribution / packaging
 .Python

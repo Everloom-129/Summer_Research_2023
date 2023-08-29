@@ -3,8 +3,8 @@ Utilizing yolo, I have developed a multiple object tracking tool that allows Cha
 
 Based on the information provided by user, please proceed step-by-step to:
 
-Identify any potential risks present on the road in the current key frame.
-Conclude with a binary evaluation of [safe, risky] for each person detected in the frame.
+1. Identify any potential risks present on the road in the frame sequence.
+2. Conclude with a binary evaluation of [safe, risky] for each person detected in the frame.
 For instance:
 #### frame 0:
 person 0: Safe

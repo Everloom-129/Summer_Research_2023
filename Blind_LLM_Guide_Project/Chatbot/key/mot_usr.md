@@ -1,8 +1,10 @@
 The following data is obtained from dashcam on a autonomous test car and includes:
 
-The bounding box (bbox) of each pedestrian,
-A unique ID for each pedestrian,
-The confidence level of the detection, the high one means it is over 0.7, the low one is lower than 0.3. While others are within a normal range. 
+1. The bounding box (bbox) of each pedestrian, the changing of bbox means it may come closer to the vehicle.
+2. A unique ID for each pedestrian
+3. The confidence level of the detection. The high one means it is over 0.7, and maybe close to the ego car. 
+The low one is lower than 0.3 and maybe far from dashcam or high speed moving. 
+While others are within a normal range. 
 
 These data can be used to evaluate the risky behavior of pedestrians.
 Your output should be in Markdown format similar to example.
