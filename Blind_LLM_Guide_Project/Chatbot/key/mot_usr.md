@@ -1,44 +1,36 @@
-These data are obtained from dashcam video.
-They include:
-- the bbox of pedestrian
-- his unique id
-- the confidence of detection, which can used to evaluate the risky behavior of pedestrian
-- the input frame is downsample by half in order to improve you ability to understand the road scenario. 
+The following data is obtained from dashcam on a autonomous test car and includes:
 
+The bounding box (bbox) of each pedestrian,
+A unique ID for each pedestrian,
+The confidence level of the detection, the high one means it is over 0.7, the low one is lower than 0.3. While others are within a normal range. 
 
-your output should be in markdown format, for example:
-### Identification of Potential Risks Based on Key Frames
-#### Frame 600
+These data can be used to evaluate the risky behavior of pedestrians.
+Your output should be in Markdown format similar to example.
 
-All persons have a confidence score above 0.5, making them all relatively certain to be actually present.
-Persons close in coordinates could pose a risk due to potential sudden movement. Specifically, Person 46, 59, 57, and 74 are all in close proximity.
-#### Frame 601
+For example:
 
-Again, persons 46, 59, 57, and 74 remain in close proximity.
-#### Frame 602
+### Frame 0434
 
-The same group of people (46, 59, 57, and 74) are still close together.
-Person 67 is moving in a direction that could indicate they are crossing the road (172.60 from 174.00 in the y-axis).
-#### Frame 603
+#### Potential Risks
+Person 162 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 164 is also moving closer but has high confidence and is on both sides of the car.
+Person 151 is moving closer, is on both sides of the car, and has high confidence.
+Person 172 is static or moving slightly but is on the left side of the car and has high confidence.
+Person 174 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+Person 186 is static or moving slightly and is on both sides of the car. Confidence is not provided.
+Person 139 is static or moving slightly and is on the left side of the car. Confidence is not provided.
+Person 189 is static or moving slightly and is on the left side of the car. Confidence is not provided.
+Person 190 is moving closer, is on both sides of the car, and has high confidence (from previous frame).
+Person 191 data is incomplete for this frame.
+#### Safety Evaluation
+Person 162: Risky (Moving closer, high confidence, both sides)
+Person 164: Risky (Moving closer, high confidence, both sides)
+Person 151: Risky (Moving closer, high confidence, both sides)
+Person 172: Safe (Static or slight movement, left side, high confidence)
+Person 174: Safe (Static or slight movement, left side, confidence not provided)
+Person 186: Safe (Static or slight movement, both sides, confidence not provided)
+Person 139: Safe (Static or slight movement, left side, confidence not provided)
+Person 189: Safe (Static or slight movement, left side, confidence not provided)
+Person 190: Risky (Moving closer, high confidence, both sides)
 
-The group of persons 46, 59, 57, and 74 still remain close, increasing the likelihood of a sudden movement being more risky.
-Person 67 continues to move, indicating potential road crossing.
-#### Frame 604
-
-The close group (46, 59, 57, and 74) still remains a concern.
-Person 67 continues a pattern indicating they might be crossing the road.
-Binary Evaluation of Safety
-Based on these observations:
-
-Person 46: Risky
-Person 51: Safe
-Person 54: Safe
-Person 59: Risky
-Person 66: Safe
-Person 67: Safe
-Person 57: Risky
-Person 71: Safe
-Person 39: Safe
-Person 72: Safe
-Person 73: Safe
-Person 74: Risky
+Please wait for the user data then start evaluation.

@@ -1,0 +1,2129 @@
+### Frame 0001 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 4:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, and 2 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+<PERSON_INFO>
+- ||Non-Detected Surfaces:|| Persons 3, 4, and 5 are not on any detected surface, which could indicate unexpected positions or movement patterns.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0001 indicates potential risks due to the presence of persons on the road and sidewalk, their close proximity to the dashcam, and their angles near the extremes of the field of view. Additionally, the presence of persons not on any detected surface raises concerns about their unexpected positions or movements. Immediate attention and caution are advised to prevent potential collisions.
+### Frame 0002 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 4:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of -89.92 degrees. Not on any detected surface.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, and 4 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+<PERSON_INFO>
+- ||Non-Detected Surfaces:|| Person 5 is not on any detected surface, which could indicate an unexpected position or movement pattern.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0002 is more critical compared to the previous frame, as more persons are now detected on the road. The high-risk evaluation for Persons 0 through 4 is due to their positions on the road or sidewalk, very close proximity to the dashcam, and angles near the extremes of the field of view. Person 5, who is not on any detected surface, is considered a medium risk. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0003 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, positive angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0003 remains critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0, 1, and 2 is due to their positions on the road and their very close distance to the dashcam. Immediate and cautious action is required to avoid a potential collision.
+### Frame 0004 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2 are on the road or sidewalk, posing a potential risk of collision.
+<PERSON_INFO>
+- ||Non-Detected Surfaces:|| Persons 3, 4, and 5 are not on any detected surface, which could indicate unexpected positions or movement patterns.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0004 is similar to the previous frame, with persons 0, 1, and 2 still on the road or sidewalk, posing a high risk of collision. Persons 3, 4, and 5, who are not on any detected surface, are considered medium risks due to their unexpected positions. Immediate attention and caution are advised to avoid potential accidents.
+### Frame 0005 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0005 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0006 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0006 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0, 1, and 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0007 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, positive angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, positive angle)
+</PERSON_INFO>
+
+The situation in Frame 0007 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road and their very close proximity to the dashcam. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0008 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [142.66, 650.55, 184.68, 757.67].
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [90.69, 636.01, 118.62, 719.74].
+<PERSON_INFO>
+  - ||Person 2:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [1668.41, 614.89, 1728.80, 716.01].
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0. Bounding box coordinates: [604.48, 693.52, 631.56, 775.31].
+<PERSON_INFO>
+  - ||Person 4:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1. Bounding box coordinates: [632.47, 704.42, 651.52, 774.18].
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0. Bounding box coordinates: [369.39, 668.33, 396.14, 734.64].
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, and 4 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0008 is similar to the previous frame, with multiple persons detected on the road and sidewalk. The high-risk evaluation for Persons 0 through 4 is due to their positions on the road or sidewalk, very close proximity to the dashcam, and angles near the extremes of the field of view. Person 5, who is on the road but not on any detected surface, is considered a medium risk. Caution should be exercised to avoid potential collisions.
+### Frame 0009 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| Sidewalk 1, 2, and 3 are located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at left-down, close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, close to the dashcam, with an angle of 89.91 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, close to the dashcam, with an angle of -89.97 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 3.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 3.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 3.
+<PERSON_INFO>
+  - ||Person 6:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On sidewalk 3.
+<PERSON_INFO>
+  - ||Person 7:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On sidewalk 3.
+<PERSON_INFO>
+  - ||Person 8:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2, sidewalk 3.
+<PERSON_INFO>
+  - ||Person 9:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2, sidewalk 3.
+<PERSON_INFO>
+  - ||Person 10:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 3.
+<PERSON_INFO>
+  - ||Person 11:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On sidewalk 3.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, 5, 8, 9, 10, and 11 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, sidewalk 1, sidewalk 2, close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, sidewalk 1, sidewalk 2, close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, sidewalk 1, sidewalk 2, close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road, sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| Medium (on sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 7:|| Medium (on sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 8:|| High (on road, sidewalk 1, sidewalk 2, sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 9:|| High (on road, sidewalk 1, sidewalk 2, sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 10:|| High (on road, sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 11:|| Medium (on sidewalk 3, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0009 is critical, as multiple persons are detected on the road and sidewalks. The high-risk evaluation for Persons 0, 1, 2, 3, 4, 5, 8, 9, 10, and 11 is due to their positions on the road or sidewalks, close proximity to the dashcam, and negative angles indicating potential collision paths. Persons 6 and 7 are considered medium risk as they are on the sidewalk but still very close to the dashcam. Immediate attention and caution are required to avoid potential collisions.
+### Frame 0010 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.96 degrees. On road 0, sidewalk 1. Bounding box coordinates: [1061.492, 655.3698, 1141.6189, 894.7857].
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [65.01688, 644.01, 108.353485, 759.22107].
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [6.8409386, 632.12976, 33.587227, 721.17175].
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0. Bounding box coordinates: [335.08588, 666.7575, 364.31982, 737.71906].
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [569.8991, 690.9442, 598.8178, 780.8861].
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 4, and 5 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+<PERSON_INFO>
+- ||Non-Detected Surfaces:|| Person 3 is not on any detected surface, which could indicate an unexpected position or movement pattern.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| Medium (not on any detected surface, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0010 is critical, as multiple persons are detected on the road and sidewalk. The high-risk evaluation for Persons 0, 1, 2, 4, and 5 is due to their positions on the road or sidewalk, very close proximity to the dashcam, and angles near the extremes of the field of view. Person 3, who is not on any detected surface, is considered a medium risk. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0011 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| The sidewalks (sidewalk 1, sidewalk 2) are located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 6:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, and 6 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+<PERSON_INFO>
+- ||Non-Detected Surfaces:|| Person 5 is not on any detected surface, which could indicate an unexpected position or movement pattern.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0011 is critical, as multiple persons are detected on the road and sidewalks. The high-risk evaluation for Persons 0 through 4 and 6 is due to their positions on the road or sidewalks, very close proximity to the dashcam, and angles near the extremes of the field of view. Person 5, who is not on any detected surface, is considered a medium risk. Immediate and cautious action may be required to avoid potential collisions.
+### Frame 0012 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| The sidewalks (sidewalk 1 and sidewalk 2) are located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 6:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 7:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, and 4 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+<PERSON_INFO>
+- ||Non-Detected Surfaces:|| Persons 5, 6, and 7 are not on any detected surface, which could indicate unexpected positions or movement patterns.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 7:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0012 is critical, as multiple persons are detected on the road and sidewalks. The high-risk evaluation for Persons 0 through 4 is due to their positions on the road or sidewalks, very close proximity to the dashcam, and angles near the extremes of the field of view. Persons 5, 6, and 7, who are not on any detected surface, are considered medium risks. Immediate attention and caution are necessary to avoid potential collisions.
+### Frame 0013 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| The sidewalks (sidewalk 1 and sidewalk 2) are located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1, sidewalk 2. Bounding box coordinates: [1119.0557, 667.8196, 1222.4805, 986.3069].
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [537.0821, 714.9371, 568.76337, 816.17145].
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2. Bounding box coordinates: [0.33824158, 658.79395, 38.544991, 775.82507].
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0. Bounding box coordinates: [559.4389, 717.84454, 586.1075, 813.7828].
+<PERSON_INFO>
+  - ||Person 4:|| Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 5:|| Not on any detected surface.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, and 3 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+<PERSON_INFO>
+- ||Non-Detected Surfaces:|| Persons 4 and 5 are not on any detected surface, which could indicate unexpected positions or movement patterns.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| Medium (not on any detected surface)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (not on any detected surface)
+</PERSON_INFO>
+
+The situation in Frame 0013 is critical, as multiple persons are detected on the road and sidewalks. Persons 0, 1, 2, and 3 pose a high risk due to their positions on the road or sidewalks, close proximity to the dashcam, and angles near the extremes of the field of view. Persons 4 and 5, who are not on any detected surface, are considered medium risks. Immediate attention and caution are necessary to avoid potential collisions.
+### Frame 0014 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1. Bounding box coordinates: [1135.33, 671.22, 1242.46, 1010.08].
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [533.92, 714.78, 565.57, 820.79].
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [555.08, 733.56, 579.63, 817.51].
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0. Bounding box coordinates: [0.16, 654.93, 22.89, 771.37].
+<PERSON_INFO>
+  - ||Person 4:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0. Bounding box coordinates: [1096.04, 720.73, 1113.67, 735.24].
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, and 4 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0014 is critical, as all detected persons are either on the road or sidewalk and are very close to the dashcam. The risk evaluation for Persons 0 through 4 is high due to their positions, proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0015 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| The sidewalks (sidewalk 1 and sidewalk 2) are located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+<PERSON_INFO>
+  - ||Person 6:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 7:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 8:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, 6, 7, and 8 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+<PERSON_INFO>
+- ||Non-Detected Surface:|| Person 5 is not on any detected surface, which could indicate an unexpected position or movement pattern.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 7:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 8:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0015 is critical, as multiple persons are detected on the road and sidewalks. The high-risk evaluation for Persons 0 through 8 is due to their positions on the road or sidewalks, very close proximity to the dashcam, and angles near the extremes of the field of view. Person 5, who is not on any detected surface, is considered a medium risk. Immediate and cautious action may be required to avoid potential collisions.
+### Frame 0016 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| The sidewalks (sidewalk 1, sidewalk 2) are located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 6:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 7:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, 5, 6, and 7 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, positive angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road and sidewalk, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 7:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0016 is critical, as all detected persons are on the road or sidewalks, very close to the dashcam, and at extreme angles. Immediate and cautious action is required to avoid potential collisions.
+### Frame 0017 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| The sidewalks (sidewalk 1 and sidewalk 2) are located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1, sidewalk 2. Bounding box coordinates: [1154.7794, 678.69617, 1258.2408, 1020.0333].
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [541.44543, 740.17786, 570.0654, 827.4907].
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2. Bounding box coordinates: [515.1401, 724.1713, 550.5534, 831.03217].
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0, sidewalk 1. Bounding box coordinates: [1116.2134, 723.7852, 1135.2686, 741.15265].
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0. Bounding box coordinates: [206.05312, 684.9285, 224.26277, 712.7602].
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. Not on any detected surface.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, and 4 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+<PERSON_INFO>
+- ||Non-Detected Surface:|| Person 5 is not on any detected surface, which could indicate an unexpected position or movement pattern.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| Medium (not on any detected surface, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0017 is critical, as all detected persons are either on the road or sidewalks, very close to the dashcam, and have angles near the extremes of the field of view. Person 5, who is not on any detected surface, is considered a medium risk. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0018 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1. Bounding box coordinates: [1133.3169, 687.69104, 1240.5757, 1019.10706].
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [511.32635, 722.56726, 557.2237, 831.4414].
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [207.96475, 685.9256, 224.81808, 711.64667].
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1. Bounding box coordinates: [112.80119, 607.2725, 146.59084, 678.7099].
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0. Bounding box coordinates: [536.6618, 742.58844, 561.84283, 827.9887].
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, and 4 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0018 is critical, as all detected persons are on the road or sidewalk and are very close to the dashcam. The high-risk evaluation for all persons is due to their positions on the road or sidewalk, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0019 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0019 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0020 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| The sidewalks (sidewalk 1 and sidewalk 2) are located in the right-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0, sidewalk 1, and sidewalk 2. Bounding box coordinates: [1116.0067, 688.2108, 1213.068, 991.08215].
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, and sidewalk 2. Bounding box coordinates: [506.828, 720.0752, 542.6749, 831.5802].
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, and sidewalk 2. Bounding box coordinates: [532.39545, 739.06494, 558.66144, 828.55176].
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, and 2 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0020 is critical, as all three detected persons are on the road or sidewalks, very close to the dashcam, and at extreme angles. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0021 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0021 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road and their very close proximity to the dashcam. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0022 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0022 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0023 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0023 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0024 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0024 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road and their very close proximity to the dashcam. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0025 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0025 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road and their very close proximity to the dashcam. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0026 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0026 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0027 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| The roads (road 0 and road 1) are located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.96 degrees. On road 0 and road 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of -89.87 degrees. On road 0 and road 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0 and road 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of 89.69 degrees. On road 0 and road 1.
+<PERSON_INFO>
+  - ||Person 4:|| Located at middle-down, very close to the dashcam, with an angle of 89.69 degrees. On road 0 and road 1.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, 2, 3, and 4 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road 0 and road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road 0 and road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road 0 and road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road 0 and road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road 0 and road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0027 is critical, as all detected persons are on the road and very close to the dashcam. The high-risk evaluation for all persons is due to their positions on the road, close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid potential collisions.
+### Frame 0028 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| The roads (road 0 and road 1) are located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.96 degrees. On road 0 and road 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of -89.90 degrees. On road 0 and road 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0 and road 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0 and road 1.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, 2, and 3 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road 0 and road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road 0 and road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road 0 and road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road 0 and road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0028 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 3 is due to their positions on both road 0 and road 1, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0029 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.95 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0029 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road and very close proximity to the dashcam. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0030 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| Road 0 and Road 1 are both located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.94 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of -89.92 degrees. On Road 0 and Road 1.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, 2, 3, 4, and 5 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on Road 0 and Road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on Road 0 and Road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0030 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for all persons is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid potential collisions.
+### Frame 0031 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.93 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0031 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0032 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.91 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.92 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0032 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0033 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| Road 0 and Road 1 are both located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.89 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of -89.92 degrees. On Road 0 and Road 1.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, 2, 3, 4, and 5 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on Road 0 and Road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on Road 0 and Road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0033 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for all persons is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action is required to avoid potential collisions.
+### Frame 0034 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.88 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0034 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0035 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| Road 0 and Road 1 are both located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.88 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of -89.90 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.98 degrees. On Road 0 and Road 1.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, 2, 3, 4, and 5 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on Road 0 and Road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on Road 0 and Road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on Road 0 and Road 1, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on Road 0 and Road 1, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on Road 0 and Road 1, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0035 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for all persons is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action is required to avoid potential collisions.
+### Frame 0036 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| Road 0 and Road 1 are both located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.86 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of -89.91 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On Road 0 and Road 1.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, 2, 3, 4, and 5 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on Road 0 and Road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on Road 0 and Road 1, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on Road 0 and Road 1, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on Road 0 and Road 1, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on Road 0 and Road 1, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on Road 0 and Road 1, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0036 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for all persons is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action is required to avoid potential collisions.
+### Frame 0037 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.81 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.90 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0037 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road and very close proximity to the dashcam. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0038 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.82 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0038 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road and very close proximity to the dashcam. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0039 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.84 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0039 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0040 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.83 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0040 is critical, as all three detected persons are on the road and in close proximity to the dashcam. Person 0, with a negative angle, is considered a high risk, along with Persons 1 and 2, who have angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0041 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.86 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.85 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0041 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0042 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.91 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.83 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0042 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0043 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| The roads (road 0, road 1, road 2) are located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.92 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.63 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 6:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 7:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 8:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 1, road 2.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, 2, 3, 4, 5, 6, 7, and 8 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road 0, road 1, road 2, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road 0, road 1, road 2, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road 0, road 1, road 2, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road 0, road 1, road 2, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road 0, road 1, road 2, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road 0, road 1, road 2, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| High (on road 0, road 1, road 2, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 7:|| High (on road 0, road 1, road 2, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 8:|| High (on road 0, road 1, road 2, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0043 is critical, as all detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 8 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid potential collisions.
+### Frame 0044 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| The roads (road 0, road 1, road 2) are located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.95 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.54 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, close to the dashcam, with an angle of -89.97 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 6:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 7:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, road 1, road 2.
+<PERSON_INFO>
+  - ||Person 8:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 1, road 2.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, 2, 3, 4, 5, 6, 7, and 8 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road 0, road 1, road 2, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road 0, road 1, road 2, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road 0, road 1, road 2, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road 0, road 1, road 2, close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road 0, road 1, road 2, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road 0, road 1, road 2, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| High (on road 0, road 1, road 2, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 7:|| High (on road 0, road 1, road 2, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 8:|| High (on road 0, road 1, road 2, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0044 is critical, as all detected persons are on the road and very close to the dashcam. The high-risk evaluation for all persons is due to their positions on the road, close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action is required to avoid potential collisions.
+### Frame 0045 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.97 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.91 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0045 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0046 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.96 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0046 is critical, as all three detected persons are on the road and very close to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0047 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0047 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0 through 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0048 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 1:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road:|| Persons 0, 1, and 2 are on the road, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0048 is critical, as all three detected persons are on the road and in close proximity to the dashcam. The high-risk evaluation for Persons 0, 1, and 2 is due to their positions on the road, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid a potential collision.
+### Frame 0049 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Positions:|| The roads (road 0, road 1, road 2) are located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| The sidewalks (sidewalk 3, sidewalk 4) are located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 1:|| Located at right-down, very close to the dashcam, with an angle of 89.99 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.97 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, close to the dashcam, with an angle of -89.95 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of 89.93 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 6:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 7:|| Located at middle-down, very close to the dashcam, with an angle of -89.97 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 8:|| Located at middle-down, very close to the dashcam, with an angle of -89.96 degrees. On road 0, road 1, road 2, sidewalk 3, sidewalk 4.
+<PERSON_INFO>
+  - ||Person 9:|| Located at middle-down, very close to the dashcam, with an angle of -89.97 degrees. On road 0, road 1, sidewalk 3, sidewalk 4.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on multiple roads and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on multiple roads and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on multiple roads and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on multiple roads and sidewalks, close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on multiple roads and sidewalks, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on multiple roads and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| High (on multiple roads and sidewalks, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 7:|| High (on multiple roads and sidewalks, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 8:|| High (on multiple roads and sidewalks, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 9:|| Medium (on multiple roads and sidewalks, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0049 is critical, as all detected persons are on the road or sidewalk, very close to the dashcam, and at extreme angles. Persons 0, 1, 2, 3, 4, 5, 6, 7, and 8 are considered high risk, while Person 9 is considered medium risk. Immediate attention and caution are required to avoid potential collisions.
+### Frame 0050 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of -89.95 degrees. On road 0, sidewalk 1, road 2. Bounding box coordinates: [732.59, 712.66, 749.39, 754.29].
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of -89.97 degrees. On road 0, sidewalk 1, road 2. Bounding box coordinates: [767.69, 717.44, 785.12, 768.21].
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1, road 2. Bounding box coordinates: [748.25, 712.69, 764.85, 755.78].
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of -89.97 degrees. On road 0. Bounding box coordinates: [780.83, 721.33, 799.38, 769.54].
+<PERSON_INFO>
+  - ||Person 4:|| Located at middle-down, very close to the dashcam, with an angle of 89.96 degrees. On road 0. Bounding box coordinates: [1081.98, 720.07, 1100.11, 768.12].
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of -89.97 degrees. On road 0. Bounding box coordinates: [755.94, 713.32, 767.32, 755.37].
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, and 5 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, positive angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0050 is critical, as all detected persons are on the road or sidewalk and very close to the dashcam. The risk evaluation for all persons is high due to their positions, proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action is required to avoid potential collisions.
+### Frame 0051 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Position:|| The sidewalk (sidewalk 1) is located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of 89.96 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 4:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0.
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, positive angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+
+The situation in Frame 0051 is critical, as multiple persons are detected on the road and sidewalk. The high-risk evaluation for Persons 0 through 5 is due to their positions on the road or sidewalk, very close proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action may be required to avoid potential collisions.
+### Frame 0052 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| Sidewalk 1, sidewalk 2, and sidewalk 3 are located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at middle-down, very close to the dashcam, with an angle of 89.95 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On sidewalk 3.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On sidewalk 3.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On sidewalk 3.
+<PERSON_INFO>
+  - ||Person 6:|| Located at middle-down, very close to the dashcam, with an angle of 89.85 degrees. On road 0, sidewalk 1, sidewalk 2, sidewalk 3.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, 5, and 6 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on sidewalk, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on sidewalk, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on sidewalk, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0052 is critical, as all detected persons are either on the road or sidewalk, very close to the dashcam, and have angles near the extremes of the field of view. Immediate and cautious action is required to avoid potential collisions.
+### Frame 0053 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| Sidewalk 1, 2, and 3 are located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.93 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at middle-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 3.
+<PERSON_INFO>
+  - ||Person 4:|| Located at middle-down, very close to the dashcam, with an angle of 89.16 degrees. On road 0, sidewalk 3.
+<PERSON_INFO>
+  - ||Person 5:|| Located at left-down, very close to the dashcam, with an angle of -89.98 degrees. On road 0, sidewalk 3.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, and 5 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road and sidewalk, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road and sidewalk, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0053 is critical, as all detected persons are on the road or sidewalk and are very close to the dashcam. The risk evaluation for all persons is high due to their positions, proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action is required to avoid potential collisions.
+### Frame 0054 Analysis
+
+||Summary of Key Frame Information:||
+- ||Road Position:|| The road (road 0) is located in the middle-down region of the frame.
+- ||Sidewalk Positions:|| Sidewalk 1 and sidewalk 2 are located in the left-down region of the frame.
+- ||People Positions and Distances:||
+<PERSON_INFO>
+  - ||Person 0:|| Located at middle-down, very close to the dashcam, with an angle of 89.91 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 1:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 2:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+<PERSON_INFO>
+  - ||Person 3:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 3.
+<PERSON_INFO>
+  - ||Person 4:|| Located at left-down, very close to the dashcam, with an angle of -89.99 degrees. On road 0, road 3.
+<PERSON_INFO>
+  - ||Person 5:|| Located at middle-down, very close to the dashcam, with an angle of 89.74 degrees. On road 0, road 3.
+<PERSON_INFO>
+  - ||Person 6:|| Located at right-up, very close to the dashcam, with an angle of 89.99 degrees. On road 0, sidewalk 1, sidewalk 2.
+
+||Potential Risks:||
+<PERSON_INFO>
+- ||Persons on Road and Sidewalk:|| Persons 0, 1, 2, 3, 4, 5, and 6 are on the road or sidewalk, posing a potential risk of collision.
+- ||Close Proximity to Dashcam:|| All detected persons are very close to the dashcam, indicating a crowded and potentially dangerous situation.
+
+||Risk Evaluation:||
+<PERSON_INFO>
+- ||Person 0:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 1:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 2:|| High (on road and sidewalks, very close to the dashcam, near -90-degree angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 3:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 4:|| High (on road, very close to the dashcam, negative angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 5:|| High (on road, very close to the dashcam, positive angle)
+</PERSON_INFO>
+<PERSON_INFO>
+- ||Person 6:|| High (on road and sidewalks, very close to the dashcam, near 90-degree angle)
+</PERSON_INFO>
+
+The situation in Frame 0054 is critical, as all detected persons are on the road or sidewalks and are very close to the dashcam. The risk evaluation for all persons is high due to their positions, proximity to the dashcam, and angles near the extremes of the field of view. Immediate and cautious action is necessary to avoid potential collisions.

@@ -95,4 +95,87 @@ Pedestrian: {
 }
 ```
 
+非常好，那么让我们处理另外一个问题
+
+我现在需要将另外一个名为：all_video_name.json转化为自然语言，但是我只需要其中每个帧的行人数据，不需要汽车和卡车
+
+转化的方式我希望是首先读取json作为一个dict，之后再写入输出文件
+
+
+
+例如：
+
+### frame 0012
+
+people detected: [0 1 5 9]
+
+0 is at [ bbox ], 1 is at [ bbox ], 5 is at [ bbox ] 9 is at [ bbox ]
+
+On right of our car, there are: [0 2 ], 
+
+On the left of our car, there are [5 9 ].
+
+ high confidence list: 0, 1 # bigger than 0.8
+
+low confidence list: 5,9 
+
+### frame 0013
+
+people detected: [0 2 5 9]
+
+0 is at [ bbox ], 2 is at [ bbox ], 5 is at [ bbox ] 9 is at [ bbox ]
+
+On right of our car, there are: [0 2 ], 
+
+On the left of our car, there are [5 9 ].
+
+ high confidence list: 0, 2 # bigger than 0.8
+
+low confidence list: 5,9  # lower than 0.4
+
+你可以从这个代码作为原型
+
+```
+
+def read_and_translate_mot_files(input_folder, output_folder):
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+        
+    for filename in os.listdir(input_folder):
+        if filename.endswith('.txt'):
+            print(filename)
+            file_path = os.path.join(input_folder, filename)
+            lines = []
+            with open(file_path, 'r') as file:
+                lines = file.readlines()
+            if not lines:
+                print(f"no detected obj in current video:{file_path}")
+                return
+                
+            parsed_data = []
+            for line in lines:
+                frame, object_id, bb_left, bb_top, bb_right, bb_bottom, conf, class_id, _, _ = map(float, line.strip().split(","))
+                parsed_data.append({
+                    'Frame': int(frame),
+                    'Object_ID': int(object_id),
+                    'BB_Left': bb_left,
+                    'BB_Top': bb_top,
+                    'BB_Width': bb_right,
+                    'BB_Height': bb_bottom,
+                    'Class_ID': int(class_id),
+                    'Confidence' : float(conf)
+                })
+                
+            df_mot = pd.DataFrame(parsed_data)
+            translated_text = translate_to_natural_language(df_mot)
+
+
+            output_file_path = os.path.join(output_folder, f"mot_{filename}")
+            with open(output_file_path, 'w') as file:
+                file.write(translated_text)
+
+read_and_translate_mot_files("./","mot_archive/")
+```
+
+
 
