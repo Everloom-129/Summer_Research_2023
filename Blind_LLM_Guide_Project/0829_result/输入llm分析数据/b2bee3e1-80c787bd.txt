@@ -1,0 +1,4809 @@
+### frame 0000
+no detected person
+
+### frame 0001
+no detected person
+
+### frame 0002
+no detected person
+
+### frame 0003
+no detected person
+
+### frame 0004
+no detected person
+
+### frame 0005
+no detected person
+
+### frame 0006
+no detected person
+
+### frame 0007
+no detected person
+
+### frame 0008
+no detected person
+
+### frame 0009
+no detected person
+
+### frame 0010
+no detected person
+
+### frame 0011
+no detected person
+
+### frame 0012
+no detected person
+
+### frame 0013
+no detected person
+
+### frame 0014
+no detected person
+
+### frame 0015
+no detected person
+
+### frame 0016
+no detected person
+
+### frame 0017
+no detected person
+
+### frame 0018
+no detected person
+
+### frame 0019
+no detected person
+
+### frame 0020
+no detected person
+
+### frame 0021
+no detected person
+
+### frame 0022
+no detected person
+
+### frame 0023
+no detected person
+
+### frame 0024
+no detected person
+
+### frame 0025
+no detected person
+
+### frame 0026
+no detected person
+
+### frame 0027
+no detected person
+
+### frame 0028
+no detected person
+
+### frame 0029
+no detected person
+
+### frame 0030
+no detected person
+
+### frame 0031
+no detected person
+
+### frame 0032
+no detected person
+
+### frame 0033
+no detected person
+
+### frame 0034
+no detected person
+
+### frame 0035
+no detected person
+
+### frame 0036
+no detected person
+
+### frame 0037
+no detected person
+
+### frame 0038
+no detected person
+
+### frame 0039
+no detected person
+
+### frame 0040
+no detected person
+
+### frame 0041
+no detected person
+
+### frame 0042
+no detected person
+
+### frame 0043
+no detected person
+
+### frame 0044
+no detected person
+
+### frame 0045
+no detected person
+
+### frame 0046
+no detected person
+
+### frame 0047
+no detected person
+
+### frame 0048
+no detected person
+
+### frame 0049
+no detected person
+
+### frame 0050
+no detected person
+
+### frame 0051
+no detected person
+
+### frame 0052
+no detected person
+
+### frame 0053
+no detected person
+
+### frame 0054
+no detected person
+
+### frame 0055
+no detected person
+
+### frame 0056
+no detected person
+
+### frame 0057
+no detected person
+
+### frame 0058
+no detected person
+
+### frame 0059
+no detected person
+
+### frame 0060
+no detected person
+
+### frame 0061
+no detected person
+
+### frame 0062
+no detected person
+
+### frame 0063
+no detected person
+
+### frame 0064
+no detected person
+
+### frame 0065
+no detected person
+
+### frame 0066
+no detected person
+
+### frame 0067
+no detected person
+
+### frame 0068
+no detected person
+
+### frame 0069
+no detected person
+
+### frame 0070
+no detected person
+
+### frame 0071
+no detected person
+
+### frame 0072
+no detected person
+
+### frame 0073
+no detected person
+
+### frame 0074
+no detected person
+
+### frame 0075
+no detected person
+
+### frame 0076
+no detected person
+
+### frame 0077
+no detected person
+
+### frame 0078
+no detected person
+
+### frame 0079
+no detected person
+
+### frame 0080
+no detected person
+
+### frame 0081
+no detected person
+
+### frame 0082
+no detected person
+
+### frame 0083
+no detected person
+
+### frame 0084
+no detected person
+
+### frame 0085
+no detected person
+
+### frame 0086
+no detected person
+
+### frame 0087
+no detected person
+
+### frame 0088
+no detected person
+
+### frame 0089
+no detected person
+
+### frame 0090
+no detected person
+
+### frame 0091
+no detected person
+
+### frame 0092
+no detected person
+
+### frame 0093
+no detected person
+
+### frame 0094
+no detected person
+
+### frame 0095
+no detected person
+
+### frame 0096
+no detected person
+
+### frame 0097
+no detected person
+
+### frame 0098
+no detected person
+
+### frame 0099
+no detected person
+
+### frame 0100
+no detected person
+
+### frame 0101
+no detected person
+
+### frame 0102
+no detected person
+
+### frame 0103
+no detected person
+
+### frame 0104
+no detected person
+
+### frame 0105
+no detected person
+
+### frame 0106
+no detected person
+
+### frame 0107
+no detected person
+
+### frame 0108
+no detected person
+
+### frame 0109
+no detected person
+
+### frame 0110
+no detected person
+
+### frame 0111
+no detected person
+
+### frame 0112
+no detected person
+
+### frame 0113
+no detected person
+
+### frame 0114
+no detected person
+
+### frame 0115
+no detected person
+
+### frame 0116
+no detected person
+
+### frame 0117
+no detected person
+
+### frame 0118
+no detected person
+
+### frame 0119
+no detected person
+
+### frame 0120
+no detected person
+
+### frame 0121
+no detected person
+
+### frame 0122
+no detected person
+
+### frame 0123
+no detected person
+
+### frame 0124
+no detected person
+
+### frame 0125
+no detected person
+
+### frame 0126
+no detected person
+
+### frame 0127
+no detected person
+
+### frame 0128
+no detected person
+
+### frame 0129
+no detected person
+
+### frame 0130
+no detected person
+
+### frame 0131
+no detected person
+
+### frame 0132
+no detected person
+
+### frame 0133
+no detected person
+
+### frame 0134
+no detected person
+
+### frame 0135
+no detected person
+
+### frame 0136
+no detected person
+
+### frame 0137
+no detected person
+
+### frame 0138
+no detected person
+
+### frame 0139
+no detected person
+
+### frame 0140
+no detected person
+
+### frame 0141
+no detected person
+
+### frame 0142
+no detected person
+
+### frame 0143
+no detected person
+
+### frame 0144
+no detected person
+
+### frame 0145
+no detected person
+
+### frame 0146
+no detected person
+
+### frame 0147
+no detected person
+
+### frame 0148
+no detected person
+
+### frame 0149
+no detected person
+
+### frame 0150
+no detected person
+
+### frame 0151
+no detected person
+
+### frame 0152
+no detected person
+
+### frame 0153
+no detected person
+
+### frame 0154
+no detected person
+
+### frame 0155
+no detected person
+
+### frame 0156
+no detected person
+
+### frame 0157
+no detected person
+
+### frame 0158
+no detected person
+
+### frame 0159
+no detected person
+
+### frame 0160
+no detected person
+
+### frame 0161
+no detected person
+
+### frame 0162
+no detected person
+
+### frame 0163
+no detected person
+
+### frame 0164
+no detected person
+
+### frame 0165
+no detected person
+
+### frame 0166
+no detected person
+
+### frame 0167
+no detected person
+
+### frame 0168
+no detected person
+
+### frame 0169
+no detected person
+
+### frame 0170
+no detected person
+
+### frame 0171
+no detected person
+
+### frame 0172
+no detected person
+
+### frame 0173
+no detected person
+
+### frame 0174
+no detected person
+
+### frame 0175
+no detected person
+
+### frame 0176
+no detected person
+
+### frame 0177
+no detected person
+
+### frame 0178
+no detected person
+
+### frame 0179
+no detected person
+
+### frame 0180
+no detected person
+
+### frame 0181
+no detected person
+
+### frame 0182
+no detected person
+
+### frame 0183
+no detected person
+
+### frame 0184
+no detected person
+
+### frame 0185
+no detected person
+
+### frame 0186
+no detected person
+
+### frame 0187
+no detected person
+
+### frame 0188
+no detected person
+
+### frame 0189
+no detected person
+
+### frame 0190
+no detected person
+
+### frame 0191
+no detected person
+
+### frame 0192
+no detected person
+
+### frame 0193
+no detected person
+
+### frame 0194
+no detected person
+
+### frame 0195
+no detected person
+
+### frame 0196
+no detected person
+
+### frame 0197
+no detected person
+
+### frame 0198
+no detected person
+
+### frame 0199
+no detected person
+
+### frame 0200
+no detected person
+
+### frame 0201
+no detected person
+
+### frame 0202
+no detected person
+
+### frame 0203
+no detected person
+
+### frame 0204
+no detected person
+
+### frame 0205
+no detected person
+
+### frame 0206
+no detected person
+
+### frame 0207
+no detected person
+
+### frame 0208
+no detected person
+
+### frame 0209
+no detected person
+
+### frame 0210
+no detected person
+
+### frame 0211
+no detected person
+
+### frame 0212
+no detected person
+
+### frame 0213
+no detected person
+
+### frame 0214
+no detected person
+
+### frame 0215
+no detected person
+
+### frame 0216
+no detected person
+
+### frame 0217
+no detected person
+
+### frame 0218
+no detected person
+
+### frame 0219
+no detected person
+
+### frame 0220
+no detected person
+
+### frame 0221
+no detected person
+
+### frame 0222
+no detected person
+
+### frame 0223
+no detected person
+
+### frame 0224
+no detected person
+
+### frame 0225
+no detected person
+
+### frame 0226
+no detected person
+
+### frame 0227
+no detected person
+
+### frame 0228
+no detected person
+
+### frame 0229
+no detected person
+
+### frame 0230
+no detected person
+
+### frame 0231
+no detected person
+
+### frame 0232
+no detected person
+
+### frame 0233
+no detected person
+
+### frame 0234
+no detected person
+
+### frame 0235
+no detected person
+
+### frame 0236
+no detected person
+
+### frame 0237
+no detected person
+
+### frame 0238
+no detected person
+
+### frame 0239
+no detected person
+
+### frame 0240
+no detected person
+
+### frame 0241
+no detected person
+
+### frame 0242
+no detected person
+
+### frame 0243
+no detected person
+
+### frame 0244
+no detected person
+
+### frame 0245
+no detected person
+
+### frame 0246
+no detected person
+
+### frame 0247
+no detected person
+
+### frame 0248
+no detected person
+
+### frame 0249
+no detected person
+
+### frame 0250
+no detected person
+
+### frame 0251
+no detected person
+
+### frame 0252
+no detected person
+
+### frame 0253
+no detected person
+
+### frame 0254
+no detected person
+
+### frame 0255
+no detected person
+
+### frame 0256
+no detected person
+
+### frame 0257
+no detected person
+
+### frame 0258
+no detected person
+
+### frame 0259
+no detected person
+
+### frame 0260
+no detected person
+
+### frame 0261
+no detected person
+
+### frame 0262
+no detected person
+
+### frame 0263
+no detected person
+
+### frame 0264
+no detected person
+
+### frame 0265
+no detected person
+
+### frame 0266
+no detected person
+
+### frame 0267
+no detected person
+
+### frame 0268
+no detected person
+
+### frame 0269
+no detected person
+
+### frame 0270
+no detected person
+
+### frame 0271
+no detected person
+
+### frame 0272
+no detected person
+
+### frame 0273
+no detected person
+
+### frame 0274
+no detected person
+
+### frame 0275
+no detected person
+
+### frame 0276
+no detected person
+
+### frame 0277
+no detected person
+
+### frame 0278
+no detected person
+
+### frame 0279
+no detected person
+
+### frame 0280
+no detected person
+
+### frame 0281
+no detected person
+
+### frame 0282
+no detected person
+
+### frame 0283
+no detected person
+
+### frame 0284
+no detected person
+
+### frame 0285
+no detected person
+
+### frame 0286
+no detected person
+
+### frame 0287
+no detected person
+
+### frame 0288
+no detected person
+
+### frame 0289
+no detected person
+
+### frame 0290
+no detected person
+
+### frame 0291
+no detected person
+
+### frame 0292
+no detected person
+
+### frame 0293
+no detected person
+
+### frame 0294
+no detected person
+
+### frame 0295
+no detected person
+
+### frame 0296
+no detected person
+
+### frame 0297
+no detected person
+
+### frame 0298
+no detected person
+
+### frame 0299
+no detected person
+
+### frame 0300
+no detected person
+
+### frame 0301
+no detected person
+
+### frame 0302
+no detected person
+
+### frame 0303
+no detected person
+
+### frame 0304
+no detected person
+
+### frame 0305
+no detected person
+
+### frame 0306
+no detected person
+
+### frame 0307
+no detected person
+
+### frame 0308
+no detected person
+
+### frame 0309
+no detected person
+
+### frame 0310
+no detected person
+
+### frame 0311
+no detected person
+
+### frame 0312
+no detected person
+
+### frame 0313
+no detected person
+
+### frame 0314
+no detected person
+
+### frame 0315
+no detected person
+
+### frame 0316
+no detected person
+
+### frame 0317
+no detected person
+
+### frame 0318
+no detected person
+
+### frame 0319
+no detected person
+
+### frame 0320
+no detected person
+
+### frame 0321
+no detected person
+
+### frame 0322
+no detected person
+
+### frame 0323
+no detected person
+
+### frame 0324
+no detected person
+
+### frame 0325
+no detected person
+
+### frame 0326
+no detected person
+
+### frame 0327
+no detected person
+
+### frame 0328
+no detected person
+
+### frame 0329
+no detected person
+
+### frame 0330
+no detected person
+
+### frame 0331
+no detected person
+
+### frame 0332
+no detected person
+
+### frame 0333
+no detected person
+
+### frame 0334
+no detected person
+
+### frame 0335
+no detected person
+
+### frame 0336
+no detected person
+
+### frame 0337
+no detected person
+
+### frame 0338
+no detected person
+
+### frame 0339
+no detected person
+
+### frame 0340
+no detected person
+
+### frame 0341
+no detected person
+
+### frame 0342
+no detected person
+
+### frame 0343
+no detected person
+
+### frame 0344
+no detected person
+
+### frame 0345
+no detected person
+
+### frame 0346
+no detected person
+
+### frame 0347
+no detected person
+
+### frame 0348
+no detected person
+
+### frame 0349
+no detected person
+
+### frame 0350
+no detected person
+
+### frame 0351
+no detected person
+
+### frame 0352
+no detected person
+
+### frame 0353
+no detected person
+
+### frame 0354
+no detected person
+
+### frame 0355
+no detected person
+
+### frame 0356
+no detected person
+
+### frame 0357
+no detected person
+
+### frame 0358
+no detected person
+
+### frame 0359
+no detected person
+
+### frame 0360
+no detected person
+
+### frame 0361
+no detected person
+
+### frame 0362
+no detected person
+
+### frame 0363
+no detected person
+
+### frame 0364
+no detected person
+
+### frame 0365
+no detected person
+
+### frame 0366
+no detected person
+
+### frame 0367
+no detected person
+
+### frame 0368
+no detected person
+
+### frame 0369
+no detected person
+
+### frame 0370
+no detected person
+
+### frame 0371
+no detected person
+
+### frame 0372
+no detected person
+
+### frame 0373
+no detected person
+
+### frame 0374
+no detected person
+
+### frame 0375
+no detected person
+
+### frame 0376
+no detected person
+
+### frame 0377
+no detected person
+
+### frame 0378
+no detected person
+
+### frame 0379
+no detected person
+
+### frame 0380
+no detected person
+
+### frame 0381
+no detected person
+
+### frame 0382
+no detected person
+
+### frame 0383
+no detected person
+
+### frame 0384
+no detected person
+
+### frame 0385
+no detected person
+
+### frame 0386
+no detected person
+
+### frame 0387
+no detected person
+
+### frame 0388
+no detected person
+
+### frame 0389
+no detected person
+
+### frame 0390
+no detected person
+
+### frame 0391
+no detected person
+
+### frame 0392
+no detected person
+
+### frame 0393
+no detected person
+
+### frame 0394
+no detected person
+
+### frame 0395
+no detected person
+
+### frame 0396
+no detected person
+
+### frame 0397
+no detected person
+
+### frame 0398
+no detected person
+
+### frame 0399
+no detected person
+
+### frame 0400
+no detected person
+
+### frame 0401
+no detected person
+
+### frame 0402
+no detected person
+
+### frame 0403
+no detected person
+
+### frame 0404
+no detected person
+
+### frame 0405
+no detected person
+
+### frame 0406
+no detected person
+
+### frame 0407
+no detected person
+
+### frame 0408
+no detected person
+
+### frame 0409
+no detected person
+
+### frame 0410
+no detected person
+
+### frame 0411
+no detected person
+
+### frame 0412
+no detected person
+
+### frame 0413
+people detected: [2]
+2 is at [428.8, 316.7, 447.8, 365.6] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: none 
+
+### frame 0414
+people detected: [2]
+2 is at [428.9, 314.0, 448.4, 364.5] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: 2
+low confidence: none 
+
+### frame 0415
+people detected: [2]
+2 is at [429.0, 311.7, 448.6, 362.3] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: 2
+low confidence: none 
+
+### frame 0416
+people detected: [2]
+2 is at [428.8, 308.9, 448.3, 359.4] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: none 
+
+### frame 0417
+people detected: [2]
+2 is at [429.1, 305.7, 448.4, 355.7] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: 2
+low confidence: none 
+
+### frame 0418
+people detected: [2]
+2 is at [428.6, 302.0, 448.5, 353.5] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: none 
+
+### frame 0419
+people detected: [2]
+2 is at [429.4, 299.1, 448.8, 349.6] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: none 
+
+### frame 0420
+people detected: [2]
+2 is at [430.5, 293.9, 450.2, 345.0] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: none 
+
+### frame 0421
+people detected: [2]
+2 is at [430.1, 290.3, 449.8, 341.4] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: 2 
+
+### frame 0422
+people detected: [2]
+2 is at [431.5, 289.4, 450.1, 338.0] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: 2 
+
+### frame 0423
+people detected: [2]
+2 is at [431.5, 287.6, 449.5, 334.5] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: 2 
+
+### frame 0424
+people detected: [2]
+2 is at [431.7, 284.5, 449.9, 331.5] 
+On right of our car, there are: []
+On the left of our car, there are [2]
+high confidence: none
+low confidence: 2 
+
+### frame 0425
+people detected: [2, 4]
+2 is at [431.8, 282.2, 449.9, 329.0] 
+4 is at [418.5, 281.8, 436.6, 327.5] 
+On right of our car, there are: []
+On the left of our car, there are [2, 4]
+high confidence: none
+low confidence: 2 
+
+### frame 0426
+people detected: [2, 4]
+2 is at [431.8, 282.4, 450.4, 330.1] 
+4 is at [418.4, 281.6, 436.7, 327.7] 
+On right of our car, there are: []
+On the left of our car, there are [2, 4]
+high confidence: none
+low confidence: none 
+
+### frame 0427
+people detected: [2, 4]
+2 is at [432.0, 283.0, 450.4, 330.1] 
+4 is at [418.1, 281.3, 436.4, 327.5] 
+On right of our car, there are: []
+On the left of our car, there are [2, 4]
+high confidence: none
+low confidence: none 
+
+### frame 0428
+people detected: [2, 4]
+2 is at [433.6, 283.3, 451.6, 329.8] 
+4 is at [417.9, 282.2, 435.6, 326.6] 
+On right of our car, there are: []
+On the left of our car, there are [2, 4]
+high confidence: none
+low confidence: none 
+
+### frame 0429
+people detected: [2, 4]
+2 is at [433.8, 283.9, 451.6, 329.8] 
+4 is at [417.7, 282.4, 435.1, 326.2] 
+On right of our car, there are: []
+On the left of our car, there are [2, 4]
+high confidence: none
+low confidence: none 
+
+### frame 0430
+people detected: [2, 4]
+2 is at [435.3, 284.1, 452.5, 328.8] 
+4 is at [418.1, 286.3, 433.6, 325.3] 
+On right of our car, there are: []
+On the left of our car, there are [2, 4]
+high confidence: none
+low confidence: 4 
+
+### frame 0431
+people detected: [2, 4]
+2 is at [435.9, 282.7, 453.2, 327.8] 
+4 is at [419.8, 282.6, 436.3, 324.1] 
+On right of our car, there are: []
+On the left of our car, there are [2, 4]
+high confidence: none
+low confidence: 4 
+
+### frame 0432
+people detected: [2, 4]
+2 is at [435.4, 281.4, 453.0, 327.4] 
+4 is at [419.7, 281.1, 436.6, 323.8] 
+On right of our car, there are: []
+On the left of our car, there are [2, 4]
+high confidence: none
+low confidence: 4 
+
+### frame 0433
+no detected person
+
+### frame 0434
+no detected person
+
+### frame 0435
+no detected person
+
+### frame 0436
+no detected person
+
+### frame 0437
+no detected person
+
+### frame 0438
+no detected person
+
+### frame 0439
+no detected person
+
+### frame 0440
+no detected person
+
+### frame 0441
+no detected person
+
+### frame 0442
+no detected person
+
+### frame 0443
+no detected person
+
+### frame 0444
+no detected person
+
+### frame 0445
+no detected person
+
+### frame 0446
+no detected person
+
+### frame 0447
+no detected person
+
+### frame 0448
+no detected person
+
+### frame 0449
+no detected person
+
+### frame 0450
+no detected person
+
+### frame 0451
+no detected person
+
+### frame 0452
+no detected person
+
+### frame 0453
+no detected person
+
+### frame 0454
+no detected person
+
+### frame 0455
+no detected person
+
+### frame 0456
+no detected person
+
+### frame 0457
+no detected person
+
+### frame 0458
+no detected person
+
+### frame 0459
+no detected person
+
+### frame 0460
+no detected person
+
+### frame 0461
+no detected person
+
+### frame 0462
+no detected person
+
+### frame 0463
+no detected person
+
+### frame 0464
+no detected person
+
+### frame 0465
+no detected person
+
+### frame 0466
+no detected person
+
+### frame 0467
+no detected person
+
+### frame 0468
+no detected person
+
+### frame 0469
+no detected person
+
+### frame 0470
+no detected person
+
+### frame 0471
+no detected person
+
+### frame 0472
+no detected person
+
+### frame 0473
+no detected person
+
+### frame 0474
+no detected person
+
+### frame 0475
+no detected person
+
+### frame 0476
+no detected person
+
+### frame 0477
+no detected person
+
+### frame 0478
+no detected person
+
+### frame 0479
+no detected person
+
+### frame 0480
+no detected person
+
+### frame 0481
+no detected person
+
+### frame 0482
+no detected person
+
+### frame 0483
+no detected person
+
+### frame 0484
+no detected person
+
+### frame 0485
+no detected person
+
+### frame 0486
+no detected person
+
+### frame 0487
+no detected person
+
+### frame 0488
+no detected person
+
+### frame 0489
+no detected person
+
+### frame 0490
+no detected person
+
+### frame 0491
+no detected person
+
+### frame 0492
+no detected person
+
+### frame 0493
+no detected person
+
+### frame 0494
+no detected person
+
+### frame 0495
+no detected person
+
+### frame 0496
+no detected person
+
+### frame 0497
+people detected: [5]
+5 is at [489.3, 371.1, 518.7, 437.8] 
+On right of our car, there are: []
+On the left of our car, there are [5]
+high confidence: none
+low confidence: none 
+
+### frame 0498
+people detected: [5]
+5 is at [489.4, 373.7, 518.5, 439.7] 
+On right of our car, there are: []
+On the left of our car, there are [5]
+high confidence: 5
+low confidence: none 
+
+### frame 0499
+people detected: [5]
+5 is at [489.1, 372.8, 519.1, 440.8] 
+On right of our car, there are: []
+On the left of our car, there are [5]
+high confidence: none
+low confidence: none 
+
+### frame 0500
+people detected: [5]
+5 is at [488.8, 372.2, 519.5, 441.7] 
+On right of our car, there are: []
+On the left of our car, there are [5]
+high confidence: none
+low confidence: none 
+
+### frame 0501
+people detected: [5]
+5 is at [488.8, 370.3, 520.8, 442.8] 
+On right of our car, there are: []
+On the left of our car, there are [5]
+high confidence: none
+low confidence: none 
+
+### frame 0502
+people detected: [5]
+5 is at [490.0, 373.1, 521.4, 444.2] 
+On right of our car, there are: []
+On the left of our car, there are [5]
+high confidence: none
+low confidence: 5 
+
+### frame 0503
+no detected person
+
+### frame 0504
+no detected person
+
+### frame 0505
+no detected person
+
+### frame 0506
+no detected person
+
+### frame 0507
+no detected person
+
+### frame 0508
+no detected person
+
+### frame 0509
+people detected: [6, 7]
+6 is at [450.8, 364.0, 473.9, 422.2] 
+7 is at [430.9, 356.1, 460.8, 434.0] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0510
+people detected: [6, 7]
+6 is at [451.2, 363.9, 474.1, 421.5] 
+7 is at [430.8, 356.4, 460.5, 433.6] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0511
+people detected: [6, 7]
+6 is at [450.6, 363.4, 474.0, 422.6] 
+7 is at [430.3, 356.5, 460.4, 434.8] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0512
+people detected: [6, 7]
+6 is at [450.5, 363.9, 473.8, 422.8] 
+7 is at [429.2, 356.9, 459.5, 436.1] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0513
+people detected: [6, 7]
+6 is at [450.1, 364.5, 473.3, 423.3] 
+7 is at [429.8, 357.1, 459.9, 435.6] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0514
+people detected: [6, 7]
+6 is at [449.8, 364.7, 473.3, 424.2] 
+7 is at [429.1, 360.7, 457.4, 434.4] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: 7 
+
+### frame 0515
+people detected: [6, 7]
+6 is at [449.2, 364.4, 473.3, 425.4] 
+7 is at [425.8, 356.6, 457.3, 438.8] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: 7 
+
+### frame 0516
+people detected: [6, 7]
+6 is at [449.2, 364.8, 473.6, 426.8] 
+7 is at [424.4, 358.1, 456.9, 442.6] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: 7 
+
+### frame 0517
+people detected: [6]
+6 is at [449.1, 367.8, 473.0, 428.5] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0518
+people detected: [6]
+6 is at [446.3, 363.3, 472.8, 430.3] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0519
+people detected: [6, 7]
+6 is at [447.4, 367.4, 472.9, 432.1] 
+7 is at [423.7, 359.0, 457.8, 447.8] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0520
+people detected: [6, 7]
+6 is at [448.2, 369.1, 473.3, 433.1] 
+7 is at [422.9, 359.9, 457.2, 449.2] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0521
+people detected: [6, 7]
+6 is at [448.1, 369.9, 472.8, 433.3] 
+7 is at [422.5, 360.2, 456.7, 449.3] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0522
+people detected: [6, 7]
+6 is at [448.3, 370.2, 473.2, 434.1] 
+7 is at [422.2, 364.8, 455.1, 450.7] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0523
+people detected: [6, 7]
+6 is at [448.6, 369.7, 473.5, 434.2] 
+7 is at [422.4, 368.3, 454.3, 451.8] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0524
+people detected: [6, 7]
+6 is at [448.7, 369.3, 474.0, 434.7] 
+7 is at [424.6, 371.1, 454.3, 448.9] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0525
+people detected: [6, 7]
+6 is at [448.9, 369.3, 474.5, 435.5] 
+7 is at [423.0, 370.9, 453.9, 451.5] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0526
+people detected: [6, 7]
+6 is at [448.6, 368.7, 474.6, 435.6] 
+7 is at [422.5, 371.2, 453.7, 452.3] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0527
+people detected: [6, 7]
+6 is at [448.8, 368.7, 474.7, 435.4] 
+7 is at [422.2, 371.2, 453.8, 453.0] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: none 
+
+### frame 0528
+people detected: [6, 7]
+6 is at [448.9, 368.3, 475.1, 435.3] 
+7 is at [421.9, 371.6, 454.1, 454.4] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: 7 
+
+### frame 0529
+people detected: [6, 7]
+6 is at [449.4, 367.7, 475.6, 434.4] 
+7 is at [422.3, 372.1, 454.8, 455.3] 
+On right of our car, there are: []
+On the left of our car, there are [6, 7]
+high confidence: 6
+low confidence: 7 
+
+### frame 0530
+people detected: [6]
+6 is at [449.6, 367.1, 476.2, 434.5] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0531
+people detected: [6]
+6 is at [450.5, 365.9, 477.5, 433.9] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0532
+people detected: [6]
+6 is at [451.2, 366.1, 478.4, 434.6] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0533
+people detected: [6]
+6 is at [451.5, 365.7, 479.1, 435.3] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0534
+people detected: [6]
+6 is at [452.9, 365.2, 480.7, 435.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0535
+people detected: [6]
+6 is at [454.4, 365.4, 482.3, 435.5] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0536
+people detected: [6]
+6 is at [455.9, 365.3, 484.0, 435.8] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0537
+people detected: [6]
+6 is at [456.7, 364.1, 485.4, 436.3] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0538
+people detected: [6]
+6 is at [458.0, 362.5, 487.6, 436.8] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0539
+people detected: [6]
+6 is at [459.4, 362.1, 489.9, 438.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0540
+people detected: [6]
+6 is at [461.2, 363.3, 491.7, 439.6] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0541
+people detected: [6]
+6 is at [463.1, 363.2, 493.9, 440.6] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0542
+people detected: [6]
+6 is at [464.7, 362.6, 495.7, 440.7] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0543
+people detected: [6]
+6 is at [466.2, 362.7, 498.1, 443.1] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0544
+people detected: [6]
+6 is at [469.1, 364.3, 500.9, 444.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0545
+people detected: [6]
+6 is at [471.9, 365.0, 504.4, 446.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0546
+people detected: [6]
+6 is at [475.1, 366.4, 507.8, 448.3] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0547
+people detected: [6]
+6 is at [477.8, 368.4, 510.5, 450.1] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0548
+people detected: [6]
+6 is at [482.3, 369.4, 515.0, 451.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0549
+people detected: [6]
+6 is at [486.1, 369.8, 519.2, 452.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0550
+people detected: [6]
+6 is at [490.2, 371.3, 523.4, 453.5] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0551
+people detected: [6]
+6 is at [494.5, 369.3, 528.6, 453.7] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0552
+people detected: [6]
+6 is at [499.4, 367.4, 534.5, 453.8] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0553
+people detected: [6]
+6 is at [504.4, 366.2, 540.0, 453.8] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0554
+people detected: [6]
+6 is at [509.6, 366.0, 545.2, 453.9] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0555
+people detected: [6]
+6 is at [514.1, 364.4, 550.3, 453.9] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0556
+people detected: [6]
+6 is at [518.8, 363.2, 555.5, 454.1] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0557
+people detected: [6]
+6 is at [523.8, 361.2, 561.8, 455.7] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0558
+people detected: [6]
+6 is at [528.1, 360.1, 566.6, 456.3] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0559
+no detected person
+
+### frame 0560
+no detected person
+
+### frame 0561
+no detected person
+
+### frame 0562
+no detected person
+
+### frame 0563
+no detected person
+
+### frame 0564
+people detected: [6]
+6 is at [558.4, 361.1, 599.1, 462.6] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0565
+people detected: [6]
+6 is at [562.8, 359.6, 604.6, 463.1] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: 6 
+
+### frame 0566
+people detected: [6]
+6 is at [568.4, 360.8, 610.6, 466.1] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0567
+people detected: [6]
+6 is at [573.5, 361.7, 615.9, 468.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0568
+people detected: [6]
+6 is at [578.8, 363.4, 621.0, 470.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0569
+people detected: [6]
+6 is at [583.2, 364.4, 625.6, 472.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0570
+people detected: [6]
+6 is at [589.7, 360.5, 635.0, 476.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0571
+people detected: [6]
+6 is at [595.3, 364.7, 640.3, 479.3] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0572
+people detected: [6]
+6 is at [599.6, 367.2, 644.7, 481.6] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0573
+people detected: [6]
+6 is at [605.6, 369.1, 651.6, 485.3] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0574
+people detected: [6]
+6 is at [612.3, 370.2, 658.8, 487.8] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0575
+people detected: [6]
+6 is at [617.2, 372.9, 663.6, 489.9] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0576
+people detected: [6]
+6 is at [621.9, 373.3, 669.1, 491.6] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0577
+people detected: [6]
+6 is at [627.1, 374.6, 674.4, 492.5] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0578
+people detected: [6]
+6 is at [631.7, 374.7, 679.6, 494.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0579
+people detected: [6]
+6 is at [634.9, 376.2, 682.9, 495.8] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0580
+people detected: [6]
+6 is at [638.5, 376.2, 687.6, 498.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0581
+people detected: [6]
+6 is at [642.6, 378.3, 692.5, 502.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0582
+people detected: [6]
+6 is at [645.9, 378.7, 696.9, 505.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0583
+people detected: [6]
+6 is at [648.1, 379.5, 701.2, 509.7] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0584
+people detected: [6]
+6 is at [653.2, 381.2, 707.5, 514.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0585
+people detected: [6]
+6 is at [658.7, 380.5, 715.3, 518.8] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0586
+people detected: [6]
+6 is at [664.3, 383.8, 720.6, 520.7] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0587
+people detected: [6]
+6 is at [673.1, 385.6, 729.6, 523.0] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: 6 
+
+### frame 0588
+people detected: [6]
+6 is at [675.6, 391.5, 730.5, 524.0] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: 6 
+
+### frame 0589
+people detected: [6]
+6 is at [687.6, 393.5, 743.6, 528.4] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0590
+people detected: [6]
+6 is at [694.8, 394.1, 752.4, 532.5] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: 6 
+
+### frame 0591
+people detected: [6]
+6 is at [703.1, 393.8, 761.3, 534.7] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0592
+no detected person
+
+### frame 0593
+no detected person
+
+### frame 0594
+no detected person
+
+### frame 0595
+people detected: [6]
+6 is at [726.7, 385.0, 791.0, 540.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0596
+people detected: [6]
+6 is at [733.7, 380.4, 799.7, 538.7] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0597
+people detected: [6]
+6 is at [735.7, 376.2, 804.7, 540.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0598
+people detected: [6, 10]
+6 is at [740.3, 371.0, 813.1, 542.9] 
+10 is at [642.9, 371.3, 678.0, 459.6] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: none
+low confidence: none 
+
+### frame 0599
+people detected: [6, 10]
+6 is at [749.3, 369.0, 824.7, 546.1] 
+10 is at [646.1, 373.5, 679.8, 458.2] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: none
+low confidence: none 
+
+### frame 0600
+people detected: [6, 10]
+6 is at [755.0, 369.0, 832.8, 551.9] 
+10 is at [647.3, 371.2, 682.2, 458.8] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: none
+low confidence: none 
+
+### frame 0601
+people detected: [6, 10]
+6 is at [757.9, 366.4, 839.4, 554.9] 
+10 is at [652.3, 378.0, 685.2, 460.4] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: none
+low confidence: none 
+
+### frame 0602
+people detected: [6, 10]
+6 is at [762.2, 365.4, 846.8, 559.0] 
+10 is at [654.6, 380.3, 687.2, 461.8] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: none
+low confidence: none 
+
+### frame 0603
+people detected: [6, 10]
+6 is at [769.2, 362.7, 857.5, 565.1] 
+10 is at [655.2, 380.9, 688.6, 463.9] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: none
+low confidence: none 
+
+### frame 0604
+people detected: [6, 10]
+6 is at [777.8, 362.9, 869.1, 573.5] 
+10 is at [657.0, 384.2, 689.0, 463.6] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: 6
+low confidence: 10 
+
+### frame 0605
+people detected: [6, 10]
+6 is at [785.1, 362.8, 878.3, 578.8] 
+10 is at [656.5, 376.1, 694.2, 469.6] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: 6
+low confidence: none 
+
+### frame 0606
+people detected: [6, 10]
+6 is at [789.6, 362.4, 881.4, 575.4] 
+10 is at [655.6, 366.7, 698.2, 472.4] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: none
+low confidence: none 
+
+### frame 0607
+people detected: [6, 10]
+6 is at [799.8, 360.5, 896.7, 586.8] 
+10 is at [655.7, 363.9, 700.1, 474.3] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10]
+high confidence: none
+low confidence: none 
+
+### frame 0608
+people detected: [6, 10, 11]
+6 is at [811.3, 360.0, 911.1, 594.7] 
+10 is at [655.4, 360.4, 701.7, 475.9] 
+11 is at [638.1, 362.6, 676.8, 456.3] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10, 11]
+high confidence: none
+low confidence: none 
+
+### frame 0609
+people detected: [6, 10, 11]
+6 is at [822.5, 358.9, 924.1, 599.4] 
+10 is at [655.1, 358.7, 701.7, 473.8] 
+11 is at [637.7, 365.8, 675.1, 456.2] 
+On right of our car, there are: []
+On the left of our car, there are [6, 10, 11]
+high confidence: 6
+low confidence: 10 
+
+### frame 0610
+people detected: [6, 11]
+6 is at [832.6, 358.9, 935.9, 604.5] 
+11 is at [636.5, 369.0, 672.7, 456.4] 
+On right of our car, there are: []
+On the left of our car, there are [6, 11]
+high confidence: 6
+low confidence: none 
+
+### frame 0611
+people detected: [6, 11]
+6 is at [842.3, 355.9, 948.6, 609.8] 
+11 is at [636.9, 368.3, 674.1, 458.1] 
+On right of our car, there are: []
+On the left of our car, there are [6, 11]
+high confidence: 6
+low confidence: none 
+
+### frame 0612
+people detected: [6, 11]
+6 is at [850.1, 352.5, 959.7, 615.1] 
+11 is at [636.4, 367.8, 673.5, 457.1] 
+On right of our car, there are: []
+On the left of our car, there are [6, 11]
+high confidence: 6
+low confidence: 11 
+
+### frame 0613
+people detected: [6]
+6 is at [861.3, 348.5, 974.3, 618.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0614
+people detected: [6]
+6 is at [873.7, 344.5, 991.1, 624.2] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0615
+people detected: [6]
+6 is at [884.9, 340.9, 1005.9, 628.7] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0616
+people detected: [6]
+6 is at [894.9, 339.2, 1019.2, 635.6] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0617
+people detected: [6]
+6 is at [905.8, 337.8, 1033.4, 640.5] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0618
+people detected: [6]
+6 is at [920.1, 337.7, 1051.9, 649.1] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0619
+people detected: [6]
+6 is at [935.8, 336.2, 1071.8, 659.5] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0620
+people detected: [6]
+6 is at [950.6, 336.4, 1089.2, 665.3] 
+On right of our car, there are: []
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0621
+people detected: [6]
+6 is at [967.1, 339.1, 1108.1, 675.0] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0622
+people detected: [6]
+6 is at [981.3, 343.2, 1124.5, 684.7] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0623
+people detected: [6]
+6 is at [998.6, 345.4, 1143.5, 692.1] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0624
+people detected: [6]
+6 is at [1014.0, 347.4, 1161.2, 700.9] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0625
+people detected: [6]
+6 is at [1030.8, 350.1, 1181.6, 712.1] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0626
+people detected: [6]
+6 is at [1048.1, 351.9, 1204.1, 722.7] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0627
+people detected: [6]
+6 is at [1070.4, 353.4, 1230.3, 733.1] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0628
+people detected: [6]
+6 is at [1090.7, 354.0, 1253.8, 740.7] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0629
+people detected: [6]
+6 is at [1104.5, 352.7, 1273.7, 749.9] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0630
+people detected: [6]
+6 is at [1121.8, 352.5, 1298.1, 766.6] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0631
+people detected: [6]
+6 is at [1133.7, 352.8, 1313.3, 774.3] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0632
+people detected: [6]
+6 is at [1156.4, 351.0, 1343.4, 791.9] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: 6
+low confidence: none 
+
+### frame 0633
+people detected: [6]
+6 is at [1165.1, 343.2, 1360.1, 792.5] 
+On right of our car, there are: [6]
+On the left of our car, there are [6]
+high confidence: none
+low confidence: none 
+
+### frame 0634
+no detected person
+
+### frame 0635
+no detected person
+
+### frame 0636
+no detected person
+
+### frame 0637
+no detected person
+
+### frame 0638
+no detected person
+
+### frame 0639
+no detected person
+
+### frame 0640
+no detected person
+
+### frame 0641
+no detected person
+
+### frame 0642
+no detected person
+
+### frame 0643
+no detected person
+
+### frame 0644
+no detected person
+
+### frame 0645
+no detected person
+
+### frame 0646
+no detected person
+
+### frame 0647
+no detected person
+
+### frame 0648
+no detected person
+
+### frame 0649
+no detected person
+
+### frame 0650
+no detected person
+
+### frame 0651
+no detected person
+
+### frame 0652
+no detected person
+
+### frame 0653
+no detected person
+
+### frame 0654
+no detected person
+
+### frame 0655
+no detected person
+
+### frame 0656
+no detected person
+
+### frame 0657
+no detected person
+
+### frame 0658
+no detected person
+
+### frame 0659
+no detected person
+
+### frame 0660
+no detected person
+
+### frame 0661
+no detected person
+
+### frame 0662
+no detected person
+
+### frame 0663
+no detected person
+
+### frame 0664
+no detected person
+
+### frame 0665
+no detected person
+
+### frame 0666
+no detected person
+
+### frame 0667
+no detected person
+
+### frame 0668
+no detected person
+
+### frame 0669
+no detected person
+
+### frame 0670
+no detected person
+
+### frame 0671
+no detected person
+
+### frame 0672
+no detected person
+
+### frame 0673
+no detected person
+
+### frame 0674
+no detected person
+
+### frame 0675
+no detected person
+
+### frame 0676
+no detected person
+
+### frame 0677
+no detected person
+
+### frame 0678
+no detected person
+
+### frame 0679
+no detected person
+
+### frame 0680
+no detected person
+
+### frame 0681
+no detected person
+
+### frame 0682
+no detected person
+
+### frame 0683
+no detected person
+
+### frame 0684
+no detected person
+
+### frame 0685
+no detected person
+
+### frame 0686
+people detected: [12]
+12 is at [790.4, 367.8, 871.0, 544.6] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0687
+people detected: [12]
+12 is at [794.8, 366.4, 877.5, 547.8] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0688
+people detected: [12]
+12 is at [800.7, 366.3, 884.4, 550.3] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0689
+people detected: [12]
+12 is at [806.6, 363.5, 892.8, 553.5] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0690
+people detected: [12]
+12 is at [812.9, 363.4, 900.2, 556.5] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0691
+people detected: [12]
+12 is at [818.0, 361.4, 908.5, 562.0] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0692
+people detected: [12]
+12 is at [824.3, 361.9, 915.5, 564.7] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0693
+people detected: [12]
+12 is at [832.1, 362.7, 924.8, 569.4] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0694
+people detected: [12]
+12 is at [840.4, 362.1, 935.1, 573.9] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0695
+people detected: [12]
+12 is at [846.8, 360.9, 944.7, 580.8] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0696
+people detected: [12]
+12 is at [856.2, 361.4, 954.8, 584.7] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0697
+people detected: [12]
+12 is at [864.8, 361.7, 964.0, 588.7] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0698
+people detected: [12]
+12 is at [874.2, 359.8, 974.8, 592.5] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0699
+people detected: [12]
+12 is at [884.5, 358.2, 987.9, 599.3] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0700
+people detected: [12]
+12 is at [893.4, 353.2, 1000.6, 605.7] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0701
+people detected: [12]
+12 is at [905.6, 349.9, 1016.8, 613.0] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0702
+people detected: [12]
+12 is at [918.3, 347.4, 1032.2, 618.7] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0703
+people detected: [12]
+12 is at [932.9, 344.7, 1050.7, 626.5] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0704
+people detected: [12]
+12 is at [946.2, 342.2, 1067.2, 634.7] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0705
+people detected: [12]
+12 is at [958.7, 338.2, 1083.2, 640.8] 
+On right of our car, there are: []
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0706
+people detected: [12]
+12 is at [976.5, 336.9, 1105.4, 651.0] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0707
+people detected: [12]
+12 is at [994.5, 334.2, 1129.0, 660.8] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0708
+people detected: [12]
+12 is at [1012.0, 333.0, 1153.4, 676.2] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0709
+people detected: [12]
+12 is at [1032.4, 331.8, 1176.6, 682.5] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0710
+people detected: [12]
+12 is at [1052.0, 330.4, 1200.7, 692.3] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0711
+people detected: [12]
+12 is at [1076.6, 330.2, 1233.1, 709.5] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0712
+people detected: [12]
+12 is at [1099.5, 329.3, 1263.0, 726.2] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0713
+people detected: [12]
+12 is at [1121.9, 325.5, 1297.0, 753.9] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0714
+people detected: [12]
+12 is at [1149.4, 324.9, 1332.4, 778.4] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: 12
+low confidence: none 
+
+### frame 0715
+people detected: [12]
+12 is at [1191.4, 349.8, 1360.5, 768.3] 
+On right of our car, there are: [12]
+On the left of our car, there are [12]
+high confidence: none
+low confidence: 12 
+
+### frame 0716
+no detected person
+
+### frame 0717
+no detected person
+
+### frame 0718
+no detected person
+
+### frame 0719
+no detected person
+
+### frame 0720
+no detected person
+
+### frame 0721
+no detected person
+
+### frame 0722
+no detected person
+
+### frame 0723
+no detected person
+
+### frame 0724
+no detected person
+
+### frame 0725
+no detected person
+
+### frame 0726
+no detected person
+
+### frame 0727
+no detected person
+
+### frame 0728
+no detected person
+
+### frame 0729
+no detected person
+
+### frame 0730
+no detected person
+
+### frame 0731
+no detected person
+
+### frame 0732
+no detected person
+
+### frame 0733
+no detected person
+
+### frame 0734
+no detected person
+
+### frame 0735
+no detected person
+
+### frame 0736
+no detected person
+
+### frame 0737
+no detected person
+
+### frame 0738
+no detected person
+
+### frame 0739
+no detected person
+
+### frame 0740
+no detected person
+
+### frame 0741
+no detected person
+
+### frame 0742
+no detected person
+
+### frame 0743
+no detected person
+
+### frame 0744
+no detected person
+
+### frame 0745
+no detected person
+
+### frame 0746
+no detected person
+
+### frame 0747
+no detected person
+
+### frame 0748
+no detected person
+
+### frame 0749
+no detected person
+
+### frame 0750
+no detected person
+
+### frame 0751
+no detected person
+
+### frame 0752
+no detected person
+
+### frame 0753
+no detected person
+
+### frame 0754
+no detected person
+
+### frame 0755
+no detected person
+
+### frame 0756
+no detected person
+
+### frame 0757
+no detected person
+
+### frame 0758
+no detected person
+
+### frame 0759
+no detected person
+
+### frame 0760
+no detected person
+
+### frame 0761
+no detected person
+
+### frame 0762
+no detected person
+
+### frame 0763
+no detected person
+
+### frame 0764
+no detected person
+
+### frame 0765
+no detected person
+
+### frame 0766
+no detected person
+
+### frame 0767
+no detected person
+
+### frame 0768
+no detected person
+
+### frame 0769
+no detected person
+
+### frame 0770
+no detected person
+
+### frame 0771
+no detected person
+
+### frame 0772
+no detected person
+
+### frame 0773
+no detected person
+
+### frame 0774
+no detected person
+
+### frame 0775
+no detected person
+
+### frame 0776
+no detected person
+
+### frame 0777
+no detected person
+
+### frame 0778
+no detected person
+
+### frame 0779
+no detected person
+
+### frame 0780
+no detected person
+
+### frame 0781
+no detected person
+
+### frame 0782
+no detected person
+
+### frame 0783
+no detected person
+
+### frame 0784
+no detected person
+
+### frame 0785
+no detected person
+
+### frame 0786
+no detected person
+
+### frame 0787
+no detected person
+
+### frame 0788
+no detected person
+
+### frame 0789
+no detected person
+
+### frame 0790
+no detected person
+
+### frame 0791
+no detected person
+
+### frame 0792
+no detected person
+
+### frame 0793
+no detected person
+
+### frame 0794
+no detected person
+
+### frame 0795
+no detected person
+
+### frame 0796
+no detected person
+
+### frame 0797
+no detected person
+
+### frame 0798
+no detected person
+
+### frame 0799
+no detected person
+
+### frame 0800
+no detected person
+
+### frame 0801
+no detected person
+
+### frame 0802
+no detected person
+
+### frame 0803
+no detected person
+
+### frame 0804
+no detected person
+
+### frame 0805
+no detected person
+
+### frame 0806
+no detected person
+
+### frame 0807
+no detected person
+
+### frame 0808
+no detected person
+
+### frame 0809
+no detected person
+
+### frame 0810
+no detected person
+
+### frame 0811
+no detected person
+
+### frame 0812
+no detected person
+
+### frame 0813
+no detected person
+
+### frame 0814
+no detected person
+
+### frame 0815
+no detected person
+
+### frame 0816
+no detected person
+
+### frame 0817
+no detected person
+
+### frame 0818
+no detected person
+
+### frame 0819
+no detected person
+
+### frame 0820
+no detected person
+
+### frame 0821
+no detected person
+
+### frame 0822
+no detected person
+
+### frame 0823
+no detected person
+
+### frame 0824
+no detected person
+
+### frame 0825
+no detected person
+
+### frame 0826
+no detected person
+
+### frame 0827
+no detected person
+
+### frame 0828
+no detected person
+
+### frame 0829
+no detected person
+
+### frame 0830
+no detected person
+
+### frame 0831
+no detected person
+
+### frame 0832
+no detected person
+
+### frame 0833
+no detected person
+
+### frame 0834
+no detected person
+
+### frame 0835
+no detected person
+
+### frame 0836
+no detected person
+
+### frame 0837
+no detected person
+
+### frame 0838
+no detected person
+
+### frame 0839
+no detected person
+
+### frame 0840
+no detected person
+
+### frame 0841
+no detected person
+
+### frame 0842
+no detected person
+
+### frame 0843
+no detected person
+
+### frame 0844
+no detected person
+
+### frame 0845
+no detected person
+
+### frame 0846
+no detected person
+
+### frame 0847
+no detected person
+
+### frame 0848
+no detected person
+
+### frame 0849
+no detected person
+
+### frame 0850
+no detected person
+
+### frame 0851
+no detected person
+
+### frame 0852
+no detected person
+
+### frame 0853
+no detected person
+
+### frame 0854
+no detected person
+
+### frame 0855
+no detected person
+
+### frame 0856
+people detected: [13]
+13 is at [1022.1, 412.9, 1065.2, 520.6] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: none
+low confidence: none 
+
+### frame 0857
+people detected: [13]
+13 is at [1027.7, 411.4, 1071.9, 521.9] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0858
+people detected: [13]
+13 is at [1031.6, 411.3, 1078.4, 528.2] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0859
+people detected: [13]
+13 is at [1036.4, 413.3, 1082.8, 528.7] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0860
+people detected: [13]
+13 is at [1043.0, 412.1, 1089.9, 528.9] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0861
+people detected: [13]
+13 is at [1046.9, 412.5, 1096.2, 535.5] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0862
+people detected: [13]
+13 is at [1051.8, 411.8, 1104.1, 543.0] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0863
+people detected: [13]
+13 is at [1057.4, 412.8, 1107.8, 539.1] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0864
+people detected: [13]
+13 is at [1063.8, 414.9, 1113.9, 540.7] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0865
+people detected: [13]
+13 is at [1068.2, 418.3, 1120.1, 548.5] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0866
+people detected: [13]
+13 is at [1073.6, 420.1, 1126.9, 554.3] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0867
+people detected: [13]
+13 is at [1078.6, 421.7, 1132.4, 558.1] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0868
+people detected: [13]
+13 is at [1085.4, 421.6, 1140.0, 559.8] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0869
+people detected: [13]
+13 is at [1091.1, 419.9, 1146.5, 560.0] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0870
+people detected: [13]
+13 is at [1096.2, 418.9, 1153.3, 563.8] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0871
+people detected: [13]
+13 is at [1103.3, 415.6, 1162.7, 566.9] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: none
+low confidence: none 
+
+### frame 0872
+people detected: [13]
+13 is at [1110.6, 418.7, 1169.1, 567.8] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: none
+low confidence: none 
+
+### frame 0873
+people detected: [13]
+13 is at [1119.6, 419.5, 1179.7, 572.3] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: none
+low confidence: none 
+
+### frame 0874
+people detected: [13]
+13 is at [1127.0, 416.6, 1188.6, 572.9] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0875
+people detected: [13]
+13 is at [1133.9, 415.0, 1196.0, 573.1] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0876
+people detected: [13]
+13 is at [1143.9, 412.5, 1208.7, 577.3] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0877
+people detected: [13]
+13 is at [1154.0, 411.0, 1221.4, 582.4] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0878
+people detected: [13]
+13 is at [1166.0, 412.1, 1235.4, 586.4] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0879
+people detected: [13]
+13 is at [1178.4, 413.5, 1250.1, 590.8] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0880
+people detected: [13]
+13 is at [1189.8, 414.1, 1263.6, 593.9] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0881
+people detected: [13]
+13 is at [1202.1, 414.7, 1279.6, 600.7] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0882
+people detected: [13]
+13 is at [1214.9, 414.5, 1293.9, 601.4] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: 13
+low confidence: none 
+
+### frame 0883
+people detected: [13]
+13 is at [1225.5, 410.8, 1306.6, 602.1] 
+On right of our car, there are: [13]
+On the left of our car, there are [13]
+high confidence: none
+low confidence: none 
+
+### frame 0884
+no detected person
+
+### frame 0885
+no detected person
+
+### frame 0886
+no detected person
+
+### frame 0887
+no detected person
+
+### frame 0888
+no detected person
+
+### frame 0889
+no detected person
+
+### frame 0890
+no detected person
+
+### frame 0891
+no detected person
+
+### frame 0892
+no detected person
+
+### frame 0893
+no detected person
+
+### frame 0894
+no detected person
+
+### frame 0895
+no detected person
+
+### frame 0896
+no detected person
+
+### frame 0897
+no detected person
+
+### frame 0898
+no detected person
+
+### frame 0899
+no detected person
+
+### frame 0900
+no detected person
+
+### frame 0901
+no detected person
+
+### frame 0902
+no detected person
+
+### frame 0903
+no detected person
+
+### frame 0904
+no detected person
+
+### frame 0905
+no detected person
+
+### frame 0906
+no detected person
+
+### frame 0907
+no detected person
+
+### frame 0908
+no detected person
+
+### frame 0909
+no detected person
+
+### frame 0910
+no detected person
+
+### frame 0911
+no detected person
+
+### frame 0912
+no detected person
+
+### frame 0913
+no detected person
+
+### frame 0914
+no detected person
+
+### frame 0915
+no detected person
+
+### frame 0916
+no detected person
+
+### frame 0917
+no detected person
+
+### frame 0918
+no detected person
+
+### frame 0919
+no detected person
+
+### frame 0920
+no detected person
+
+### frame 0921
+no detected person
+
+### frame 0922
+no detected person
+
+### frame 0923
+no detected person
+
+### frame 0924
+no detected person
+
+### frame 0925
+no detected person
+
+### frame 0926
+no detected person
+
+### frame 0927
+no detected person
+
+### frame 0928
+no detected person
+
+### frame 0929
+no detected person
+
+### frame 0930
+no detected person
+
+### frame 0931
+no detected person
+
+### frame 0932
+no detected person
+
+### frame 0933
+no detected person
+
+### frame 0934
+no detected person
+
+### frame 0935
+no detected person
+
+### frame 0936
+no detected person
+
+### frame 0937
+no detected person
+
+### frame 0938
+no detected person
+
+### frame 0939
+no detected person
+
+### frame 0940
+no detected person
+
+### frame 0941
+no detected person
+
+### frame 0942
+no detected person
+
+### frame 0943
+no detected person
+
+### frame 0944
+no detected person
+
+### frame 0945
+no detected person
+
+### frame 0946
+no detected person
+
+### frame 0947
+no detected person
+
+### frame 0948
+no detected person
+
+### frame 0949
+no detected person
+
+### frame 0950
+no detected person
+
+### frame 0951
+no detected person
+
+### frame 0952
+no detected person
+
+### frame 0953
+no detected person
+
+### frame 0954
+no detected person
+
+### frame 0955
+no detected person
+
+### frame 0956
+no detected person
+
+### frame 0957
+no detected person
+
+### frame 0958
+no detected person
+
+### frame 0959
+no detected person
+
+### frame 0960
+no detected person
+
+### frame 0961
+no detected person
+
+### frame 0962
+no detected person
+
+### frame 0963
+no detected person
+
+### frame 0964
+no detected person
+
+### frame 0965
+no detected person
+
+### frame 0966
+no detected person
+
+### frame 0967
+no detected person
+
+### frame 0968
+no detected person
+
+### frame 0969
+no detected person
+
+### frame 0970
+no detected person
+
+### frame 0971
+no detected person
+
+### frame 0972
+no detected person
+
+### frame 0973
+no detected person
+
+### frame 0974
+no detected person
+
+### frame 0975
+no detected person
+
+### frame 0976
+no detected person
+
+### frame 0977
+no detected person
+
+### frame 0978
+no detected person
+
+### frame 0979
+no detected person
+
+### frame 0980
+no detected person
+
+### frame 0981
+no detected person
+
+### frame 0982
+no detected person
+
+### frame 0983
+no detected person
+
+### frame 0984
+no detected person
+
+### frame 0985
+no detected person
+
+### frame 0986
+no detected person
+
+### frame 0987
+no detected person
+
+### frame 0988
+no detected person
+
+### frame 0989
+no detected person
+
+### frame 0990
+no detected person
+
+### frame 0991
+no detected person
+
+### frame 0992
+no detected person
+
+### frame 0993
+no detected person
+
+### frame 0994
+no detected person
+
+### frame 0995
+no detected person
+
+### frame 0996
+no detected person
+
+### frame 0997
+no detected person
+
+### frame 0998
+no detected person
+
+### frame 0999
+no detected person
+
+### frame 1000
+no detected person
+
+### frame 1001
+no detected person
+
+### frame 1002
+no detected person
+
+### frame 1003
+no detected person
+
+### frame 1004
+no detected person
+
+### frame 1005
+no detected person
+
+### frame 1006
+no detected person
+
+### frame 1007
+no detected person
+
+### frame 1008
+no detected person
+
+### frame 1009
+no detected person
+
+### frame 1010
+no detected person
+
+### frame 1011
+no detected person
+
+### frame 1012
+no detected person
+
+### frame 1013
+no detected person
+
+### frame 1014
+no detected person
+
+### frame 1015
+no detected person
+
+### frame 1016
+no detected person
+
+### frame 1017
+no detected person
+
+### frame 1018
+no detected person
+
+### frame 1019
+no detected person
+
+### frame 1020
+no detected person
+
+### frame 1021
+no detected person
+
+### frame 1022
+no detected person
+
+### frame 1023
+no detected person
+
+### frame 1024
+no detected person
+
+### frame 1025
+no detected person
+
+### frame 1026
+no detected person
+
+### frame 1027
+no detected person
+
+### frame 1028
+no detected person
+
+### frame 1029
+no detected person
+
+### frame 1030
+no detected person
+
+### frame 1031
+no detected person
+
+### frame 1032
+no detected person
+
+### frame 1033
+no detected person
+
+### frame 1034
+no detected person
+
+### frame 1035
+no detected person
+
+### frame 1036
+no detected person
+
+### frame 1037
+no detected person
+
+### frame 1038
+no detected person
+
+### frame 1039
+no detected person
+
+### frame 1040
+no detected person
+
+### frame 1041
+no detected person
+
+### frame 1042
+no detected person
+
+### frame 1043
+no detected person
+
+### frame 1044
+no detected person
+
+### frame 1045
+no detected person
+
+### frame 1046
+no detected person
+
+### frame 1047
+no detected person
+
+### frame 1048
+no detected person
+
+### frame 1049
+no detected person
+
+### frame 1050
+no detected person
+
+### frame 1051
+no detected person
+
+### frame 1052
+no detected person
+
+### frame 1053
+no detected person
+
+### frame 1054
+no detected person
+
+### frame 1055
+no detected person
+
+### frame 1056
+no detected person
+
+### frame 1057
+no detected person
+
+### frame 1058
+no detected person
+
+### frame 1059
+no detected person
+
+### frame 1060
+no detected person
+
+### frame 1061
+no detected person
+
+### frame 1062
+no detected person
+
+### frame 1063
+no detected person
+
+### frame 1064
+no detected person
+
+### frame 1065
+no detected person
+
+### frame 1066
+no detected person
+
+### frame 1067
+no detected person
+
+### frame 1068
+no detected person
+
+### frame 1069
+no detected person
+
+### frame 1070
+no detected person
+
+### frame 1071
+no detected person
+
+### frame 1072
+no detected person
+
+### frame 1073
+no detected person
+
+### frame 1074
+no detected person
+
+### frame 1075
+no detected person
+
+### frame 1076
+no detected person
+
+### frame 1077
+no detected person
+
+### frame 1078
+no detected person
+
+### frame 1079
+no detected person
+
+### frame 1080
+no detected person
+
+### frame 1081
+no detected person
+
+### frame 1082
+no detected person
+
+### frame 1083
+no detected person
+
+### frame 1084
+no detected person
+
+### frame 1085
+no detected person
+
+### frame 1086
+no detected person
+
+### frame 1087
+no detected person
+
+### frame 1088
+no detected person
+
+### frame 1089
+no detected person
+
+### frame 1090
+no detected person
+
+### frame 1091
+no detected person
+
+### frame 1092
+no detected person
+
+### frame 1093
+no detected person
+
+### frame 1094
+no detected person
+
+### frame 1095
+no detected person
+
+### frame 1096
+no detected person
+
+### frame 1097
+no detected person
+
+### frame 1098
+no detected person
+
+### frame 1099
+no detected person
+
+### frame 1100
+no detected person
+
+### frame 1101
+no detected person
+
+### frame 1102
+no detected person
+
+### frame 1103
+no detected person
+
+### frame 1104
+no detected person
+
+### frame 1105
+no detected person
+
+### frame 1106
+no detected person
+
+### frame 1107
+no detected person
+
+### frame 1108
+no detected person
+
+### frame 1109
+no detected person
+
+### frame 1110
+no detected person
+
+### frame 1111
+no detected person
+
+### frame 1112
+no detected person
+
+### frame 1113
+no detected person
+
+### frame 1114
+no detected person
+
+### frame 1115
+no detected person
+
+### frame 1116
+no detected person
+
+### frame 1117
+no detected person
+
+### frame 1118
+no detected person
+
+### frame 1119
+no detected person
+
+### frame 1120
+no detected person
+
+### frame 1121
+no detected person
+
+### frame 1122
+no detected person
+
+### frame 1123
+no detected person
+
+### frame 1124
+no detected person
+
+### frame 1125
+no detected person
+
+### frame 1126
+no detected person
+
+### frame 1127
+no detected person
+
+### frame 1128
+people detected: [16]
+16 is at [1196.5, 185.0, 1239.3, 269.9] 
+On right of our car, there are: [16]
+On the left of our car, there are [16]
+high confidence: none
+low confidence: none 
+
+### frame 1129
+no detected person
+
+### frame 1130
+no detected person
+
+### frame 1131
+no detected person
+
+### frame 1132
+no detected person
+
+### frame 1133
+no detected person
+
+### frame 1134
+no detected person
+
+### frame 1135
+no detected person
+
+### frame 1136
+no detected person
+
+### frame 1137
+no detected person
+
+### frame 1138
+no detected person
+
+### frame 1139
+no detected person
+
+### frame 1140
+no detected person
+
+### frame 1141
+no detected person
+
+### frame 1142
+no detected person
+
+### frame 1143
+no detected person
+
+### frame 1144
+no detected person
+
+### frame 1145
+no detected person
+
+### frame 1146
+no detected person
+
+### frame 1147
+no detected person
+
+### frame 1148
+no detected person
+
+### frame 1149
+no detected person
+
+### frame 1150
+no detected person
+
+### frame 1151
+no detected person
+
+### frame 1152
+no detected person
+
+### frame 1153
+no detected person
+
+### frame 1154
+no detected person
+
+### frame 1155
+people detected: [17]
+17 is at [1015.1, 341.8, 1082.6, 513.2] 
+On right of our car, there are: [17]
+On the left of our car, there are [17]
+high confidence: none
+low confidence: none 
+
+### frame 1156
+people detected: [17]
+17 is at [1034.5, 340.8, 1102.6, 513.8] 
+On right of our car, there are: [17]
+On the left of our car, there are [17]
+high confidence: none
+low confidence: none 
+
+### frame 1157
+people detected: [17]
+17 is at [1056.5, 335.7, 1132.0, 527.8] 
+On right of our car, there are: [17]
+On the left of our car, there are [17]
+high confidence: 17
+low confidence: none 
+
+### frame 1158
+people detected: [17]
+17 is at [1083.5, 332.4, 1166.2, 543.1] 
+On right of our car, there are: [17]
+On the left of our car, there are [17]
+high confidence: none
+low confidence: none 
+
+### frame 1159
+people detected: [17]
+17 is at [1104.9, 329.6, 1192.5, 553.0] 
+On right of our car, there are: [17]
+On the left of our car, there are [17]
+high confidence: none
+low confidence: none 
+
+### frame 1160
+people detected: [17]
+17 is at [1134.8, 326.4, 1225.5, 558.0] 
+On right of our car, there are: [17]
+On the left of our car, there are [17]
+high confidence: none
+low confidence: none 
+
+### frame 1161
+people detected: [17]
+17 is at [1161.9, 317.4, 1261.1, 572.0] 
+On right of our car, there are: [17]
+On the left of our car, there are [17]
+high confidence: none
+low confidence: none 
+
+### frame 1162
+no detected person
+
+### frame 1163
+no detected person
+
+### frame 1164
+no detected person
+
+### frame 1165
+no detected person
+
+### frame 1166
+no detected person
+
+### frame 1167
+no detected person
+
+### frame 1168
+no detected person
+
+### frame 1169
+no detected person
+
+### frame 1170
+no detected person
+
+### frame 1171
+no detected person
+
+### frame 1172
+no detected person
+
+### frame 1173
+no detected person
+
+### frame 1174
+no detected person
+
+### frame 1175
+no detected person
+
+### frame 1176
+no detected person
+
+### frame 1177
+no detected person
+
+### frame 1178
+no detected person
+
+### frame 1179
+no detected person
+
+### frame 1180
+no detected person
+
+### frame 1181
+people detected: [18]
+18 is at [677.2, 366.2, 703.1, 428.0] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1182
+people detected: [18]
+18 is at [681.6, 366.0, 706.5, 425.3] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1183
+people detected: [18]
+18 is at [685.1, 366.9, 709.2, 424.4] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1184
+people detected: [18]
+18 is at [689.0, 367.8, 712.4, 423.6] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1185
+people detected: [18]
+18 is at [693.9, 368.5, 716.5, 422.5] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1186
+people detected: [18]
+18 is at [697.5, 368.5, 721.5, 425.9] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1187
+people detected: [18]
+18 is at [702.1, 368.1, 725.4, 423.7] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: 18 
+
+### frame 1188
+people detected: [18]
+18 is at [705.3, 366.2, 729.0, 422.5] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1189
+people detected: [18]
+18 is at [708.0, 365.0, 733.3, 425.1] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1190
+people detected: [18]
+18 is at [711.4, 363.4, 739.3, 430.0] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: none 
+
+### frame 1191
+people detected: [18]
+18 is at [715.3, 364.1, 744.9, 434.6] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: none
+low confidence: 18 
+
+### frame 1192
+no detected person
+
+### frame 1193
+no detected person
+
+### frame 1194
+no detected person
+
+### frame 1195
+no detected person
+
+### frame 1196
+people detected: [18]
+18 is at [733.3, 368.5, 769.1, 454.7] 
+On right of our car, there are: []
+On the left of our car, there are [18]
+high confidence: 18
+low confidence: none 
+
+### frame 1197
+people detected: [19, 18]
+19 is at [824.1, 374.2, 863.9, 477.8] 
+18 is at [739.9, 370.5, 773.2, 450.4] 
+On right of our car, there are: []
+On the left of our car, there are [19, 18]
+high confidence: none
+low confidence: none 
+
+### frame 1198
+people detected: [19, 18]
+19 is at [832.6, 375.1, 873.9, 482.8] 
+18 is at [746.3, 371.8, 780.0, 452.8] 
+On right of our car, there are: []
+On the left of our car, there are [19, 18]
+high confidence: none
+low confidence: none 
+
+### frame 1199
+people detected: [19, 18]
+19 is at [841.7, 372.1, 885.6, 486.5] 
+18 is at [751.6, 371.4, 787.0, 456.1] 
+On right of our car, there are: []
+On the left of our car, there are [19, 18]
+high confidence: none
+low confidence: 19 
+
+### frame 1200
+people detected: [19]
+19 is at [849.9, 377.6, 893.3, 490.4] 
+On right of our car, there are: []
+On the left of our car, there are [19]
+high confidence: none
+low confidence: 19 
+
+### frame 1201
+people detected: [19]
+19 is at [860.8, 370.6, 903.2, 480.4] 
+On right of our car, there are: []
+On the left of our car, there are [19]
+high confidence: 19
+low confidence: none 
+
+### frame 1202
+people detected: [19, 18]
+19 is at [872.4, 367.4, 914.1, 475.3] 
+18 is at [769.1, 366.3, 809.3, 463.0] 
+On right of our car, there are: []
+On the left of our car, there are [19, 18]
+high confidence: none
+low confidence: none 
+
+### frame 1203
+people detected: [19, 18]
+19 is at [887.5, 364.7, 927.5, 468.1] 
+18 is at [775.9, 363.4, 819.2, 467.9] 
+On right of our car, there are: []
+On the left of our car, there are [19, 18]
+high confidence: none
+low confidence: none 
+
+### frame 1204
+people detected: [19, 18]
+19 is at [898.0, 362.6, 937.1, 462.7] 
+18 is at [783.4, 360.0, 826.1, 463.8] 
+On right of our car, there are: []
+On the left of our car, there are [19, 18]
+high confidence: 19
+low confidence: none 

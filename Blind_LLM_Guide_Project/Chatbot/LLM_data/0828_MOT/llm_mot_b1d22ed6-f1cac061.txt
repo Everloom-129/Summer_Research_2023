@@ -1,0 +1,507 @@
+ ### Road Scene Description and Significant Events
+
+#### Frame 0
+- Person 1 is standing at coordinates [933.16, 258.45] with a bbox of width 20.13 and height 53.59. Confidence score: 0.79.
+- Person 2 is standing at coordinates [978.75, 255.20] with a bbox of width 22.50 and height 61.28. Confidence score: 0.69.
+- Person 3 is standing at coordinates [1158.75, 268.96] with a bbox of width 28.42 and height 69.72. Confidence score: 0.68.
+- Person 4 is standing at coordinates [1000.66, 254.16] with a bbox
+### Road Scene Description and Potential Risks
+
+#### Frame 15
+- Person 12 is standing at coordinates [395.30, 241.61] with a bbox of width 31.61 and height 82.18. Confidence score: 0.69.
+- Person 14 is standing at coordinates [1070.46, 251.71] with a bbox of width 30.58 and height 80.17. Confidence score: 0.79.
+- Person 17 is standing at coordinates [882.24, 261.99] with a bbox of width 14.18 and height 37.22. Confidence score: 0.78.
+
+#### Frame 16
+- Person 1 is standing at coordinates [991.24, 253.02] with a bbox of width 24.82 and height 64
+### Road Scene Description
+
+#### Frame 23
+- Person 18 is standing at coordinates [860.70, 259.49] with a bbox of width 14.44 and height 38.66. Confidence score is 0.67.
+- Person 2 is standing at coordinates [1034.04, 250.99] with a bbox of width 22.57 and height 59.72. Confidence score is 0.18.
+- Person 20 is standing at coordinates [823.88, 263.82] with a bbox of width 11.52 and height 27.62. Confidence score is 0.27.
+- Person 21 is standing at coordinates [737.18, 259.21] with a bbox of width 14.31 and height 39.99. Confidence score is 0.74.
+- Person
+### Road Scene Description
+
+#### Frame 30
+- Person 17 is standing at coordinates [914.30, 261.95] with a bbox of width 15.56 and height 41.27. Confidence score: 0.79.
+- Person 18 is standing at coordinates [872.30, 265.79] with a bbox of width 14.39 and height 37.48. Confidence score: 0.58.
+- Person 20 is standing at coordinates [828.61, 268.33] with a bbox of width 14.56 and height 34.78. Confidence score: 0.73.
+- Person 21 is standing at coordinates [739.85, 265.41] with a bbox of width 13.70 and height 38.42. Confidence score: 0.54.
+- Person 22 is standing at coordinates
+### Road Scene Description and Significant Events
+
+#### Frame 38
+- Person 20 is standing at coordinates [839.64, 271.29] with a bbox of width 15.64 and height 38.00. Confidence score is 0.54.
+- Person 22 is standing at coordinates [871.72, 273.37] with a bbox of width 14.32 and height 34.69. Confidence score is 0.15.
+- Person 24 is standing at coordinates [1030.22, 265.47] with a bbox of width 23.20 and height 57.54. Confidence score is 0.63.
+- Person 29 is standing at coordinates [746.08, 267.24] with a bbox of width 16.25 and height 42.74. Confidence score is 0.77.
+
+#### Frame 39
+### Road Scene Description and Significant Events
+
+#### Frame 47
+- Person 17 is standing at coordinates [968.34, 256.13] with a bbox of width 16.86 and height 44.93. Confidence score is 0.78.
+- Person 18 is standing at coordinates [914.35, 258.90] with a bbox of width 17.20 and height 43.40. Confidence score is 0.75.
+- Person 20 is standing at coordinates [858.53, 263.69] with a bbox of width 14.65 and height 36.49. Confidence score is 0.31.
+- Person 22 is standing at coordinates [892.71, 263.83] with a bbox of width 16.30 and height 38.23. Confidence score is 0.68.
+- Person 24 is standing at coordinates [1081
+### Road Scene Description
+
+#### Frame 52
+- Person 18 is standing at coordinates [930.49, 258.96] with a bbox of width 18.87 and height 46.61. Confidence score: 0.80.
+- Person 20 is standing at coordinates [869.15, 264.07] with a bbox of width 16.31 and height 40.20. Confidence score: 0.51.
+- Person 22 is standing at coordinates [907.50, 264.50] with a bbox of width 17.42 and height 40.96. Confidence score: 0.59.
+- Person 24 is standing at coordinates [1117.74, 253.47] with a bbox of width 29.65 and height 71.33. Confidence score: 0.80.
+- Person 29 is standing at coordinates [759.44, 
+### Road Scene Description and Potential Risks
+
+#### Frame 57
+- Person 40 is standing at coordinates [297.60, 272.35] with a bbox of width 15.95 and height 40.74. Confidence score: 0.79.
+
+#### Frame 58
+- Person 17 is standing at coordinates [1017.08, 257.51] with a bbox of width 19.91 and height 52.76. Confidence score: 0.78.
+- Person 18 is standing at coordinates [952.47, 262.54] with a bbox of width 20.14 and height 48.68. Confidence score: 0.82.
+- Person 20 is standing at coordinates [882.75, 268.04] with a bbox of width 18.41 and height 45.66. Confidence score: 0.28.
+- Person 22 is standing at coordinates [
+### Road Scene Description
+
+At frame 63, there are several people standing at different coordinates on the road:
+- Person 20 is located at [895.71, 256.16] with a bounding box width of 15.86 and height of 39.34. The confidence score for detection is 0.45.
+- Person 22 is located at [944.73, 255.32] with a bounding box width of 19.16 and height of 46.79. The confidence score for detection is 0.73.
+- Person 24 is located at [1213.68, 239.63] with a bounding box width of 35.00 and height of 87.88. The confidence score for detection is 0.86.
+- Person 29 is located at [770.55, 251.27] with a bounding box width of 10.83 and height of 29.00. The confidence
+### Road Scene Description
+
+#### Frame 67
+- Person 35 is standing at coordinates [337.88, 252.21] with a bbox of width 16.01 and height 41.58. Confidence score is 0.54.
+- Person 36 is standing at coordinates [292.96, 247.11] with a bbox of width 21.75 and height 56.57. Confidence score is 0.76.
+- Person 38 is standing at coordinates [27.60, 201.64] with a bbox of width 96.96 and height 267.82. Confidence score is 0.87.
+- Person 40 is standing at coordinates [270.58, 256.50] with a bbox of width 17.89 and height 44.52. Confidence score is 0.79.
+- Person 42 is standing at coordinates [214.56, 250.23] with a bbox of
+### Road Scene Description and Significant Events
+
+#### Frame 70
+- Person 59 is standing at coordinates [40.63, 246.97] with a bbox of width 29.55 and height 78.16. Confidence score: 0.85.
+- Person 46 is standing at coordinates [-45.66, 193.11] with a bbox of width 80.64 and height 218.78. Confidence score: 0.75.
+
+#### Frame 71
+- Person 17 is standing at coordinates [1092.11, 241.89] with a bbox of width 23.91 and height 63.11. Confidence score: 0.80.
+- Person 18 is standing at coordinates [1010.71, 249.32] with a bbox of width 22.47 and height 52.38. Confidence score: 0.69.
+- Person 22 is standing at coordinates
+### Road Scene Description
+
+At frame 74, there are several people standing at different coordinates on the road:
+- Person 57 is located at [38.18, 241.07] with a bounding box width of 36.99 and height of 80.80. The confidence score for detection is 0.86.
+- Person 58 is located at [77.20, 243.64] with a bounding box width of 22.35 and height of 56.68. The confidence score for detection is 0.74.
+- Person 59 is located at [6.35, 240.59] with a bounding box width of 31.25 and height of 82.17. The confidence score for detection is 0.85.
+- Person 62 is located at [131.58, 250.83] with a bounding box width of 19.64 and height of 49.40.
+### Road Scene Description
+
+At frame 78, there are several people standing at different coordinates on the road:
+- Person 56 is located at [190.97, 247.67] with a bounding box width of 19.86 and height of 52.53. The confidence score for detection is 0.83.
+- Person 43 is located at [294.35, 248.81] with a bounding box width of 18.69 and height of 49.19. The confidence score for detection is 0.68.
+- Person 57 is located at [5.14, 238.61] with a bounding box width of 39.83 and height of 86.11. The confidence score for detection is 0.87.
+- Person 58 is located at [51.90, 241.06] with a bounding box width of 23.49 and height of 60.17. The confidence score for detection is 
+### Road Scene Description
+
+#### Frame 82
+- Person 57 is standing at coordinates [-23.30, 248.85] with a bbox of width 39.08 and height 84.27. Confidence score is 0.59.
+- Person 58 is standing at coordinates [26.14, 249.76] with a bbox of width 23.93 and height 60.70. Confidence score is 0.22.
+- Person 62 is standing at coordinates [105.79, 251.29] with a bbox of width 19.89 and height 50.98. Confidence score is 0.53.
+- Person 54 is standing at coordinates [80.69, 248.95] with a bbox of width 21.55 and height 59.30. Confidence score is 0.49.
+- Person 65 is standing at coordinates [64.00, 243.77] with a bbox of width 28.23 and height
+### Road Scene Description
+
+#### Frame 86
+- Person 43 is standing at coordinates [285.39, 251.38] with a bbox of width 21.32 and height 56.95. Confidence score is 0.59.
+- Person 72 is standing at coordinates [335.96, 246.43] with a bbox of width 14.38 and height 39.49. Confidence score is 0.61.
+- Person 18 is standing at coordinates [1100.92, 251.54] with a bbox of width 25.01 and height 58.07. Confidence score is 0.39.
+
+#### Frame 87
+- Person 35 is standing at coordinates [291.67, 242.45] with a bbox of width 18.86 and height 52.53. Confidence score is 0.50.
+- Person 36 is standing at coordinates [219.05, 249.67] with a bbox of width
+### Road Scene Description and Significant Events
+
+#### Frame 91
+- Person 67 is standing at coordinates [333.49, 246.34] with a bbox of width 15.27 and height 39.72. Confidence score: 0.63.
+- Person 44 is standing at coordinates [242.09, 253.80] with a bbox of width 22.93 and height 60.59. Confidence score: 0.50.
+- Person 43 is standing at coordinates [262.92, 251.36] with a bbox of width 22.67 and height 60.74. Confidence score: 0.62.
+- Person 72 is standing at coordinates [324.57, 246.27] with a bbox of width 13.46 and height 36.75. Confidence score: 0.13.
+- Person 68 is standing at coordinates [355.74, 247.74] with a bbox of width 13.76
+### Road Scene Description
+
+#### Frame 96
+- Person 72 is standing at coordinates [307.10, 246.42] with a bbox of width 12.71 and height 34.04. Confidence score: 0.73.
+- Person 68 is standing at coordinates [348.00, 243.83] with a bbox of width 13.50 and height 34.70. Confidence score: 0.55.
+- Person 77 is standing at coordinates [372.84, 243.50] with a bbox of width 12.81 and height 32.03. Confidence score: 0.60.
+
+#### Frame 97
+- Person 36 is standing at coordinates [149.38, 249.70] with a bbox of width 28.78 and height 75.64. Confidence score: 0.62.
+- Person 40 is standing at coordinates [134.44, 261.26] with a bbox of width 24
+### Road Scene Description and Potential Risks
+
+#### Frame 102
+At frame 102, there is a person (ID: 72) standing at coordinates [288.06, 244.84] with a bounding box width of 13.88 and height of 36.67. The confidence score for this detection is 0.71.
+
+#### Frame 103
+At frame 103, multiple people are detected:
+- Person 36 is standing at coordinates [107.73, 246.98] with a bounding box width of 28.18 and height of 74.31. The confidence score is 0.48.
+- Person 40 is standing at coordinates [89.82, 251.70] with a bounding box width of 31.90 and height of 77.48. The confidence score is 0.69.
+- Person 42 is standing at coordinates [9.86, 252.38] with a bounding box width of 32.42 and height of
+### Road Scene Description
+
+#### Frame 109
+- Person 66 is standing at coordinates [366.86, 237.64] with a bbox of width 16.72 and height 41.88. Confidence score is 0.77.
+- Person 68 is standing at coordinates [315.12, 238.88] with a bbox of width 13.69 and height 34.85. Confidence score is 0.60.
+- Person 77 is standing at coordinates [346.31, 235.83] with a bbox of width 11.82 and height 29.36. Confidence score is 0.68.
+- Person 78 is standing at coordinates [242.14, 242.23] with a bbox of width 17.72 and height 42.94. Confidence score is 0.36.
+- Person 72 is standing at coordinates [264.93, 236.50] with a bbox of width 14.95 and height 
+### Road Scene Description
+
+#### Frame 116
+- Person 64 is standing at coordinates [39.06, 243.78] with a bbox of width 35.04 and height 85.88. Confidence score is 0.62.
+- Person 44 is standing at coordinates [80.80, 240.69] with a bbox of width 32.57 and height 84.33. Confidence score is 0.82.
+- Person 83 is standing at coordinates [270.66, 232.14] with a bbox of width 15.44 and height 39.59. Confidence score is 0.60.
+- Person 84 is standing at coordinates [163.86, 224.88] with a bbox of width 22.86 and height 57.63. Confidence score is 0.80.
+- Person 85 is standing at coordinates [291.21, 233.55] with a bbox of width 15.01 and height 
+### Road Scene Description and Potential Risks
+
+#### Frame 124
+- Person 87 is standing at coordinates [42.97, 244.67] with a bbox of width 23.38 and height 54.91. Confidence score: 0.70.
+- Person 68 is standing at coordinates [284.70, 233.85] with a bbox of width 14.51 and height 38.53. Confidence score: 0.57.
+
+#### Frame 125
+- Person 66 is standing at coordinates [317.47, 231.45] with a bbox of width 20.22 and height 50.47. Confidence score: 0.78.
+- Person 77 is standing at coordinates [315.45, 231.37] with a bbox of width 15.05 and height 37.87. Confidence score: 0.24.
+- Person 72 is standing at coordinates [208.97, 232.27] with a bbox
+### Road Scene Description and Potential Risks
+
+#### Frame 132
+- Person 89 is standing at coordinates [292.15, 230.73] with a bbox of width 15.78 and height 38.89. Confidence score: 0.22.
+- Person 90 is standing at coordinates [338.25, 228.60] with a bbox of width 11.16 and height 26.14. Confidence score: 0.26.
+
+#### Frame 133
+- Person 66 is standing at coordinates [291.09, 228.46] with a bbox of width 22.88 and height 57.12. Confidence score: 0.81.
+- Person 72 is standing at coordinates [185.20, 228.76] with a bbox of width 19.48 and height 48.16. Confidence score: 0.55.
+- Person 84 is standing at coordinates [58.77, 222.47] with a bbox
+### Road Scene Description
+
+#### Frame 141
+At frame 141, there is a person (ID: 93) standing at coordinates [298.01, 229.60]. The person's bounding box has a width of 11.88 and a height of 30.60. The confidence score for this detection is 0.55.
+
+#### Frame 142
+At frame 142, there are multiple people present:
+- Person 66 is standing at coordinates [256.92, 230.63] with a bounding box of width 23.65 and height 59.49. The confidence score is 0.77.
+- Person 72 is standing at coordinates [153.67, 229.14] with a bounding box of width 21.52 and height 50.87. The confidence score is 0.69.
+- Person 84 is standing at coordinates [-11.58, 221.83] with a bounding box of width 34.51 and height 85
+### Road Scene Description and Significant Events
+
+#### Frame 149
+- Person 85 is standing at coordinates [220.68, 228.53] with a bbox of width 26.77 and height 66.46. Confidence score: 0.74.
+
+#### Frame 150
+- Person 66 is standing at coordinates [220.28, 230.27] with a bbox of width 23.72 and height 60.54. Confidence score: 0.60.
+- Person 72 is standing at coordinates [119.96, 226.73] with a bbox of width 26.56 and height 62.06. Confidence score: 0.58.
+- Person 88 is standing at coordinates [137.16, 229.37] with a bbox of width 22.43 and height 57.08. Confidence score: 0.74.
+- Person 77 is standing at coordinates [278.65, 233.32] with a bbox of
+### Road Scene Description and Potential Risks
+
+#### Frame 156
+- Person 85 is standing at coordinates [209.15, 233.82] with a bbox of width 20.58 and height 51.34. Confidence score: 0.65.
+
+#### Frame 157
+- Person 66 is standing at coordinates [204.00, 240.32] with a bbox of width 19.19 and height 48.03. Confidence score: 0.73.
+- Person 72 is standing at coordinates [87.49, 234.04] with a bbox of width 26.33 and height 62.69. Confidence score: 0.80.
+- Person 88 is standing at coordinates [107.05, 235.15] with a bbox of width 24.10 and height 60.90. Confidence score: 0.79.
+- Person 77 is standing at coordinates [267.38,
+### Road Scene Description
+
+#### Frame 162
+- Person 85 is standing at coordinates [191.74, 232.07] with a bbox of width 21.39 and height 54.06. Confidence score is 0.79.
+- Person 100 is standing at coordinates [912.77, 229.20] with a bbox of width 42.27 and height 104.21. Confidence score is 0.78.
+- Person 102 is standing at coordinates [1180.67, 219.55] with a bbox of width 54.36 and height 137.02. Confidence score is 0.76.
+- Person 103 is standing at coordinates [1086.32, 218.23] with a bbox of width 48.76 and height 115.32. Confidence score is 0.79.
+- Person 104 is standing at coordinates
+### Road Scene Description
+
+At frame 167, there are multiple people standing at different coordinates on the road. Here is a concise description of the road scene:
+
+- Person 72 stands at coordinates [21.40, 223.36] with a bounding box width of 31.71 and height of 72.81. The confidence score for detection is 0.84.
+- Person 88 stands at coordinates [50.30, 226.28] with a bounding box width of 27.51 and height of 69.06. The confidence score for detection is 0.80.
+- Person 77 stands at coordinates [248.47, 228.50] with a bounding box width of 15.50 and height of 38.84. The confidence score for detection is 0.77.
+- Person 68 stands at coordinates [200.60, 230.86] with
+### Road Scene Description
+
+#### Frame 172
+- Person 68 is standing at coordinates [186.34, 230.71] with a bbox of width 23.71 and height 53.89. Confidence score: 0.83.
+- Person 97 is standing at coordinates [-3.62, 223.02] with a bbox of width 49.85 and height 118.88. Confidence score: 0.81.
+- Person 85 is standing at coordinates [161.99, 224.27] with a bbox of width 22.34 and height 57.92. Confidence score: 0.60.
+- Person 100 is standing at coordinates [1012.36, 225.89] with a bbox of width 51.14 and height 128.95. Confidence score: 0.84.
+- Person 103 is
+### Road Scene Description
+
+#### Frame 177
+- Person 113 is standing at coordinates [1105.53, 211.29] with a bbox of width 34.82 and height 97.91. Confidence score is 0.35.
+- Person 115 is standing at coordinates [1060.55, 212.61] with a bbox of width 54.00 and height 150.78. Confidence score is 0.83.
+- Person 88 is standing at coordinates [-15.82, 225.48] with a bbox of width 28.20 and height 72.57. Confidence score is 0.27.
+- Person 119 is standing at coordinates [923.18, 220.33] with a bbox of width 20.03 and height 46.62. Confidence score is 0.63.
+- Person 
+### Road Scene Description
+
+#### Frame 183
+- Person 94 is standing at coordinates [192.45, 222.63] with a bbox of width 16.51 and height 41.26. Confidence score is 0.77.
+- Person 109 is standing at coordinates [1029.09, 213.67] with a bbox of width 29.94 and height 75.10. Confidence score is 0.77.
+- Person 115 is standing at coordinates [1157.34, 200.81] with a bbox of width 71.08 and height 180.30. Confidence score is 0.84.
+- Person 119 is standing at coordinates [946.21, 214.26] with a bbox of width 23.01 and height 54.83. Confidence score is 
+### Road Scene Description
+
+#### Frame 189
+- Person 119 is standing at coordinates [968.62, 214.06] with a bbox of width 25.92 and height 63.85. Confidence score is 0.71.
+- Person 122 is standing at coordinates [946.50, 218.89] with a bbox of width 28.27 and height 70.12. Confidence score is 0.71.
+- Person 107 is standing at coordinates [1182.19, 206.91] with a bbox of width 38.37 and height 96.89. Confidence score is 0.88.
+- Person 124 is standing at coordinates [1122.08, 223.26] with a bbox of width 27.58 and height 71.04. Confidence score
+### Road Scene Description
+
+#### Frame 196
+- Person 68 is standing at coordinates [103.06, 242.28] with a bbox of width 30.49 and height 73.40. Confidence score: 0.71.
+- Person 94 is standing at coordinates [157.01, 240.71] with a bbox of width 21.36 and height 53.55. Confidence score: 0.12.
+- Person 109 is standing at coordinates [1166.93, 218.75] with a bbox of width 40.01 and height 99.93. Confidence score: 0.80.
+- Person 119 is standing at coordinates [1002.65, 224.15
+### Road Scene Description
+
+#### Frame 204
+- Person 85 is standing at coordinates [37.51, 238.66] with a bbox of width 29.84 and height 77.99. Confidence score is 0.72.
+- Person 135 is standing at coordinates [1075.29, 214.82] with a bbox of width 27.14 and height 76.32. Confidence score is 0.64.
+- Person 122 is standing at coordinates [1050.26, 213.14] with a bbox of width 24.00 and height 63.40. Confidence score is 0.68.
+- Person 66 is standing at coordinates [41.88, 238.29] with a bbox of width 28.54 and height 70.13.
+### Road Scene Description and Significant Events
+
+#### Frame 228
+- Person 77 is standing at coordinates [102.50, 239.14] with a bbox of width 25.96 and height 69.41. Confidence score is 0.70.
+
+#### Frame 229
+- Person 136 is standing at coordinates [120.47, 234.60] with a bbox of width 27.49 and height 68.21. Confidence score is 0.66.
+- Person 77 is standing at coordinates [95.95, 237.52] with a bbox of width 27.65 and height 73.09. Confidence score is 0.62.
+
+#### Frame 230
+- Person 136 is standing at coordinates [118.05, 235.31] with a bbox of width 29.19 and height 72.87. Confidence score is 0.48.
+- Person 77 is standing at coordinates [93.90, 238.09
+### Road Scene Description and Potential Risks
+
+#### Frame 288
+- Person 142 is standing at coordinates [75.71, 237.12] with a bbox of width 41.90 and height 105.48. Confidence score is 0.69.
+- Person 143 is standing at coordinates [22.87, 227.81] with a bbox of width 36.62 and height 94.12. Confidence score is 0.72.
+
+#### Frame 289
+- Person 142 is standing at coordinates [63.43, 237.30] with a bbox of width 41.35 and height 103.81. Confidence score is 0.77.
+- Person 143 is standing at coordinates [14.09, 228.38]
+### Road Scene Description and Significant Events
+
+#### Frame 313
+- Person 150 is standing at coordinates [933.75, 221.45] with a bbox of width 24.39 and height 68.91. Confidence score: 0.20.
+- Person 151 is standing at coordinates [3.97, 233.20] with a bbox of width 54.19 and height 133.85. Confidence score: 0.76.
+- Person 152 is standing at coordinates [1069.38, 217.17] with a bbox of width 28.80 and height 75.45. Confidence score: 0.17.
+
+#### Frame 314
+- Person 145 is standing at coordinates [1231.53, 215.70] with a bbox of width 51.44 and height 132.99. Confidence score
+### Road Scene Description and Significant Events
+
+#### Frame 333
+Person 161 is standing at coordinates [5.84, 237.55] with a bounding box of width 35.08 and height 80.41. The confidence score for this detection is 0.50.
+
+#### Frame 334
+- Person 155 is standing at coordinates [-4.41, 238.78] with a bounding box of width 35.93 and height 88.04. The confidence score for this detection is 0.70.
+- Person 157 is standing at coordinates [338.18, 243.90] with a bounding box of width 14.81 and height 38.69. The confidence score for this detection is 0.71.
+- Person 148 is standing at coordinates [1237.44, 208.25] with a bounding box of width 44.75 and height 122.33. The confidence score for this detection is 0.81
+### Road Scene Description and Significant Events
+
+#### Frame 348
+- Person 163 is standing at coordinates [660.88, 241.80] with a bbox of width 18.57 and height 43.93. Confidence score: 0.78.
+- Person 165 is standing at coordinates [99.97, 247.75] with a bbox of width 22.57 and height 55.54. Confidence score: 0.26.
+- Person 166 is standing at coordinates [230.23, 241.39] with a bbox of width 22.21 and height 57.11. Confidence score: 0.60.
+- Person 167 is standing at coordinates [296.23, 250.21] with a bbox of width 14.26 and height 35.91. Confidence score: 0.68.
+
+#### Frame 349
+- Person 157 is standing at coordinates [306.16, 250.80] with a bbox of
+### Road Scene Description and Significant Events
+
+#### Frame 359
+- Person 160 is standing at coordinates [334.98, 244.11] with a bbox of width 19.78 and height 51.77. Confidence score is 0.82.
+
+#### Frame 360
+- Person 157 is standing at coordinates [281.41, 249.34] with a bbox of width 19.85 and height 50.41. Confidence score is 0.76.
+- Person 162 is standing at coordinates [322.87, 250.47] with a bbox of width 14.07 and height 34.73. Confidence score is 0.35.
+- Person 163 is standing at coordinates [666.66, 244.20] with a bbox of width 19.17 and height 47.08. Confidence score is 0.70.
+- Person 166 is standing at coordinates [186.58, 240.08] with a bbox of
+### Road Scene Description and Significant Events
+
+#### Frame 366
+- Person 172 is standing at coordinates [112.42, 246.47] with a bbox of width 22.39 and height 54.95. Confidence score: 0.56.
+- Person 173 is standing at coordinates [778.27, 246.60] with a bbox of width 13.84 and height 34.49. Confidence score: 0.66.
+- Person 174 is standing at coordinates [293.39, 254.73] with a bbox of width 12.41 and height 28.81. Confidence score: 0.64.
+- Person 175 is standing at coordinates [253.14, 252.75] with a bbox of width 16.40 and height 40.31. Confidence score: 0.34.
+- Person 176 is standing at coordinates [672.76, 241.88] with a bbox of width 18.68
+### Road Scene Description
+
+#### Frame 371
+- Person 174 is standing at coordinates [287.87, 254.13] with a bbox of width 13.52 and height 31.95. Confidence score: 0.24.
+- Person 175 is standing at coordinates [244.30, 253.84] with a bbox of width 16.76 and height 41.32. Confidence score: 0.55.
+- Person 176 is standing at coordinates [675.95, 241.63] with a bbox of width 19.93 and height 51.61. Confidence score: 0.77.
+- Person 179 is standing at coordinates [179.03, 248.41] with a bbox of width 26.32 and height 55.49. Confidence score: 0.74.
+- Person 164 is standing at coordinates [86.66, 245.16] with a bbox of width 23.78 and height 
+### Road Scene Description
+
+At frame 376, there are multiple people standing at different coordinates on the road:
+- Person 167 is standing at coordinates [242.87, 256.53] with a bbox of width 20.80 and height 54.38. Confidence score: 0.80.
+- Person 168 is standing at coordinates [84.51, 253.17] with a bbox of width 40.01 and height 96.49. Confidence score: 0.84.
+- Person 160 is standing at coordinates [305.44, 258.73] with a bbox of width 19.30 and height 48.73. Confidence score: 0.74.
+- Person 170 is standing at coordinates [226.72, 259.76] with a bbox of width 15.74 and height 36.19. Confidence score: 0.71.
+- Person 172 is standing at coordinates [88.90, 255.26]
+### Road Scene Description
+
+#### Frame 380
+At frame 380, there is a person (ID: 186) standing at coordinates [892.45, 234.30] with a bounding box width of 33.58 and height of 98.35. The confidence score for this detection is 0.77.
+
+#### Frame 381
+At frame 381, there are multiple people standing at different coordinates:
+- Person 163 is standing at [680.35, 252.62] with a bounding box width of 19.66 and height of 52.14. Confidence score: 0.77.
+- Person 166 is standing at [77.78, 246.22] with a bounding box width of 46.95 and height of 116.28. Confidence score: 0.84.
+- Person 167 is standing at [230.71, 262.71] with a bounding box width of 20.92 and height of 54.82.
+### Road Scene Description
+
+#### Frame 386
+- Person 163 is standing at coordinates [687.66, 245.09] with a bbox of width 21.10 and height 57.01. Confidence score: 0.80.
+- Person 166 is standing at coordinates [42.40, 239.61] with a bbox of width 47.35 and height 124.10. Confidence score: 0.83.
+- Person 168 is standing at coordinates [14.26, 252.40] with a bbox of width 49.67 and height 120.05. Confidence score: 0.86.
+- Person 160 is standing at coordinates [281.97, 257.83] with a bbox of width 21.68 and height 54.83. Confidence score: 0.75.
+- Person 170 is standing at coordinates [212.01, 256.75] with a bbox of width 25.34 and height 
+### Road Scene Description
+
+#### Frame 390
+- Person 187 is standing at coordinates [847.25, 232.36] with a bbox of width 19.52 and height 53.64. Confidence score: 0.82.
+- Person 171 is standing at coordinates [73.23, 253.16] with a bbox of width 24.73 and height 63.55. Confidence score: 0.68.
+- Person 175 is standing at coordinates [216.87, 257.55] with a bbox of width 19.99 and height 49.91. Confidence score: 0.57.
+- Person 188 is standing at coordinates [61.77, 253.65] with a bbox of width 22.95 and height 61.10. Confidence score: 0.54.
+- Person 189 is standing at coordinates [120.85, 257.43] with a bbox of width 23.61 and height
+### Road Scene Description and Significant Events
+
+#### Frame 394
+- Person 195 is standing at coordinates [236.37, 266.12] with a bbox of width 14.68 and height 36.53. Confidence score is 0.69.
+
+#### Frame 395
+- Person 163 is standing at coordinates [700.83, 249.49] with a bbox of width 22.46 and height 61.28. Confidence score is 0.78.
+- Person 160 is standing at coordinates [257.65, 259.51] with a bbox of width 26.13 and height 66.38. Confidence score is 0.74.
+- Person 170 is standing at coordinates [182.54, 262.94] with a bbox of width 27.73 and height 70.66. Confidence score is 0.85.
+- Person 176 is standing at coordinates [712.
+### Road Scene Description
+
+At frame 399, there are multiple people standing at different coordinates on the road. Here is a concise description of the road scene:
+
+- Person 170 stands at coordinates [167.02, 263.81] with a bbox of width 29.22 and height 75.44. Confidence score: 0.87.
+- Person 176 stands at coordinates [720.64, 248.26] with a bbox of width 24.40 and height 67.10. Confidence score: 0.85.
+- Person 179 stands at coordinates [108.20, 267.05] with a bbox of width 26.18 and height 57.77. Confidence score: 0.80.
+- Person 181 stands at coordinates [887.77, 236.87] with a bbox of width 29.17 and height 78.37. Confidence
+### Road Scene Description
+
+#### Frame 402
+- Person 192 is standing at coordinates [4.63, 260.95] with a bbox of width 26.56 and height 72.95. Confidence score is 0.43.
+
+#### Frame 403
+- Person 163 is standing at coordinates [715.14, 245.88] with a bbox of width 24.31 and height 66.96. Confidence score is 0.81.
+- Person 160 is standing at coordinates [231.49, 258.22] with a bbox of width 28.33 and height 72.18. Confidence score is 0.77.
+- Person 170 is standing at coordinates [146.99, 259.61] with a bbox of width 31.69 and height 80.87. Confidence score is 0.82.
+- Person 176 is standing
+### Road Scene Description
+
+#### Frame 406
+At frame 406, there is one person (ID: 192) standing at coordinates [-11.86, 256.02]. The person's bounding box has a width of 25.39 and a height of 69.56. The confidence score for this detection is 0.11.
+
+#### Frame 407
+At frame 407, there are multiple people standing at different coordinates:
+- Person 163 is standing at [721.05, 242.79] with a bounding box of width 25.04 and height 68.73. The confidence score is 0.80.
+- Person 160 is standing at [215.57, 254.85] with a bounding box of width 29.53 and height 75.83. The confidence score is 0.81.
+- Person 170 is standing at [122.90, 255.
+### Road Scene Description
+
+#### Frame 412
+- Person 170 is standing at coordinates [93.22, 256.54] with a bbox of width 34.11 and height 88.79. Confidence score: 0.87.
+- Person 176 is standing at coordinates [745.23, 235.75] with a bbox of width 27.40 and height 78.61. Confidence score: 0.86.
+- Person 179 is standing at coordinates [57.62, 261.11] with a bbox of width 26.98 and height 62.60. Confidence score: 0.85.
+- Person 181 is standing at coordinates [934.20, 222.90] with a bbox of width 33.56 and height 88.92. Confidence score: 0.86.
+- Person 186 is standing at coordinates [1202.59, 
+### Road Scene Description
+
+At frame 418, there are several people standing at different coordinates on the road:
+- Person 163 is standing at [743.44, 242.61] with a bbox of width 28.49 and height 77.93. Confidence score: 0.82.
+- Person 160 is standing at [162.29, 255.21] with a bbox of width 30.69 and height 78.51. Confidence score: 0.66.
+- Person 170 is standing at [48.18, 260.63] with a bbox of width 37.12 and height 96.63. Confidence score: 0.81.
+- Person 176 is standing at [758.96, 240.02] with a bbox of width 28.69 and height 82.74. Confidence score: 0.82.
+- Person 179 is standing at [32.
+### Road Scene Description
+
+At frame 424, there are several people standing at different coordinates on the road:
+- Person 170 is standing at [-4.75, 258.49] with a bounding box width of 41.57 and height of 106.52. The confidence score for detection is 0.85.
+- Person 176 is standing at [775.30, 235.77] with a bounding box width of 31.66 and height of 91.91. The confidence score for detection is 0.84.
+- Person 181 is standing at [990.67, 216.27] with a bounding box width of 40.88 and height of 108.46. The confidence score for detection is 0.87.
+- Person 187 is standing at [937.83, 226.92] with a bounding box width of 28.86 and height of 73
+### Road Scene Description
+
+#### Frame 430
+- Person 181 is standing at coordinates [1025.45, 210.27] with a bbox of width 43.65 and height 117.26. Confidence score: 0.86.
+- Person 187 is standing at coordinates [959.64, 220.96] with a bbox of width 29.74 and height 75.53. Confidence score: 0.84.
+- Person 175 is standing at coordinates [53.43, 263.19] with a bbox of width 28.10 and height 64.44. Confidence score: 0.60.
+- Person 193 is standing at coordinates [1202.27, 220.22] with a bbox of width 40.86 and height 106.36. Confidence score: 0.89.
+- Person 190 is standing at coordinates [
+### Road Scene Description and Significant Events
+
+#### Frame 436
+- Person 201 is standing at coordinates [-3.00, 280.51] with a bbox of width 26.60 and height 60.62. Confidence score: 0.17.
+- Person 195 is standing at coordinates [107.60, 276.52] with a bbox of width 21.24 and height 46.90. Confidence score: 0.61.
+- Person 178 is standing at coordinates [94.32, 275.59] with a bbox of width 21.88 and height 52.31. Confidence score: 0.71.
+- Person 203 is standing at coordinates [649.10, 267.30] with a bbox of width 11.94 and height 29.33. Confidence score: 0.59.
+- Person 
+### Road Scene Description and Significant Events
+
+#### Frame 444
+- Person 163 is standing at coordinates [832.79, 243.77] with a bbox of width 44.36 and height 123.74. Confidence score: 0.85.
+- Person 176 is standing at coordinates [857.87, 237.00] with a bbox of width 43.94 and height 135.26. Confidence score: 0.84.
+- Person 181 is standing at coordinates [1146.35, 215.20] with a bbox of width 51.68 and height 141.78. Confidence score: 0.89.
+- Person 187 is standing at coordinates [1029.16, 223.46] with a bbox of width 37.26 and height 95.17. Confidence score: 
+### Road Scene Description and Potential Risks
+
+#### Frame 451
+- Person 209 is standing at coordinates [693.35, 249.26] with a bbox of width 15.94 and height 41.54. Confidence score: 0.52.
+- Person 211 is standing at coordinates [851.65, 235.47] with a bbox of width 23.25 and height 61.03. Confidence score: 0.57.
+- Person 212 is standing at coordinates [735.59, 245.50] with a bbox of width 19.11 and height 51.99. Confidence score: 0.62.
+- Person 214 is standing at coordinates [1062.23, 210.14] with a bbox of width 28.43 and height 73.24. Confidence score: 0.68.
+
+#### Frame 452
+-
+### Identification of Potential Risks Based on Key Frames
+
+#### Frame 457
+- Person 208 is standing at coordinates [710.10, 246.99] with a bbox of width 17.03 and height 47.86, and a confidence score of 0.61.
+- Person 209 is standing at coordinates [703.59, 250.45] with a bbox of width 17.20 and height 45.63, and a confidence score of 0.38.
+- Person 211 is standing at coordinates [884.42, 236.92] with a bbox of width 30.71 and height 80.96, and a confidence score of 0.73.
+- Person 212 is standing at coordinates [752.18, 248.69] with a bbox of width 18.11 and height 50.06, and a confidence score of 0.52.
+
+### Road Scene Description and Potential Risks
+
+#### Frame 463
+At frame 463, there is a person (ID: 218) standing at coordinates [795.48, 233.16] with a bounding box width of 21.09 and height of 59.71. The confidence score for this detection is 0.77.
+
+#### Frame 464
+At frame 464, several people are detected:
+- Person 163 is standing at coordinates [1049.37, 217.74] with a bounding box width of 78.05 and height of 223.85. The confidence score is 0.86.
+- Person 176 is standing at coordinates [1102.03, 209.08] with a bounding box width of 76.29 and height of 240.86. The confidence score is 0.83.
+- Person 187 is standing at coordinates [1206.52, 
+### Road Scene Description and Significant Events
+
+#### Frame 469
+- Person 219 is standing at coordinates [690.30, 250.98] with a bbox of width 13.26 and height 35.08. Confidence score: 0.74.
+- Person 220 is standing at coordinates [862.88, 243.48] with a bbox of width 30.82 and height 75.56. Confidence score: 0.61.
+- Person 224 is standing at coordinates [792.02, 243.28] with a bbox of width 18.66 and height 55.75. Confidence score: 0.54.
+- Person 225 is standing at coordinates [884.26, 243.34] with a bbox of width 25.85 and height 73.86. Confidence score: 0.77.
+- Person 226 is standing at coordinates [1016.62, 230.86]

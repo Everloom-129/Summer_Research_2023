@@ -1,0 +1,3075 @@
+<-batch_0->
+### Frame 0000
+
+#### Potential Risks
+Person 1 is on the left side of the car.
+Person 2 is on the left side of the car.
+Person 3 is on the right side of the car.
+Person 4 is on the right side of the car.
+Person 5 is on the left side of the car.
+Person 6 is on the right side of the car.
+Person 7 is on the right side of the car.
+
+#### Safety Evaluation
+Person 1: Safe (Left side)
+Person 2: Safe (Left side)
+Person 3: Risky (Right side)
+Person 4: Risky (Right side)
+Person 5: Safe (Left side)
+
+### Frame 0001
+
+#### Potential Risks
+Person 2 is on the left side of the car.
+Person 3 is on the right side of the car.
+Person 4 is on the right side of the car.
+Person 5 is on the left side of the car.
+Person 7 is on the right side of the car.
+
+#### Safety Evaluation
+Person 2: Safe (Left side)
+Person 3: Risky (Right side)
+Person 4: Risky (Right side)
+Person 5: Safe (Left side)
+
+### Frame 0002
+
+#### Potential Risks
+Person 2 is on the left side of the car.
+Person 3 is on the right side of the car.
+Person 4 is on the right side of the car.
+Person 5 is on the left side of the car.
+Person 7 is on the right side of the car.
+
+#### Safety Evaluation
+Person 2: Safe (Left side)
+Person 3: Risky (Right side)
+Person 4: Risky (Right side)
+Person 5: Safe (Left side)
+
+### Frame 0003
+
+#### Potential Risks
+Person 2 is on the left side of the car.
+Person 3 is on the right side of the car.
+Person 4 is on the right side of the car.
+Person 5 is on the left side of the car.
+Person 7 is on the right side of the car.
+
+#### Safety Evaluation
+Person 2: Safe (Left side)
+Person 3: Risky (Right side)
+Person 4: Risky (Right side)
+Person 5: Safe (Left side)
+
+### Frame 0004
+
+#### Potential Risks
+Person 2 is on the left side of the car.
+Person 4 is on the right side of the car.
+Person 5 is on the left side of the car.
+Person 7 is on the right side of the car.
+
+#### Safety Evaluation
+Person 2: Safe (Left side)
+Person 4: Risky (Right side)
+Person 5: Safe (Left side)
+
+### Frame 0005
+
+#### Potential Risks
+Person 2 is on the left side of the car.
+Person 4 is on the right side of the car.
+Person 5 is on the left side of the car.
+Person 7 is on the right side of the car.
+
+#### Safety Evaluation
+Person 2: Safe (Left side)
+Person 4: Risky (Right side)
+Person 5: Safe (Left side)
+Person 7: Risky (Right side)
+
+### Frame 0006
+
+#### Potential Risks
+Person 2 is on the left side of the car.
+Person 4 is on the right side of the car.
+Person 5 is on the left side of the car.
+
+#### Safety Evaluation
+Person 2: Safe (Left side)
+Person 4: Risky (Right side)
+Person 5: Safe (Left side)
+
+Please let me know if you need further assistance.
+<-batch_1->
+### Frame 0007
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 4 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 4: Risky (Moving closer, left side)
+Person 5: Risky (Moving closer, left side)
+
+### Frame 0008
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 4 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 4: Risky (Moving closer, left side)
+Person 5: Risky (Moving closer, left side)
+Person 6: Risky (Moving closer, left side)
+
+### Frame 0009
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 4 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 3 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 4: Risky (Moving closer, left side)
+Person 5: Risky (Moving closer, left side)
+Person 6: Risky (Moving closer, left side)
+Person 3: Risky (Moving closer, left side)
+
+### Frame 0010
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 4 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 3 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 4: Risky (Moving closer, left side)
+Person 5: Risky (Moving closer, left side)
+Person 6: Risky (Moving closer, left side)
+Person 3: Risky (Moving closer, left side)
+
+### Frame 0011
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 3 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 5: Risky (Moving closer, left side)
+Person 3: Risky (Moving closer, left side)
+
+### Frame 0012
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 3 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 5: Risky (Moving closer, left side)
+Person 3: Risky (Moving closer, left side)
+
+### Frame 0013
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 3 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 5: Risky (Moving closer, left side)
+Person 3: Risky (Moving closer, left side)
+<-batch_2->
+### Frame 0014
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, both sides)
+
+### Frame 0015
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, both sides)
+
+### Frame 0016
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, both sides)
+Person 39: Risky (Moving closer, both sides)
+
+### Frame 0017
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 40 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, both sides)
+Person 39: Risky (Moving closer, both sides)
+Person 40: Risky (Moving closer, both sides)
+
+### Frame 0018
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 40 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, both sides)
+Person 39: Risky (Moving closer, both sides)
+Person 40: Risky (Moving closer, both sides)
+
+### Frame 0019
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 40 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 1 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, both sides)
+Person 39: Risky (Moving closer, both sides)
+Person 40: Risky (Moving closer, both sides)
+Person 42: Risky (Moving closer, both sides)
+Person 1: Risky (Moving closer, left side)
+
+### Frame 0020
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 40 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car.
+Person 1 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, both sides)
+Person 39: Risky (Moving closer, both sides)
+Person 40: Risky (Moving closer, both sides)
+Person 42: Risky (Moving closer, both sides)
+Person 1: Risky (Moving closer, left side)
+<-batch_3->
+### Frame 0021
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car. This needs to be monitored carefully.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car. This needs to be monitored carefully.
+Person 40 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 1 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, left side)
+Person 39: Risky (Moving closer, left side)
+Person 40: Risky (Moving closer, both sides)
+Person 42: Risky (Moving closer, both sides)
+Person 1: Risky (Moving closer, left side)
+
+### Frame 0022
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car. This needs to be monitored carefully.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car. This needs to be monitored carefully.
+Person 40 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, left side)
+
+### Frame 0023
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 36 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car. This needs to be monitored carefully.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on the left side of the car. This needs to be monitored carefully.
+Person 40 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 43 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 36: Risky (Moving closer, left side)
+Person 39: Risky (Moving closer, left side)
+Person 40: Risky (Moving closer, both sides)
+Person 42: Risky (Moving closer, both sides)
+Person 43: Risky (Moving closer, both sides)
+
+### Frame 0024
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 3 is moving closer to the car, as indicated
+<-batch_4->
+### Frame 0028
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 1 is on the left side of the car.
+Person 44 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 39: Risky (Moving closer, both sides)
+Person 42: Risky (Moving closer, both sides)
+Person 1: Safe (Left side)
+Person 44: Risky (Moving closer, both sides)
+
+### Frame 0029
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 44 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 47 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 39: Risky (Moving closer, both sides)
+Person 42: Risky (Moving closer, both sides)
+Person 44: Risky (Moving closer, both sides)
+Person 47: Risky (Moving closer, both sides)
+
+### Frame 0030
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 44 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 47 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, both sides)
+Person 5: Risky (Moving closer, both sides)
+Person 3: Risky (Moving closer, both sides)
+Person 39: Risky (Moving closer, both sides)
+Person 42: Risky (Moving closer, both sides)
+Person 44: Risky (Moving closer, both sides)
+Person 47: Risky (Moving closer, both sides)
+
+### Frame 0031
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides
+<-batch_5->
+### Frame 0035
+
+#### Potential Risks
+Person 2 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 5 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 3 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 39 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 42 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 44 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 47 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored
+<-batch_6->
+### Frame 0042
+
+#### Road Scene Description
+In this frame, there are several pedestrians detected on both sides of the car. On the right side, pedestrians 2, 5, 39, 42, 49, 54, 52, 43, and 58 are present. On the left side, pedestrians 2, 5, 39, 42, 48, 49, 54, 52, 43, and 58 are detected. Among these pedestrians, pedestrians 2, 5, 39, 42, and 58 have high confidence, while pedestrian 43 has low confidence.
+
+### Frame 0043
+
+#### Road Scene Description
+In this frame, the same pedestrians as in the previous frame are detected on both sides of the car. On the right side, pedestrians 2, 5, 39, 42, 49, 54, 52, 43, and 58 are present. On the left side, pedestrians 2, 5, 39, 42, 48, 49, 54, 52, 43, and 58 are detected. Among these pedestrians, pedestrians 2, 5, 39, 42, and 58 have high confidence, while no pedestrians have low confidence.
+
+### Frame 0044
+
+#### Road Scene Description
+In this frame, the same pedestrians as in the previous frames are detected on both sides of the car. On the right side, pedestrians 2, 5, 39, 42, 49, 54, 52, 43, and 58 are present. On the left side, pedestrians 2, 5, 39, 42, 48, 49, 54, 52, 43, and 58 are detected. Among these pedestrians, pedestrians 2, 5, 39, 42, and 58 have high confidence, while no pedestrians have low confidence.
+
+### Frame 0045
+
+#### Road Scene Description
+In this frame, the same pedestrians as in the previous frames are detected on both sides of the car. On the right side, pedestrians 2, 5, 39, 42, 49, 54, 52, 43, and 58 are present. On the left side, pedestrians 2, 5, 39, 42, 48, 49, 54, 52, 43, and 58 are detected. Among these pedestrians, pedestrians 2, 5, 39, 42, and 58 have high confidence, while pedestrian 52 has low confidence.
+
+### Frame 0046
+
+#### Road Scene Description
+In this frame, the same pedestrians as in the previous frames are detected on both sides of the car. On the right side, pedestrians 2, 5, 39, 42, 49, 54, and 58 are present. On the left side, pedestrians 2, 5, 39, 42, 48, 49, 54, and 58 are detected. Among these pedestrians, pedestrians 2, 5, 39, 42, and 58 have high confidence, while no pedestrians have low confidence.
+
+### Frame 0047
+
+#### Road Scene Description
+In this frame, the same pedestrians as in the previous frames are detected on both sides of the car. On the right side, pedestrians 2, 5, 39, 42, 49, 54, and 58 are present. On the left side, pedestrians 2, 5, 39, 42, 48, 49, 54, and 58 are detected. Among these pedestrians, pedestrians 2, 5, 39, 42, and 58 have high confidence, while no pedestrians have low confidence.
+
+### Frame 0048
+
+#### Road Scene Description
+In this frame, the same pedestrians as in the previous
+<-batch_7->
+### Frame 0049
+
+#### Road Scene Description
+In this frame, there are a total of 9 people detected. On the right side of the car, there are 8 people (IDs: 2, 5, 39, 42, 49, 54, 58, 52), and on the left side of the car, there are also 8 people (IDs: 2, 5, 39, 42, 48, 49, 54, 58, 52). 
+
+#### Significant Events or Movements
+There are no significant events or movements mentioned in this frame.
+
+### Frame 0050
+
+#### Road Scene Description
+In this frame, the same 9 people are detected as in the previous frame. On the right side of the car, there are 8 people (IDs: 2, 5, 39, 42, 49, 54, 58, 52), and on the left side of the car, there are also 8 people (IDs: 2, 5, 39, 42, 48, 49, 54, 58, 52).
+
+#### Significant Events or Movements
+There are no significant events or movements mentioned in this frame.
+
+### Frame 0051
+
+#### Road Scene Description
+In this frame, the same 9 people are detected as in the previous frames. On the right side of the car, there are 8 people (IDs: 2, 5, 39, 42, 49, 54, 58, 52), and on the left side of the car, there are also 8 people (IDs: 2, 5, 39, 42, 48, 49, 54, 58, 52).
+
+#### Significant Events or Movements
+There are no significant events or movements mentioned in this frame.
+
+### Frame 0052
+
+#### Road Scene Description
+In this frame, one person (ID: 48) is no longer detected. The remaining 6 people are still present on both sides of the car.
+
+#### Significant Events or Movements
+There are no significant events or movements mentioned in this frame.
+
+### Frame 0053
+
+#### Road Scene Description
+In this frame, one person (ID: 48) is still not detected. The remaining 6 people are still present on both sides of the car.
+
+#### Significant Events or Movements
+There are no significant events or movements mentioned in this frame.
+
+### Frame 0054
+
+#### Road Scene Description
+In this frame, one person (ID: 48) is still not detected. The remaining 6 people are still present on both sides of the car.
+
+#### Significant Events or Movements
+There are no significant events or movements mentioned in this frame.
+
+### Frame 0055
+
+#### Road Scene Description
+In this frame, one new person (ID: 59) is detected on the left side of the car, in addition to the previous 6 people. On the right side of the car, there are 5 people (IDs: 2, 5, 42, 58, 52), and on the left side of the car, there are 7 people (IDs: 2, 5, 42, 48, 58, 52, 59).
+
+#### Significant Events or Movements
+There are no significant events or movements mentioned in this frame.
+
+Please let me know if you need further evaluation or analysis.
+<-batch_8->
+### Frame 0056
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 42 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 48 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 58 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 52 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 59 is on the left side of the car and is static or moving slightly.
+Person 60 is on the left side of the car and is static or moving slightly.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 5: Risky (Moving closer, right side)
+Person 42: Risky (Moving closer, right side)
+Person 48: Risky (Moving closer, left side)
+Person 58: Risky (Moving closer, right side)
+Person 52: Risky (Moving closer, right side)
+Person 59: Safe (Static or slight movement, left side)
+Person 60: Safe (Static or slight movement, left side)
+
+### Frame 0057
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 42 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 48 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 58 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 52 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 59 is on the left side of the car and is static or moving slightly.
+Person 60 is on the left side of the car and is static or moving slightly.
+Person 61 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 5: Risky (Moving closer, right side)
+Person 42: Risky (Moving closer, right side)
+Person 48: Risky (Moving closer, left side)
+Person 58: Risky (Moving closer, right side)
+Person 52: Risky (Moving closer, right side)
+Person 59: Safe (Static or slight movement, left side)
+Person 60: Safe (Static or slight movement, left side)
+Person 61: Risky (Moving closer, right side)
+
+### Frame 0058
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 42 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 48 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 58 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 52 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 59 is on the left side of the car and is static or moving slightly.
+Person 60 is on the left side of the car and is static or moving slightly.
+Person 61 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 2: Risky (Moving closer, right side)
+Person 5: Risky (Moving closer, right side)
+Person 42: Risky (Moving closer, right side)
+Person 48: Risky (Moving closer, left side)
+Person 58: Risky (Moving closer, right side)
+Person 52: Risky (Moving closer, right side)
+Person 59: Safe (Static or slight movement, left side)
+Person 60: Safe (Static or slight movement, left side)
+Person 61: Risky (Moving closer, right side)
+
+### Frame 0059
+
+#### Potential Risks
+Person 2 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 5 is on the right side of the car and is moving closer
+<-batch_9->
+### Frame 0063
+
+#### Potential Risks
+Person 2 is on the right side of the car and has low confidence.
+Person 5 is on the right side of the car and has low confidence.
+Person 42 is on the right side of the car and has low confidence.
+Person 58 is on the right side of the car and has high confidence.
+Person 52 is on the right side of the car and has high confidence.
+Person 61 is on the right side of the car and has low confidence.
+Person 2 is on the left side of the car and has low confidence.
+Person 5 is on the left side of the car and has low confidence.
+Person 42 is on the left side of the car and has low confidence.
+Person 48 is on the left side of the car and has high confidence.
+Person 58 is on the left side of the car and has high confidence.
+Person 52 is on the left side of the car and has high confidence.
+Person 59 is on the left side of the car and has low confidence.
+Person 60 is on the left side of the car and has low confidence.
+Person 61 is on the left side of the car and has low confidence.
+Person 62 is on the left side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 2: Risky (Low confidence, right side)
+Person 5: Risky (Low confidence, right side)
+Person 42: Risky (Low confidence, right side)
+Person 58: Risky (High confidence, right side)
+Person 52: Risky (High confidence, right side)
+Person 61: Risky (Low confidence, right side)
+Person 2: Risky (Low confidence, left side)
+Person 5: Risky (Low confidence, left side)
+Person 42: Risky (Low confidence, left side)
+Person 48: Risky (High confidence, left side)
+Person 58: Risky (High confidence, left side)
+Person 52: Risky (High confidence, left side)
+Person 59: Risky (Low confidence, left side)
+Person 60: Risky (Low confidence, left side)
+Person 61: Risky (Low confidence, left side)
+Person 62: Risky (High confidence, left side)
+
+### Frame 0064
+
+#### Potential Risks
+Person 2 is on the right side of the car and has low confidence.
+Person 42 is on the right side of the car and has low confidence.
+Person 58 is on the right side of the car and has high confidence.
+Person 52 is on the right side of the car and has high confidence.
+Person 61 is on the right side of the car and has low confidence.
+Person 2 is on the left side of the car and has low confidence.
+Person 42 is on the left side of the car and has low confidence.
+Person 48 is on the left side of the car and has high confidence.
+Person 58 is on the left side of the car and has high confidence.
+Person 52 is on the left side of the car and has high confidence.
+Person 59 is on the left side of the car and has low confidence.
+Person 60 is on the left side of the car and has low confidence.
+Person 61 is on the left side of the car and has low confidence.
+Person 62 is on the left side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 2: Risky (Low confidence, right side)
+Person 42: Risky (Low confidence, right side)
+Person 58: Risky (High confidence, right side)
+Person 52: Risky (High confidence, right side)
+Person 61: Risky (Low confidence, right side)
+Person 2: Risky (Low confidence, left side)
+Person 42: Risky (Low confidence, left side)
+Person 48: Risky (High confidence, left side)
+Person 58: Risky (High confidence, left side)
+Person 52: Risky (High confidence, left side)
+Person 59: Risky (Low confidence, left side)
+Person 60: Risky (Low confidence, left side)
+Person 61: Risky (Low confidence, left side)
+Person 62: Risky (High confidence, left side)
+
+### Frame 0065
+
+#### Potential Risks
+Person 2 is on the right side of the car and has low confidence.
+Person 58 is on the right side of the car and has high confidence.
+Person 52 is on the right side of the car and has high confidence.
+Person 59 is on the left side of the car and has low confidence.
+Person 60 is on the left side of the car and has low confidence.
+Person 62 is on the left side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 2: Risky (Low confidence, right side)
+Person 58: Risky (High confidence, right side)
+Person 52: Risky (High confidence, right side)
+Person 59: Risky (Low confidence, left side)
+Person 60: Risky (Low confidence, left side)
+Person 62: Risky (High confidence, left side)
+
+### Frame 0066
+
+#### Potential Risks
+Person 58 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 58: Risky (High confidence, right side)
+
+### Frame 0067
+
+#### Potential Risks
+Person 62 is on the left side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 62: Risky (High confidence, left side)
+
+### Frame 0068
+
+#### Potential Risks
+None
+
+#### Safety Evaluation
+Person 48: Safe (High confidence, left side)
+Person 60: Safe (High confidence, left side)
+Person 62: Safe (High confidence, left side)
+
+### Frame 0069
+
+#### Potential Risks
+None
+
+#### Safety Evaluation
+Person 48: Safe (High confidence, left side)
+Person 60: Safe (High confidence, left side)
+Person 62: Safe (High confidence, left side)
+<-batch_10->
+### Frame 0070
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 60 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+
+### Frame 0071
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 60 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+
+### Frame 0072
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 60 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+
+### Frame 0073
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 60 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+
+### Frame 0074
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 60 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+
+### Frame 0075
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+
+### Frame 0076
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+<-batch_11->
+### Frame 0077
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 66 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Safe
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 66: Risky (Moving closer, right side)
+
+### Frame 0078
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 66 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Safe
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 66: Risky (Moving closer, right side)
+
+### Frame 0079
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 66 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Safe
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 66: Risky (Moving closer, right side)
+
+### Frame 0080
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 66 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Safe
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 66: Risky (Moving closer, right side)
+
+### Frame 0081
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 66 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Safe
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 66: Risky (Moving closer, right side)
+
+### Frame 0082
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 66 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 60: Safe
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 66: Risky (Moving closer, right side)
+
+### Frame 0083
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 66 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 62: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 66: Risky (Moving closer, right side)
+
+Please note that the evaluation is based on the provided information and may not be completely accurate without additional context or visual analysis.
+<-batch_12->
+### Frame 0084
+
+#### Potential Risks
+Person 48 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 63 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 66 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+Person 63: Risky (Moving closer, both sides)
+Person 66: Risky (Moving closer, both sides)
+
+### Frame 0085
+
+#### Potential Risks
+Person 48 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 63 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 66 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, both sides)
+Person 62: Safe (Static or slight movement, both sides)
+Person 63: Risky (Moving closer, both sides)
+Person 66: Risky (Moving closer, both sides)
+
+### Frame 0086
+
+#### Potential Risks
+Person 48 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 63 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 66 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 68 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 60 is on both sides of the car and is static or moving slightly. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+Person 63: Risky (Moving closer, both sides)
+Person 66: Risky (Moving closer, both sides)
+Person 68: Risky (Moving closer, both sides)
+Person 60: Safe (Static or slight movement, both sides)
+
+### Frame 0087
+
+#### Potential Risks
+Person 48 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 63 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 66 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 68 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 60 is on both sides of the car and is static or moving slightly. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+Person 63: Risky (Moving closer, both sides)
+Person 66: Risky (Moving closer, both sides)
+Person 68: Risky (Moving closer, both sides)
+Person 60: Safe (Static or slight movement, both sides)
+
+### Frame 0088
+
+#### Potential Risks
+Person 48 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 63 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 66 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 68 is on both sides of the car and is static or moving slightly. This needs to be monitored carefully.
+Person 60 is on both sides of the car and is static or moving slightly. Confidence is not provided.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+Person 63: Risky (Moving closer, both sides)
+Person 66: Risky (Moving closer, both sides)
+Person 68: Safe (Static or slight movement, both sides)
+Person 60: Safe (Static or slight movement, both sides)
+
+### Frame 0089
+
+#### Potential Risks
+Person 48 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 63 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 68 is on both sides of the car and is static or moving slightly. This needs to be monitored carefully.
+Person 60 is on both sides of the car and is static or moving slightly. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+Person 63: Risky (Moving closer, both sides)
+Person 68: Safe (Static or slight movement, both sides)
+Person 60: Safe (Static or slight movement, both sides)
+
+### Frame 0090
+
+#### Potential Risks
+Person 48 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 63 is on both sides of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 68 is on both sides of the car and is static or moving slightly. This needs to be monitored carefully.
+Person 60 is on both sides of the car and is static or moving slightly. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+Person 63: Risky (Moving closer, both sides)
+Person 68: Safe (Static or slight movement, both sides)
+Person 60: Safe (Static or slight movement, both sides)
+<-batch_13->
+### Frame 0091
+
+#### Potential Risks
+Person 48 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 63 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 68 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, both sides)
+Person 63: Risky (Moving closer, both sides)
+Person 68: Risky (Moving closer, both sides)
+
+### Frame 0092
+
+#### Potential Risks
+Person 60 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Both sides)
+Person 63: Risky (Both sides)
+Person 60: Risky (Moving closer, both sides)
+
+### Frame 0093
+
+#### Potential Risks
+Person 60 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Both sides)
+Person 63: Risky (Both sides)
+Person 60: Risky (Moving closer, both sides)
+
+### Frame 0094
+
+#### Potential Risks
+Person 69 is on the left side of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Both sides)
+Person 63: Risky (Both sides)
+Person 69: Safe (Left side)
+
+### Frame 0095
+
+#### Potential Risks
+Person 69 is on the left side of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 48: Risky (Both sides)
+Person 63: Risky (Both sides)
+Person 69: Safe (Left side)
+
+### Frame 0096
+
+#### Potential Risks
+None
+
+#### Safety Evaluation
+Person 48: Safe (Both sides)
+Person 63: Safe (Both sides)
+Person 69: Safe (Left side)
+
+### Frame 0097
+
+#### Potential Risks
+None
+
+#### Safety Evaluation
+Person 48: Safe (Both sides)
+Person 63: Safe (Both sides)
+Person 69: Safe (Left side)
+<-batch_14->
+### Frame 0098
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+
+### Frame 0099
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, left side)
+
+### Frame 0100
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, left side)
+
+### Frame 0101
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, left side)
+
+### Frame 0102
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, left side)
+
+### Frame 0103
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, left side)
+
+### Frame 0104
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, left side)
+Person 73: Risky (Moving closer, left side)
+<-batch_15->
+### Frame 0105
+
+#### Road Scene Description
+In this frame, there are a total of 6 people detected. Person 48 is located on the right side of the car, while person 63 is also on the right side. On the left side of the car, there are people 48, 63, 69, 71, 72, and 73. Among these detections, persons 48, 63, and 72 have high confidence levels.
+
+### Frame 0106
+
+#### Road Scene Description
+In this frame, the same 6 people from the previous frame are detected. Person 74 is also detected in this frame. On the right side of the car, there are people 48, 63, and 72. On the left side of the car, there are people 48, 63, 69, 71, 72, 73, and 74. Persons 48, 63, 72, and 73 have high confidence levels.
+
+### Frame 0107
+
+#### Road Scene Description
+The same 7 people from the previous frame are detected in this frame as well. On the right side of the car, there are people 48, 63, and 72. On the left side of the car, there are people 48, 63, 69, 71, 72, 73, and 74. Persons 48, 63, and 72 have high confidence levels.
+
+### Frame 0108
+
+#### Road Scene Description
+The same 7 people from the previous frame are detected in this frame as well. On the right side of the car, there are people 48, 63, and 72. On the left side of the car, there are people 48, 63, 69, 71, 72, 73, and 74. Persons 48, 63, 72, and 74 have high confidence levels.
+
+### Frame 0109
+
+#### Road Scene Description
+The same 7 people from the previous frame are detected in this frame as well. On the right side of the car, there are people 48, 63, and 72. On the left side of the car, there are people 48, 63, 69, 71, 72, 73, and 74. Persons 48, 63, 72, and 74 have high confidence levels.
+
+### Frame 0110
+
+#### Road Scene Description
+The same 7 people from the previous frame are detected in this frame as well. On the right side of the car, there are people 48, 63, and 72. On the left side of the car, there are people 48, 63, 69, 71, 72, 73, and 74. Persons 48, 63, 72, and 74 have high confidence levels.
+
+### Frame 0111
+
+#### Road Scene Description
+The same 7 people from the previous frame are detected in this frame as well. On the right side of the car, there are people 48, 63, and 72. On the left side of the car, there are people 48, 63, 69, 71, 72, 73, and 74. Persons 48, 63, 69, 72, and 74 have high confidence levels.
+<-batch_16->
+### Frame 0112
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, right side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+
+### Frame 0113
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 63 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 63: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, right side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0114
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 71 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 71: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, right side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0115
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, right side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0116
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, right side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+
+### Frame 0117
+
+#### Potential Risks
+Person 48 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 72 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 48: Risky (Moving closer, right side)
+Person 69: Risky (Moving closer, left side)
+Person 72: Risky (Moving closer, right side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risk
+<-batch_17->
+### Frame 0119
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, left side)
+Person 75: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+
+### Frame 0120
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, left side)
+Person 75: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+
+### Frame 0121
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, left side)
+Person 75: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+
+### Frame 0122
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, left side)
+Person 75: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+
+### Frame 0123
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, left side)
+Person 75: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+
+### Frame 0124
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, left side)
+Person 75: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+
+### Frame 0125
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 73 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 62 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 73: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, left side)
+Person 75: Risky (Moving closer, left side)
+Person 62: Risky (Moving closer, right side)
+<-batch_18->
+### Frame 0126
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 73 is moving closer, is on both sides of the car, and has high confidence.
+Person 74 is moving closer, is on both sides of the car, and has high confidence.
+Person 75 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+Person 62 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 73: Risky (Moving closer, high confidence, both sides)
+Person 74: Risky (Moving closer, high confidence, both sides)
+Person 75: Safe (Static or slight movement, left side)
+Person 62: Risky (Moving closer, both sides)
+
+### Frame 0127
+
+#### Potential Risks
+Person 74 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 62 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 74: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+
+### Frame 0128
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 62 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+
+### Frame 0129
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 62 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+
+### Frame 0130
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 62 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+
+### Frame 0131
+
+#### Potential Risks
+Person 62 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 62: Risky (Moving closer, both sides)
+
+### Frame 0132
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 62 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 75 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, both sides)
+Person 62: Risky (Moving closer, both sides)
+Person 75: Safe (Static or slight movement, left side)
+
+Please let me know if you need further assistance.
+<-batch_19->
+### Frame 0133
+
+In this frame, there are four people detected: 69, 74, 62, and 75. Person 69 is on the right side of the car, while persons 74, 62, and 75 are on the left side. Person 74 has a high confidence level. Person 62 has a low confidence level.
+
+### Frame 0134
+
+In this frame, three people are detected: 69, 74, and 75. Person 74 is on the right side of the car, while persons 69 and 75 are on the left side. Person 74 has a high confidence level.
+
+### Frame 0135
+
+In this frame, three people are detected: 69, 74, and 75. Person 74 is on the right side of the car, while persons 69 and 75 are on the left side. Both persons 74 and 75 have a high confidence level.
+
+### Frame 0136
+
+In this frame, three people are detected: 69, 74, and 75. Person 74 is on the right side of the car, while persons 69 and 75 are on the left side. Person 74 has a high confidence level.
+
+### Frame 0137
+
+In this frame, three people are detected: 69, 74, and 75. Person 74 is on the right side of the car, while persons 69 and 75 are on the left side. Both persons 74 and 75 have a high confidence level. Person 69 has a low confidence level.
+
+### Frame 0138
+
+In this frame, three people are detected: 69, 74, and 75. Person 74 is on the right side of the car, while persons 69 and 75 are on the left side. Both persons 74 and 75 have a high confidence level.
+
+### Frame 0139
+
+In this frame, three people are detected: 69, 74, and 75. Person 74 is on the right side of the car, while persons 69 and 75 are on the left side. Person 75 has a high confidence level.
+
+Based on the provided data, the following evaluation can be made:
+
+#### Safety Evaluation
+
+Person 69: Safe (Left side, low confidence)
+Person 74: Safe (Right side, high confidence)
+Person 62: Safe (Left side, low confidence)
+Person 75: Safe (Left side, high confidence)
+
+Please let me know if you need any further information.
+<-batch_20->
+### Frame 0140
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0141
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0142
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+
+### Frame 0143
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+
+### Frame 0144
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0145
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0146
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+<-batch_21->
+### Frame 0147
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0148
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0149
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+
+### Frame 0150
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, right side)
+
+### Frame 0151
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, right side)
+
+### Frame 0152
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, right side)
+
+### Frame 0153
+
+#### Potential Risks
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 77 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, left side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, right side)
+Person 77: Risky (Moving closer, left side)
+<-batch_22->
+### Frame 0154
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer, is on both sides of the car, and has high confidence.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 76 is moving closer, is on both sides of the car, and has low confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, high confidence, both sides)
+Person 75: Risky (Moving closer, high confidence, both sides)
+Person 76: Risky (Moving closer, low confidence, both sides)
+Person 77: Risky (Moving closer, high confidence, both sides)
+
+### Frame 0155
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer, is on both sides of the car, and has high confidence.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 76 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, high confidence, both sides)
+Person 75: Risky (Moving closer, high confidence, both sides)
+Person 76: Risky (Moving closer, high confidence, both sides)
+Person 77: Risky (Moving closer, high confidence, both sides)
+
+### Frame 0156
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer, is on both sides of the car, and has high confidence.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 76 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, high confidence, both sides)
+Person 75: Risky (Moving closer, high confidence, both sides)
+Person 76: Risky (Moving closer, high confidence, both sides)
+Person 77: Risky (Moving closer, high confidence, both sides)
+
+### Frame 0157
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer, is on both sides of the car, and has high confidence.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 76 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, high confidence, both sides)
+Person 75: Risky (Moving closer, high confidence, both sides)
+Person 76: Risky (Moving closer, high confidence, both sides)
+Person 77: Risky (Moving closer, high confidence, both sides)
+
+### Frame 0158
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer, is on both sides of the car, and has high confidence.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 76 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, high confidence, both sides)
+Person 75: Risky (Moving closer, high confidence, both sides)
+Person 76: Risky (Moving closer, high confidence, both sides)
+Person 77: Risky (Moving closer, high confidence, both sides)
+
+### Frame 0159
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer, is on both sides of the car, and has high confidence.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 76 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, high confidence, both sides)
+Person 75: Risky (Moving closer, high confidence, both sides)
+Person 76: Risky (Moving closer, high confidence, both sides)
+Person 77: Risky (Moving closer, high confidence, both sides)
+
+### Frame 0160
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 74 is moving closer, is on both sides of the car, and has high confidence.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 76 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 74: Risky (Moving closer, high confidence, both sides)
+Person 75: Risky (Moving closer, high confidence, both sides)
+Person 76: Risky (Moving closer, high confidence, both sides)
+Person 77: Risky (Moving closer, high confidence, both sides)
+<-batch_23->
+### Frame 0161
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Safe
+
+### Frame 0162
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Safe
+
+### Frame 0163
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Safe
+
+### Frame 0164
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Safe
+
+### Frame 0165
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Safe
+
+### Frame 0166
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Safe
+
+### Frame 0167
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, left side)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Safe
+Person 78: Risky (Moving closer, left side)
+<-batch_24->
+### Frame 0168
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, right side)
+Person 76: Risky (Moving closer, right side)
+Person 77: Risky (Moving closer, right side)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0169
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 74 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 74: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, right side)
+Person 76: Risky (Moving closer, right side)
+Person 77: Risky (Moving closer, right side)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0170
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, right side)
+Person 76: Risky (Moving closer, right side)
+Person 77: Risky (Moving closer, right side)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0171
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, right side)
+Person 76: Risky (Moving closer, right side)
+Person 77: Risky (Moving closer, right side)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0172
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, right side)
+Person 76: Risky (Moving closer, right side)
+Person 77: Risky (Moving closer, right side)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0173
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, right side)
+Person 76: Risky (Moving closer, right side)
+Person 77: Risky (Moving closer, right side)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0174
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, right side)
+Person 75: Risky (Moving closer, right side)
+Person 76: Risky (Moving closer, right side)
+Person 77: Risky (Moving closer, right side)
+Person 78: Risky (Moving closer, left side)
+<-batch_25->
+### Frame 0175
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0176
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0177
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 76: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0178
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 76 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 76 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 76: Risky (Moving closer, left side)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0179
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0180
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0181
+
+#### Potential Risks
+Person 69 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the right side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 69 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 75 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 77 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+Person 78 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risk
+<-batch_26->
+### Frame 0182
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+Person 78 is moving closer, is on the left side of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0183
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+Person 78 is moving closer, is on the left side of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0184
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+Person 78 is moving closer, is on the left side of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0185
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+Person 78 is moving closer, is on the left side of the car, and has low confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0186
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+Person 78 is moving closer, is on the left side of the car, and has low confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0187
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+Person 78 is moving closer, is on the left side of the car, and has low confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+Person 78: Risky (Moving closer, left side)
+
+### Frame 0188
+
+#### Potential Risks
+Person 69 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 75 is moving closer, is on both sides of the car, and has high confidence.
+Person 77 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 69: Risky (Moving closer, both sides)
+Person 75: Risky (Moving closer, both sides)
+Person 77: Risky (Moving closer, both sides)
+<-batch_27->
+### Frame 0189
+
+In this frame, three people are detected: person 69, person 75, and person 77. Person 69 is located at [1198.2, 331.8, 1233.5, 412.0], person 75 is located at [998.7, 347.2, 1018.7, 398.5], and person 77 is located at [1024.4, 348.3, 1043.1, 394.9]. 
+
+On the right side of the car, there are persons 69, 75, and 77. On the left side of the car, there are also persons 69, 75, and 77. 
+
+Person 69 and person 77 have high confidence levels, indicating that they are likely close to the car. No low confidence detections are present in this frame.
+
+### Frame 0190
+
+In this frame, the same three people are detected: person 69, person 75, and person 77. Person 69 is located at [1211.3, 337.6, 1246.2, 416.5], person 75 is located at [1001.8, 346.3, 1023.1, 400.5], and person 77 is located at [1028.5, 348.7, 1047.4, 395.5].
+
+On the right side of the car, there are persons 69, 75, and 77. On the left side of the car, there are also persons 69, 75, and 77.
+
+All three people have high confidence levels, indicating that they are likely close to the car.
+
+### Frame 0191
+
+In this frame, the same three people are detected: person 69, person 75, and person 77. Person 69 is located at [1226.9, 342.0, 1261.5, 419.9], person 75 is located at [1005.5, 345.1, 1028.1, 402.4], and person 77 is located at [1031.3, 349.3, 1050.5, 396.6].
+
+On the right side of the car, there are persons 69, 75, and 77. On the left side of the car, there are also persons 69, 75, and 77.
+
+Person 75 and person 77 have high confidence levels, indicating that they are likely close to the car. Person 69 has a low confidence level, suggesting that they may be far from the dashcam or moving at high speed.
+
+### Frame 0192
+
+In this frame, two people are detected: person 75 and person 77. Person 75 is located at [1009.7, 346.8, 1032.4, 404.5], and person 77 is located at [1034.5, 351.7, 1053.3, 397.9].
+
+On the right side of the car, there are persons 75 and 77. On the left side of the car, there are also persons 75 and 77.
+
+Both person 75 and person 77 have high confidence levels, indicating that they are likely close to the car.
+
+### Frame 0193
+
+In this frame, two people are detected: person 75 and person 77. Person 75 is located at [1014.9, 348.4, 1037.2, 404.7], and person 77 is located at [1039.5, 353.0, 1058.2, 398.8].
+
+On the right side of the car, there are persons 75 and 77. On the left side of the car, there are also persons 75 and 77.
+
+Both person 75 and person 77 have high confidence levels, indicating that they are likely close to the car.
+
+### Frame 0194
+
+In this frame, three people are detected: person 75, person 77, and person 81. Person 75 is located at [1018.4, 349.7, 1041.1, 406.9], person 77 is located at [1042.1, 354.2, 1061.4, 401.9], and person 81 is located at [1123.0, 360.6, 1140.0, 403.0].
+
+On the right side of the car, there are persons 75, 77, and 81. On the left side of the car, there are also persons 75, 77, and 81.
+
+Both person 75 and person 77 have high confidence levels, indicating that they are likely close to the car. Person 81 is also present but no confidence level is provided.
+
+### Frame 0195
+
+In this frame, two people are detected: person 75 and person 77. Person 75 is located at [1023.7, 348.0, 1046.9, 406.7], and person 77 is located at [1046.1, 354.5, 1065.6, 402.8].
+
+On the right side of the car, there are persons 75 and 77. On the left side of the car, there are also persons 75 and 77.
+
+Both person 75 and person 77 have high confidence levels, indicating that they are likely close to the car.
+
+Please let me know if you need any further information or analysis.
+<-batch_28->
+### Frame 0196
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 77 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (On the right side, high confidence)
+Person 77: Safe (On the right side, high confidence)
+
+### Frame 0197
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 77 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (On the right side, high confidence)
+Person 77: Safe (On the right side, high confidence)
+
+### Frame 0198
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 77 is on the right side of the car and has high confidence.
+Person 82 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (On the right side, high confidence)
+Person 77: Safe (On the right side, high confidence)
+Person 82: Safe (On the right side, high confidence)
+
+### Frame 0199
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 77 is on the right side of the car and has high confidence.
+Person 82 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (On the right side, high confidence)
+Person 77: Safe (On the right side, high confidence)
+Person 82: Safe (On the right side, high confidence)
+
+### Frame 0200
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 77 is on the right side of the car and has high confidence.
+Person 82 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (On the right side, high confidence)
+Person 77: Safe (On the right side, high confidence)
+Person 82: Safe (On the right side, high confidence)
+
+### Frame 0201
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 77 is on the right side of the car and has high confidence.
+Person 82 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (On the right side, high confidence)
+Person 77: Safe (On the right side, high confidence)
+Person 82: Safe (On the right side, high confidence)
+
+### Frame 0202
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 77 is on the right side of the car and has high confidence.
+Person 82 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (On the right side, high confidence)
+Person 77: Safe (On the right side, high confidence)
+Person 82: Safe (On the right side, high confidence)
+<-batch_29->
+### Frame 0203
+
+#### Road Scene Description
+In this frame, there are two people detected: person 75 and person 82. Person 75 is located at [1072.3, 338.8, 1099.8, 411.1], while person 82 is located at [1174.0, 357.5, 1194.7, 406.1]. Both individuals are on the right side and left side of the car.
+
+### Frame 0204
+
+#### Road Scene Description
+In this frame, the same two people are detected: person 75 and person 82. Person 75 is located at [1079.0, 339.6, 1106.6, 412.3], while person 82 is located at [1180.1, 357.9, 1200.8, 406.8]. Similar to the previous frame, both individuals are on the right side and left side of the car.
+
+### Frame 0205
+
+#### Road Scene Description
+In this frame, person 75 and person 82 are still detected. Person 75 is located at [1083.7, 340.3, 1112.2, 415.8], while person 82 is located at [1187.2, 359.9, 1208.0, 409.2]. Both individuals remain on the right side and left side of the car.
+
+### Frame 0206
+
+#### Road Scene Description
+In this frame, person 75 and person 82 are detected once again. Person 75 is located at [1090.9, 345.5, 1118.6, 419.4], while person 82 is located at [1192.7, 361.4, 1214.2, 412.5]. Similar to previous frames, both individuals are on the right side and left side of the car.
+
+### Frame 0207
+
+#### Road Scene Description
+In this frame, person 75 and person 82 are still detected. Person 75 is located at [1099.1, 346.5, 1126.9, 420.8], while person 82 is located at [1200.8, 361.8, 1222.2, 412.8]. Both individuals remain on the right side and left side of the car.
+
+### Frame 0208
+
+#### Road Scene Description
+In this frame, person 75 and person 82 are detected once again. Person 75 is located at [1106.8, 347.4, 1135.0, 422.7], while person 82 is located at [1208.4, 363.0, 1229.6, 413.4]. Similar to previous frames, both individuals are on the right side and left side of the car.
+
+### Frame 0209
+
+#### Road Scene Description
+In this frame, person 75 and person 82 are still detected. Person 75 is located at [1115.3, 348.9, 1143.0, 423.7], while person 82 is located at [1215.7, 363.6, 1236.9, 414.6]. Both individuals remain on the right side and left side of the car.
+
+Please note that the confidence levels provided for person 75 are high in all frames, while no confidence level information is provided for person 82.
+<-batch_30->
+### Frame 0210
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 82 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (Right side, high confidence)
+Person 82: Safe (Right side, high confidence)
+
+### Frame 0211
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+Person 82 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (Right side, high confidence)
+Person 82: Safe (Right side, high confidence)
+
+### Frame 0212
+
+#### Potential Risks
+Person 75 is on the right side of the car and has high confidence.
+
+#### Safety Evaluation
+Person 75: Safe (Right side, high confidence)
+
+### Frame 0213
+
+#### Potential Risks
+No potential risks detected.
+
+#### Safety Evaluation
+No pedestrians detected.
+
+### Frame 0214
+
+#### Potential Risks
+No potential risks detected.
+
+#### Safety Evaluation
+No pedestrians detected.
+
+### Frame 0215
+
+#### Potential Risks
+No potential risks detected.
+
+#### Safety Evaluation
+No pedestrians detected.
+
+### Frame 0216
+
+#### Potential Risks
+No potential risks detected.
+
+#### Safety Evaluation
+No pedestrians detected.
+<-batch_31->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_32->
+### Frame 0224
+
+No pedestrians detected in this frame.
+
+### Frame 0225
+
+No pedestrians detected in this frame.
+
+### Frame 0226
+
+#### Potential Risks
+Person 83 is on the left side of the car, with coordinates [859.6, 350.0, 874.0, 387.8]. This needs to be monitored carefully.
+Person 84 is on the left side of the car, with coordinates [889.3, 348.5, 902.9, 383.2]. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 83: Risky (Left side)
+Person 84: Risky (Left side)
+
+### Frame 0227
+
+#### Potential Risks
+Person 83 is on the left side of the car, with coordinates [859.7, 349.9, 874.9, 389.6]. This needs to be monitored carefully.
+Person 84 is on the left side of the car, with coordinates [890.7, 348.9, 904.8, 384.7]. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 83: Risky (Left side)
+Person 84: Risky (Left side)
+
+### Frame 0228
+
+#### Potential Risks
+Person 83 is on the left side of the car, with coordinates [861.5, 351.1, 876.1, 389.6]. This needs to be monitored carefully.
+Person 84 is on the left side of the car, with coordinates [892.4, 348.8, 907.9, 388.2]. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 83: Risky (Left side)
+Person 84: Risky (Left side)
+
+### Frame 0229
+
+#### Potential Risks
+Person 83 is on the left side of the car, with coordinates [864.7, 351.6, 878.3, 387.5]. This needs to be monitored carefully.
+Person 84 is on the left side of the car, with coordinates [895.0, 348.6, 910.9, 388.7]. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 83: Risky (Left side)
+Person 84: Risky (Left side)
+
+### Frame 0230
+
+#### Potential Risks
+Person 83 is on the left side of the car, with coordinates [865.7, 351.8, 880.8, 391.7]. This needs to be monitored carefully.
+Person 84 is on the left side of the car, with coordinates [896.3, 348.9, 914.0, 393.7]. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 83: Risky (Left side)
+Person 84: Risky (Left side)
+<-batch_33->
+### Frame 0231
+
+#### Potential Risks
+Person 83 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 84 is on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 83: Safe (Static or slight movement, left side)
+Person 84: Safe (Static or slight movement, left side)
+
+### Frame 0232
+
+#### Potential Risks
+Person 83 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 84 is on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 83: Safe (Static or slight movement, left side)
+Person 84: Safe (Static or slight movement, left side)
+
+### Frame 0233
+
+#### Potential Risks
+Person 83 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 84 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 86 is on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 83: Safe (Static or slight movement, left side)
+Person 84: Safe (Static or slight movement, left side)
+Person 86: Safe (Static or slight movement, left side)
+
+### Frame 0234
+
+#### Potential Risks
+Person 83 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 84 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 86 is on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 83: Safe (Static or slight movement, left side)
+Person 84: Safe (Static or slight movement, left side)
+Person 86: Safe (Static or slight movement, left side)
+
+### Frame 0235
+
+#### Potential Risks
+Person 83 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 84 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 86 is on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 83: Safe (Static or slight movement, left side)
+Person 84: Safe (Static or slight movement, left side)
+Person 86: Safe (Static or slight movement, left side)
+
+### Frame 0236
+
+#### Potential Risks
+Person 83 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 84 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 86 is on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 83: Safe (Static or slight movement, left side)
+Person 84: Safe (Static or slight movement, left side)
+Person 86: Safe (Static or slight movement, left side)
+
+### Frame 0237
+
+#### Potential Risks
+Person 83 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 84 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 86 is on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 83: Safe (Static or slight movement, left side)
+Person 84: Safe (Static or slight movement, left side)
+Person 86: Safe (Static or slight movement, left side)
+<-batch_34->
+### Frame 0238
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side)
+Person 86: Risky (Moving closer, left side)
+
+### Frame 0239
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side)
+Person 86: Risky (Moving closer, left side)
+
+### Frame 0240
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side)
+Person 86: Risky (Moving closer, left side)
+
+### Frame 0241
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side)
+Person 86: Risky (Moving closer, left side)
+
+### Frame 0242
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+
+### Frame 0243
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+
+### Frame 0244
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+<-batch_35->
+### Frame 0245
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates. This person has high confidence.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side, high confidence)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+
+### Frame 0246
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates. This person has high confidence.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side, high confidence)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+
+### Frame 0247
+
+#### Potential Risks
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates. This person has high confidence.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 91 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 83: Risky (Moving closer, left side)
+Person 84: Risky (Moving closer, left side, high confidence)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+Person 91: Risky (Moving closer, left side)
+
+### Frame 0248
+
+#### Potential Risks
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates. This person has high confidence.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 91 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 92 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 84: Risky (Moving closer, left side, high confidence)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+Person 91: Risky (Moving closer, left side)
+Person 92: Risky (Moving closer, left side)
+
+### Frame 0249
+
+#### Potential Risks
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates. This person has high confidence.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 91 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 92 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 84: Risky (Moving closer, left side, high confidence)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+Person 91: Risky (Moving closer, left side)
+Person 92: Risky (Moving closer, left side)
+
+### Frame 0250
+
+#### Potential Risks
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates. This person has high confidence.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 91 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 92 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 84: Risky (Moving closer, left side, high confidence)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+Person 91: Risky (Moving closer, left side)
+Person 92: Risky (Moving closer, left side)
+
+### Frame 0251
+
+#### Potential Risks
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates. This person has high confidence.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 91 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 92 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+
+#### Safety Evaluation
+Person 84: Risky (Moving closer, left side, high confidence)
+Person 86: Risky (Moving closer, left side)
+Person 88: Risky (Moving closer, left side)
+Person 91: Risky (Moving closer, left side)
+Person 92: Risky (Moving closer, left side)
+<-batch_36->
+### Frame 0252
+
+In this frame, there are several pedestrians detected. On the right side of the car, there is one pedestrian with ID 84. On the left side of the car, there are pedestrians with IDs 84, 86, 88, 91, 92, and 93. Among these, pedestrians with IDs 84, 88, and 91 have high confidence, while pedestrian with ID 86 has low confidence.
+
+### Frame 0253
+
+In this frame, the same pedestrians as in the previous frame are detected. On the right side of the car, there are pedestrians with IDs 84 and 91. On the left side of the car, there are pedestrians with IDs 84, 86, 88, 91, 92, and 93. The pedestrians with IDs 84, 88, and 91 still have high confidence, while the confidence level for pedestrian with ID 86 is not provided.
+
+### Frame 0254
+
+The same pedestrians as in the previous frames are detected in this frame. On the right side of the car, there are pedestrians with IDs 84, 91, and 94. On the left side of the car, there are pedestrians with IDs 84, 86, 88, 91, 92, 93, 94, and 95. The pedestrians with IDs 84, 88, 91, and 94 have high confidence.
+
+### Frame 0255
+
+The same pedestrians as in the previous frames are detected in this frame. On the right side of the car, there are pedestrians with IDs 84, 91, and 94. On the left side of the car, there are pedestrians with IDs 84, 86, 88, 91, 92, 93, 94, and 95. The pedestrians with IDs 84, 88, 91, and 94 have high confidence.
+
+### Frame 0256
+
+The same pedestrians as in the previous frames are detected in this frame. On the right side of the car, there are pedestrians with IDs 84, 91, 94, and 96. On the left side of the car, there are pedestrians with IDs 84, 86, 88, 91, 92, 93, 94, 95, and 96. The pedestrians with IDs 84, 88, 91, 92, and 94 have high confidence.
+
+### Frame 0257
+
+The same pedestrians as in the previous frames are detected in this frame. On the right side of the car, there are pedestrians with IDs 84, 91, 94, and 96. On the left side of the car, there are pedestrians with IDs 84, 86, 88, 91, 92, 93, 94, 95, and 96. The pedestrians with IDs 84, 88, 91, 92, and 94 have high confidence.
+
+### Frame 0258
+
+The same pedestrians as in the previous frames are detected in this frame. On the right side of the car, there are pedestrians with IDs 84, 91, and 94. On the left side of the car, there are pedestrians with IDs 84, 86, 88, 91, 92, 93, 94, 95, and 97. The pedestrians with IDs 84, 88, 91, 94, and 95 have high confidence.
+
+Please wait for the evaluation of risky behavior for each pedestrian.
+<-batch_37->
+### Frame 0259
+
+#### Potential Risks
+Person 84 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 86 is moving closer but has high confidence and is on both sides of the car.
+Person 88 is moving closer, is on both sides of the car, and has high confidence.
+Person 91 is moving closer, is on both sides of the car, and has high confidence.
+Person 92 is moving closer, is on both sides of the car, and has high confidence.
+Person 93 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+Person 94 is moving closer, is on both sides of the car, and has high confidence.
+Person 95 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+Person 97 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+Person 83 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 84: Risky (Moving closer, high confidence, both sides)
+Person 86: Risky (Moving closer, high confidence, both sides)
+Person 88: Risky (Moving closer, high confidence, both sides)
+Person 91: Risky (Moving closer, high confidence, both sides)
+Person 92: Risky (Moving closer, high confidence, both sides)
+Person 93: Safe (Static or slight movement, left side, confidence not provided)
+Person 94: Risky (Moving closer, high confidence, both sides)
+Person 95: Safe (Static or slight movement, left side, confidence not provided)
+Person 97: Safe (Static or slight movement, left side, confidence not provided)
+Person 83: Risky (Moving closer, high confidence, both sides)
+
+### Frame 0260
+
+#### Potential Risks
+Person 84 is moving closer to the car, as indicated by changing coordinates, and is on both sides of the car. This needs to be monitored carefully.
+Person 86 is moving closer but has high confidence and is on both sides of the car.
+Person 88 is moving closer, is on both sides of the car, and has high confidence.
+Person 91 is moving closer, is on both sides of the car, and has high confidence.
+Person 92 is moving closer, is on both sides of the car, and has high confidence.
+Person 93 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+Person 94 is moving closer, is on both sides of the car, and has high confidence.
+Person 95 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+Person 97 is static or moving slightly but is on the left side of the car. Confidence is not provided.
+Person 83 is moving closer, is on both sides of the car, and has high confidence.
+
+#### Safety Evaluation
+Person 84: Risky (Moving closer, high confidence, both sides)
+Person 86: Risky (Moving closer, high confidence, both sides)
+Person 88: Risky (Moving closer, high confidence, both sides)
+Person 91: Risky (Moving closer, high confidence, both sides)
+Person 92: Risky (Moving closer, high confidence, both sides)
+Person 93: Safe (Static or slight movement, left side, confidence
+<-batch_38->
+### Frame 0266
+
+#### Potential Risks
+Person 84 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 94 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 83 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 100 is on the right side of the car and is moving closer, as indicated by changing coordinates.
+Person 84 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 86 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 88 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 92 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 93 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 94 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 95 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 97 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 83 is on the left side of the car and is moving closer, as indicated by changing coordinates.
+Person 100
+<-batch_39->
+### Frame 0273
+
+#### Potential Risks
+Person 84 is moving closer to

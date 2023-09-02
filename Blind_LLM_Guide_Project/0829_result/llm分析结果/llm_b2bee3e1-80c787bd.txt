@@ -1,0 +1,2385 @@
+<-batch_0->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_1->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_2->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_3->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_4->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_5->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_6->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_7->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_8->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_9->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_10->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_11->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0077 to 0083. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_12->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0084 to 0090. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_13->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_14->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0098 to 0104. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_15->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_16->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_17->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_18->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_19->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_20->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_21->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_22->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames (0154-0160). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_23->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_24->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_25->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_26->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_27->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_28->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (0196-0202). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_29->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_30->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0210 to 0216. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_31->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0217 to 0223. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_32->
+Based on the provided sequence of frames, there are no detected persons in any of the frames from 0224 to 0230. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_33->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_34->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_35->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0245 to 0251. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_36->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_37->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_38->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_39->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_40->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0280 to 0286. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_41->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_42->
+Based on the provided sequence of frames, there are no detected persons in any of the frames (294-300). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_43->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_44->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_45->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_46->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_47->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_48->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_49->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_50->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_51->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_52->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_53->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_54->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_55->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_56->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_57->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_58->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0406 to 0412. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_59->
+### Frame 0413
+
+#### Potential Risks
+Person 2 is on the left side of the car and is not moving closer. No potential risks identified.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0414
+
+#### Potential Risks
+Person 2 is on the left side of the car and is not moving closer. No potential risks identified.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side, confidence provided)
+
+### Frame 0415
+
+#### Potential Risks
+Person 2 is on the left side of the car and is not moving closer. No potential risks identified.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side, confidence provided)
+
+### Frame 0416
+
+#### Potential Risks
+Person 2 is on the left side of the car and is not moving closer. No potential risks identified.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0417
+
+#### Potential Risks
+Person 2 is on the left side of the car and is not moving closer. No potential risks identified.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side, confidence provided)
+
+### Frame 0418
+
+#### Potential Risks
+Person 2 is on the left side of the car and is not moving closer. No potential risks identified.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0419
+
+#### Potential Risks
+Person 2 is on the left side of the car and is not moving closer. No potential risks identified.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side, confidence not provided)
+<-batch_60->
+### Frame 0420
+
+#### Potential Risks
+Person 2 is on the left side of the car but there are no indications of movement or changing coordinates. 
+
+#### Safety Evaluation
+Person 2: Safe (Static, left side)
+
+### Frame 0421
+
+#### Potential Risks
+Person 2 is on the left side of the car but there are no indications of movement or changing coordinates. 
+
+#### Safety Evaluation
+Person 2: Safe (Static, left side)
+
+### Frame 0422
+
+#### Potential Risks
+Person 2 is on the left side of the car but there are no indications of movement or changing coordinates. 
+
+#### Safety Evaluation
+Person 2: Safe (Static, left side)
+
+### Frame 0423
+
+#### Potential Risks
+Person 2 is on the left side of the car but there are no indications of movement or changing coordinates. 
+
+#### Safety Evaluation
+Person 2: Safe (Static, left side)
+
+### Frame 0424
+
+#### Potential Risks
+Person 2 is on the left side of the car but there are no indications of movement or changing coordinates. 
+
+#### Safety Evaluation
+Person 2: Safe (Static, left side)
+
+### Frame 0425
+
+#### Potential Risks
+Person 2 is on the left side of the car but there are no indications of movement or changing coordinates. 
+Person 4 is on the left side of the car but there are no indications of movement or changing coordinates. 
+
+#### Safety Evaluation
+Person 2: Safe (Static, left side)
+Person 4: Safe (Static, left side)
+
+### Frame 0426
+
+#### Potential Risks
+Person 2 is on the left side of the car but there are no indications of movement or changing coordinates. 
+Person 4 is on the left side of the car but there are no indications of movement or changing coordinates. 
+
+#### Safety Evaluation
+Person 2: Safe (Static, left side)
+Person 4: Safe (Static, left side)
+<-batch_61->
+### Frame 0427
+
+#### Potential Risks
+Person 2 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 4 is also on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side)
+Person 4: Safe (Static or slight movement, left side)
+
+### Frame 0428
+
+#### Potential Risks
+Person 2 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 4 is also on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side)
+Person 4: Safe (Static or slight movement, left side)
+
+### Frame 0429
+
+#### Potential Risks
+Person 2 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 4 is also on the left side of the car, but there is no indication of movement or change in coordinates.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side)
+Person 4: Safe (Static or slight movement, left side)
+
+### Frame 0430
+
+#### Potential Risks
+Person 2 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 4 is on the left side of the car and has a low confidence level, indicating it may be far from the dashcam or moving at high speed.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side)
+Person 4: Risky (Static or slight movement, left side, low confidence)
+
+### Frame 0431
+
+#### Potential Risks
+Person 2 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 4 is on the left side of the car and has a low confidence level, indicating it may be far from the dashcam or moving at high speed.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side)
+Person 4: Risky (Static or slight movement, left side, low confidence)
+
+### Frame 0432
+
+#### Potential Risks
+Person 2 is on the left side of the car, but there is no indication of movement or change in coordinates.
+Person 4 is on the left side of the car and has a low confidence level, indicating it may be far from the dashcam or moving at high speed.
+
+#### Safety Evaluation
+Person 2: Safe (Static or slight movement, left side)
+Person 4: Risky (Static or slight movement, left side, low confidence)
+
+### Frame 0433
+
+#### Potential Risks
+No person detected in this frame.
+
+#### Safety Evaluation
+No person detected.
+<-batch_62->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_63->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_64->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (0448-0454). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_65->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_66->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0462 to 0468. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_67->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (0469-0475). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_68->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (0476-0482). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_69->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_70->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (0490-0496). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_71->
+### Frame 0497
+
+#### Potential Risks
+Person 5 is on the left side of the car and is not changing position significantly. No potential risks identified.
+
+#### Safety Evaluation
+Person 5: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0498
+
+#### Potential Risks
+Person 5 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 5: Risky (Moving closer, left side, confidence provided)
+
+### Frame 0499
+
+#### Potential Risks
+Person 5 is on the left side of the car and is not changing position significantly. No potential risks identified.
+
+#### Safety Evaluation
+Person 5: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0500
+
+#### Potential Risks
+Person 5 is on the left side of the car and is not changing position significantly. No potential risks identified.
+
+#### Safety Evaluation
+Person 5: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0501
+
+#### Potential Risks
+Person 5 is on the left side of the car and is not changing position significantly. No potential risks identified.
+
+#### Safety Evaluation
+Person 5: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0502
+
+#### Potential Risks
+Person 5 is on the left side of the car and is not changing position significantly. No potential risks identified.
+
+#### Safety Evaluation
+Person 5: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0503
+
+#### Potential Risks
+No person detected in this frame.
+
+#### Safety Evaluation
+No person detected.
+<-batch_72->
+### Frame 0504
+No pedestrians detected in this frame.
+
+### Frame 0505
+No pedestrians detected in this frame.
+
+### Frame 0506
+No pedestrians detected in this frame.
+
+### Frame 0507
+No pedestrians detected in this frame.
+
+### Frame 0508
+No pedestrians detected in this frame.
+
+### Frame 0509
+#### Potential Risks
+Person 6 is on the left side of the car, with a bounding box of [450.8, 364.0, 473.9, 422.2]. This person needs to be monitored carefully.
+Person 7 is on the left side of the car, with a bounding box of [430.9, 356.1, 460.8, 434.0]. This person needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (High confidence, left side)
+Person 7: Safe (High confidence, left side)
+
+### Frame 0510
+#### Potential Risks
+Person 6 is on the left side of the car, with a bounding box of [451.2, 363.9, 474.1, 421.5]. This person needs to be monitored carefully.
+Person 7 is on the left side of the car, with a bounding box of [430.8, 356.4, 460.5, 433.6]. This person needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (High confidence, left side)
+Person 7: Safe (High confidence, left side)
+
+Please provide the data for the next frames.
+<-batch_73->
+### Frame 0511
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, high confidence)
+
+### Frame 0512
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, high confidence)
+
+### Frame 0513
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, high confidence)
+
+### Frame 0514
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has low confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, low confidence)
+
+### Frame 0515
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has low confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, low confidence)
+
+### Frame 0516
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has low confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, low confidence)
+
+### Frame 0517
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+<-batch_74->
+### Frame 0518
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (Left side, high confidence)
+
+### Frame 0519
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (Left side, high confidence)
+Person 7: Safe (Left side, high confidence)
+
+### Frame 0520
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (Left side, high confidence)
+Person 7: Safe (Left side, high confidence)
+
+### Frame 0521
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (Left side, high confidence)
+Person 7: Safe (Left side, high confidence)
+
+### Frame 0522
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (Left side, high confidence)
+Person 7: Safe (Left side, high confidence)
+
+### Frame 0523
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (Left side, high confidence)
+Person 7: Safe (Left side, high confidence)
+
+### Frame 0524
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (Left side, high confidence)
+Person 7: Safe (Left side, high confidence)
+<-batch_75->
+### Frame 0525
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, high confidence)
+
+### Frame 0526
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, high confidence)
+
+### Frame 0527
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, high confidence)
+
+### Frame 0528
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has low confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, low confidence)
+
+### Frame 0529
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 7 is on the left side of the car and has low confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 7: Risky (Left side, low confidence)
+
+### Frame 0530
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+
+### Frame 0531
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+<-batch_76->
+### Frame 0532
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0533
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0534
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0535
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0536
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0537
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0538
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+<-batch_77->
+### Frame 0539
+
+#### Road Scene Description
+In this frame, there is one person detected with ID 6. The person is located on the left side of our car, with the bounding box coordinates [459.4, 362.1, 489.9, 438.4]. There are no other people detected on either side of our car.
+
+### Frame 0540
+
+#### Road Scene Description
+In this frame, the same person with ID 6 is still detected. The person's bounding box coordinates have slightly changed to [461.2, 363.3, 491.7, 439.6]. The person remains on the left side of our car, and there are no other people detected on either side.
+
+### Frame 0541
+
+#### Road Scene Description
+In this frame, person 6 is still detected, with the bounding box coordinates [463.1, 363.2, 493.9, 440.6]. The person remains on the left side of our car, and there are no other people detected on either side.
+
+### Frame 0542
+
+#### Road Scene Description
+In this frame, person 6 is still detected, with the bounding box coordinates [464.7, 362.6, 495.7, 440.7]. The person remains on the left side of our car, and there are no other people detected on either side.
+
+### Frame 0543
+
+#### Road Scene Description
+In this frame, person 6 is still detected, with the bounding box coordinates [466.2, 362.7, 498.1, 443.1]. The person remains on the left side of our car, and there are no other people detected on either side.
+
+### Frame 0544
+
+#### Road Scene Description
+In this frame, person 6 is still detected, with the bounding box coordinates [469.1, 364.3, 500.9, 444.4]. The person remains on the left side of our car, and there are no other people detected on either side.
+
+### Frame 0545
+
+#### Road Scene Description
+In this frame, person 6 is still detected, with the bounding box coordinates [471.9, 365.0, 504.4, 446.4]. The person remains on the left side of our car, and there are no other people detected on either side.
+
+Please provide the next set of frames for evaluation.
+<-batch_78->
+### Frame 0546
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0547
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0548
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0549
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0550
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0551
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0552
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+<-batch_79->
+### Frame 0553
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0554
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0555
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0556
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0557
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0558
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0559
+
+#### Potential Risks
+No person detected in this frame.
+
+#### Safety Evaluation
+No person detected.
+<-batch_80->
+### Frame 0560
+No pedestrians detected in this frame.
+
+### Frame 0561
+No pedestrians detected in this frame.
+
+### Frame 0562
+No pedestrians detected in this frame.
+
+### Frame 0563
+No pedestrians detected in this frame.
+
+### Frame 0564
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0565
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, low confidence)
+
+### Frame 0566
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+Please let me know if you need any further assistance.
+<-batch_81->
+### Frame 0567
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0568
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0569
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0570
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0571
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0572
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0573
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+<-batch_82->
+### Frame 0574
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. They have high confidence.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+
+### Frame 0575
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. They have high confidence.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+
+### Frame 0576
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. They have high confidence.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+
+### Frame 0577
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. They have high confidence.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+
+### Frame 0578
+
+#### Potential Risks
+No potential risks identified.
+
+#### Safety Evaluation
+Person 6: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0579
+
+#### Potential Risks
+No potential risks identified.
+
+#### Safety Evaluation
+Person 6: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0580
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. They have high confidence.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+<-batch_83->
+### Frame 0581
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. The confidence level is high.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+
+### Frame 0582
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. The confidence level is high.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+
+### Frame 0583
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. The confidence level is high.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+
+### Frame 0584
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. The confidence level is high.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, high confidence, left side)
+
+### Frame 0585
+
+#### Potential Risks
+Person 6 is on the left side of the car. The confidence level is not provided.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, confidence not provided)
+
+### Frame 0586
+
+#### Potential Risks
+Person 6 is on the left side of the car. The confidence level is not provided.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, confidence not provided)
+
+### Frame 0587
+
+#### Potential Risks
+Person 6 is on the left side of the car. The confidence level is low.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, low confidence)
+<-batch_84->
+### Frame 0588
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. The confidence level for this detection is low.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, low confidence, left side)
+
+### Frame 0589
+
+#### Potential Risks
+No potential risks identified in this frame.
+
+#### Safety Evaluation
+Person 6: Safe (Static or slight movement, left side)
+
+### Frame 0590
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. The confidence level for this detection is low.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, low confidence, left side)
+
+### Frame 0591
+
+#### Potential Risks
+No potential risks identified in this frame.
+
+#### Safety Evaluation
+Person 6: Safe (Static or slight movement, left side)
+
+### Frame 0592
+
+#### Potential Risks
+No people detected in this frame.
+
+### Frame 0593
+
+#### Potential Risks
+No people detected in this frame.
+
+### Frame 0594
+
+#### Potential Risks
+No people detected in this frame.
+
+#### Safety Evaluation
+No people detected in this frame.
+<-batch_85->
+### Frame 0595
+
+#### Potential Risks
+Person 6 is on the left side of the car and is not changing position significantly. No other potential risks detected.
+
+#### Safety Evaluation
+Person 6: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0596
+
+#### Potential Risks
+Person 6 is on the left side of the car and is not changing position significantly. No other potential risks detected.
+
+#### Safety Evaluation
+Person 6: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0597
+
+#### Potential Risks
+Person 6 is on the left side of the car and is not changing position significantly. No other potential risks detected.
+
+#### Safety Evaluation
+Person 6: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0598
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer. 
+Person 10 is on the left side of the car and is not changing position significantly.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, confidence not provided)
+Person 10: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0599
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer. 
+Person 10 is on the left side of the car and is not changing position significantly.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, confidence not provided)
+Person 10: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0600
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer. 
+Person 10 is on the left side of the car and is not changing position significantly.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, confidence not provided)
+Person 10: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 0601
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer. 
+Person 10 is on the left side of the car and is not changing position significantly.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, confidence not provided)
+Person 10: Safe (Static or slight movement, left side, confidence not provided)
+<-batch_86->
+### Frame 0602
+
+#### Road Scene Description
+In this frame, there are two people detected. Person 6 is located at [762.2, 365.4, 846.8, 559.0] and person 10 is located at [654.6, 380.3, 687.2, 461.8]. There are no people on the right side of the car, but on the left side, both person 6 and person 10 are present.
+
+#### Significant Events or Movements
+There are no significant events or movements of people in this frame.
+
+### Frame 0603
+
+#### Road Scene Description
+In this frame, the same two people are detected. Person 6 is located at [769.2, 362.7, 857.5, 565.1] and person 10 is located at [655.2, 380.9, 688.6, 463.9]. Similar to the previous frame, there are no people on the right side of the car, but on the left side, both person 6 and person 10 are present.
+
+#### Significant Events or Movements
+There are no significant events or movements of people in this frame.
+
+### Frame 0604
+
+#### Road Scene Description
+In this frame, the same two people are detected. Person 6 is located at [777.8, 362.9, 869.1, 573.5] and person 10 is located at [657.0, 384.2, 689.0, 463.6]. Again, there are no people on the right side of the car, but on the left side, both person 6 and person 10 are present.
+
+#### Significant Events or Movements
+There are no significant events or movements of people in this frame.
+
+### Frame 0605
+
+#### Road Scene Description
+In this frame, the same two people are detected. Person 6 is located at [785.1, 362.8, 878.3, 578.8] and person 10 is located at [656.5, 376.1, 694.2, 469.6]. As before, there are no people on the right side of the car, but on the left side, both person 6 and person 10 are present.
+
+#### Significant Events or Movements
+There are no significant events or movements of people in this frame.
+
+### Frame 0606
+
+#### Road Scene Description
+In this frame, the same two people are detected. Person 6 is located at [789.6, 362.4, 881.4, 575.4] and person 10 is located at [655.6, 366.7, 698.2, 472.4]. Once again, there are no people on the right side of the car, but on the left side, both person 6 and person 10 are present.
+
+#### Significant Events or Movements
+There are no significant events or movements of people in this frame.
+
+### Frame 0607
+
+#### Road Scene Description
+In this frame, the same two people are detected. Person 6 is located at [799.8, 360.5, 896.7, 586.8] and person 10 is located at [655.7, 363.9, 700.1, 474.3]. Similar to previous frames, there are no people on the right side of the car, but on the left side, both person 6 and person 10 are present.
+
+#### Significant Events or Movements
+There are no significant events or movements of people in this frame.
+
+### Frame 0608
+
+#### Road Scene Description
+In this frame, three people are detected. Person 6 is located at [811.3, 360.0, 911.1, 594.7], person 10 is located at [655.4, 360.4, 701.7, 475.9], and person 11 is located at [638.1, 362.6, 676.8, 456.3]. There are no people on the right side of the car, but on the left side, person 6, person 10, and person 11 are present.
+
+#### Significant Events or Movements
+There are no significant events or movements of people in this frame.
+<-batch_87->
+### Frame 0609
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 10 is on the left side of the car and has low confidence. This needs to be monitored carefully.
+Person 11 is on the left side of the car and has low confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 10: Risky (Left side, low confidence)
+Person 11: Risky (Left side, low confidence)
+
+### Frame 0610
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 11 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 11: Risky (Left side, high confidence)
+
+### Frame 0611
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 11 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 11: Risky (Left side, high confidence)
+
+### Frame 0612
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 11 is on the left side of the car and has low confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+Person 11: Risky (Left side, low confidence)
+
+### Frame 0613
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+
+### Frame 0614
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+
+### Frame 0615
+
+#### Potential Risks
+Person 6 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Left side, high confidence)
+<-batch_88->
+### Frame 0616
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0617
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0618
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0619
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0620
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+
+### Frame 0621
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. There is also another person on the right side of the car. Both need to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+Person 6: Risky (Right side)
+Person 6: Risky (Left side)
+
+### Frame 0622
+
+#### Potential Risks
+Person 6 is on the left side of the car and is moving closer, as indicated by changing coordinates. There is also another person on the right side of the car. Both need to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Risky (Moving closer, left side, high confidence)
+Person 6: Risky (Right side)
+Person 6: Risky (Left side)
+<-batch_89->
+### Frame 0623
+
+#### Potential Risks
+Person 6 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (On the right side, high confidence)
+
+### Frame 0624
+
+#### Potential Risks
+Person 6 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (On the right side, high confidence)
+
+### Frame 0625
+
+#### Potential Risks
+Person 6 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (On the right side, high confidence)
+
+### Frame 0626
+
+#### Potential Risks
+Person 6 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (On the right side, high confidence)
+
+### Frame 0627
+
+#### Potential Risks
+Person 6 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (On the right side, high confidence)
+
+### Frame 0628
+
+#### Potential Risks
+Person 6 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (On the right side, high confidence)
+
+### Frame 0629
+
+#### Potential Risks
+Person 6 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 6: Safe (On the right side, high confidence)
+<-batch_90->
+### Frame 0630
+
+#### Potential Risks
+Person 6 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+Person 6 is also on the left side of the car and is close to the car.
+
+#### Safety Evaluation
+Person 6: Risky (On both sides of the car, close to the car)
+
+### Frame 0631
+
+#### Potential Risks
+Person 6 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+Person 6 is also on the left side of the car and is close to the car.
+
+#### Safety Evaluation
+Person 6: Risky (On both sides of the car, close to the car)
+
+### Frame 0632
+
+#### Potential Risks
+Person 6 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+Person 6 is also on the left side of the car and is close to the car.
+
+#### Safety Evaluation
+Person 6: Risky (On both sides of the car, close to the car)
+
+### Frame 0633
+
+#### Potential Risks
+Person 6 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+Person 6 is also on the left side of the car and is close to the car.
+
+#### Safety Evaluation
+Person 6: Risky (On both sides of the car, close to the car)
+
+### Frame 0634
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0635
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0636
+
+#### Potential Risks
+No person detected in this frame.
+
+#### Safety Evaluation
+No person detected in this frame.
+
+Based on the provided frames, Person 6 consistently appears on both sides of the car and is close to the car. This indicates a potential risk that needs to be monitored carefully.
+<-batch_91->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (frame 0637 to frame 0643). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_92->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0644 to 0650. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_93->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_94->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_95->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_96->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_97->
+Based on the provided sequence of frames, there are no detected persons in any of the frames from 0679 to 0685. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_98->
+### Frame 0686
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0687
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0688
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0689
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0690
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0691
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0692
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+<-batch_99->
+### Frame 0693
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0694
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0695
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0696
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0697
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0698
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+
+### Frame 0699
+
+#### Potential Risks
+Person 12 is on the left side of the car and is moving closer, as indicated by changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (Moving closer, left side, high confidence)
+<-batch_100->
+### Frame 0700
+
+#### Potential Risks
+Person 12 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Safe (On the left side, high confidence)
+
+### Frame 0701
+
+#### Potential Risks
+Person 12 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Safe (On the left side, high confidence)
+
+### Frame 0702
+
+#### Potential Risks
+Person 12 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Safe (On the left side, high confidence)
+
+### Frame 0703
+
+#### Potential Risks
+Person 12 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Safe (On the left side, high confidence)
+
+### Frame 0704
+
+#### Potential Risks
+Person 12 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Safe (On the left side, high confidence)
+
+### Frame 0705
+
+#### Potential Risks
+Person 12 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Safe (On the left side, high confidence)
+
+### Frame 0706
+
+#### Potential Risks
+Person 12 is on both sides of the car and has high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On both sides, high confidence)
+<-batch_101->
+### Frame 0707
+
+#### Potential Risks
+Person 12 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, close to the car)
+
+### Frame 0708
+
+#### Potential Risks
+Person 12 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, close to the car)
+
+### Frame 0709
+
+#### Potential Risks
+Person 12 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, close to the car)
+
+### Frame 0710
+
+#### Potential Risks
+Person 12 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, close to the car)
+
+### Frame 0711
+
+#### Potential Risks
+Person 12 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, close to the car)
+
+### Frame 0712
+
+#### Potential Risks
+Person 12 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, close to the car)
+
+### Frame 0713
+
+#### Potential Risks
+Person 12 is on the right side of the car and is close to the car, as indicated by the changing coordinates. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, close to the car)
+<-batch_102->
+### Frame 0714
+
+#### Potential Risks
+Person 12 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, high confidence)
+
+### Frame 0715
+
+#### Potential Risks
+Person 12 is on the right side of the car and is detected with low confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 12: Risky (On the right side, low confidence)
+
+### Frame 0716
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0717
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0718
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0719
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0720
+
+#### Potential Risks
+No person detected in this frame.
+
+#### Safety Evaluation
+No person detected in this frame.
+
+Based on the provided frames, there is one person (ID: 12) detected on the right side of the car in frames 0714 and 0715. In frame 0714, person 12 is detected with high confidence, while in frame 0715, person 12 is detected with low confidence. It is important to monitor person 12 carefully as they are on the right side of the car and their confidence level varies.
+<-batch_103->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0721 to 0727. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_104->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0728 to 0734. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_105->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0735 to 0741. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_106->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0742 to 0748. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_107->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0749 to 0755. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_108->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (0756-0762). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_109->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_110->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0770 to 0776. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_111->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0777 to 0783. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_112->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames (frame 0784 to frame 0790). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_113->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_114->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (0798-0804). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_115->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0805 to 0811. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_116->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_117->
+Based on the provided sequence of frames, there are no detected persons in any of the frames from 0819 to 0825. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_118->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_119->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (frame 0833 to frame 0839). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_120->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0840 to 0846. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_121->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_122->
+### Frame 0854
+
+No pedestrians detected in this frame.
+
+### Frame 0855
+
+No pedestrians detected in this frame.
+
+### Frame 0856
+
+#### Potential Risks
+Person 13 is on the right side of the car, but no confidence level is provided. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Safe (Right side, confidence not provided)
+
+### Frame 0857
+
+#### Potential Risks
+Person 13 is on the right side of the car, but no confidence level is provided. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Safe (Right side, confidence not provided)
+
+### Frame 0858
+
+#### Potential Risks
+Person 13 is on the right side of the car, but no confidence level is provided. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Safe (Right side, confidence not provided)
+
+### Frame 0859
+
+#### Potential Risks
+Person 13 is on the right side of the car, but no confidence level is provided. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Safe (Right side, confidence not provided)
+
+### Frame 0860
+
+#### Potential Risks
+Person 13 is on the right side of the car, but no confidence level is provided. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Safe (Right side, confidence not provided)
+
+Please let me know if you need any further information.
+<-batch_123->
+### Frame 0861
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0862
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0863
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0864
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0865
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0866
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0867
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+<-batch_124->
+### Frame 0868
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0869
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0870
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+
+### Frame 0871
+
+#### Safety Evaluation
+Person 13: Safe
+
+### Frame 0872
+
+#### Safety Evaluation
+Person 13: Safe
+
+### Frame 0873
+
+#### Safety Evaluation
+Person 13: Safe
+
+### Frame 0874
+
+#### Potential Risks
+Person 13 is on the right side of the car and is close to the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On right side, close to the car)
+<-batch_125->
+### Frame 0875
+
+#### Potential Risks
+Person 13 is on the right side of the car and is stationary or moving slightly. Confidence is high.
+
+#### Safety Evaluation
+Person 13: Safe (Static or slight movement, right side, high confidence)
+
+### Frame 0876
+
+#### Potential Risks
+Person 13 is on the right side of the car and is moving closer, as indicated by changing coordinates. Confidence is high.
+
+#### Safety Evaluation
+Person 13: Risky (Moving closer, right side, high confidence)
+
+### Frame 0877
+
+#### Potential Risks
+Person 13 is on the right side of the car and is moving closer, as indicated by changing coordinates. Confidence is high.
+
+#### Safety Evaluation
+Person 13: Risky (Moving closer, right side, high confidence)
+
+### Frame 0878
+
+#### Potential Risks
+Person 13 is on the right side of the car and is moving closer, as indicated by changing coordinates. Confidence is high.
+
+#### Safety Evaluation
+Person 13: Risky (Moving closer, right side, high confidence)
+
+### Frame 0879
+
+#### Potential Risks
+Person 13 is on the right side of the car and is moving closer, as indicated by changing coordinates. Confidence is high.
+
+#### Safety Evaluation
+Person 13: Risky (Moving closer, right side, high confidence)
+
+### Frame 0880
+
+#### Potential Risks
+Person 13 is on the right side of the car and is moving closer, as indicated by changing coordinates. Confidence is high.
+
+#### Safety Evaluation
+Person 13: Risky (Moving closer, right side, high confidence)
+
+### Frame 0881
+
+#### Potential Risks
+Person 13 is on the right side of the car and is moving closer, as indicated by changing coordinates. Confidence is high.
+
+#### Safety Evaluation
+Person 13: Risky (Moving closer, right side, high confidence)
+<-batch_126->
+### Frame 0882
+
+#### Potential Risks
+Person 13 is on the right side of the car and is detected with high confidence. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 13: Risky (On the right side, high confidence)
+
+### Frame 0883
+
+#### Potential Risks
+Person 13 is on the right side of the car and is detected, but with no high confidence.
+
+#### Safety Evaluation
+Person 13: Safe (On the right side, no high confidence)
+
+### Frame 0884
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0885
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0886
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0887
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 0888
+
+#### Potential Risks
+No person detected in this frame.
+
+#### Safety Evaluation
+No person detected in this frame.
+
+Based on the provided frames, there is only one person detected (person 13) in frames 0882 and 0883. In frame 0882, person 13 is on the right side of the car with high confidence, indicating a potential risk. In frame 0883, person 13 is still on the right side of the car, but with no high confidence. In the subsequent frames (0884 to 0888), no person is detected.
+<-batch_127->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0889 to 0895. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_128->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0896 to 0902. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_129->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (frame 0903 to frame 0909). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_130->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_131->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_132->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0924 to 0930. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_133->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_134->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (0938-0944). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_135->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0945 to 0951. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_136->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0952 to 0958. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_137->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_138->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_139->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_140->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0980 to 0986. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_141->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_142->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 0994 to 1000. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_143->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_144->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_145->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_146->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_147->
+Based on the provided sequence of frames, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_148->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (1036-1042). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_149->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (1043-1049). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_150->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 1050 to 1056. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_151->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (1057-1063). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_152->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 1064 to 1070. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_153->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_154->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames (1078-1084). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_155->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 1085 to 1091. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_156->
+Based on the provided sequence of frames, there are no detected persons in any of the frames from 1092 to 1098. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_157->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 1099 to 1105. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_158->
+Based on the provided sequence of frames, there are no detected persons in any of the frames (1106-1112). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_159->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 1113 to 1119. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_160->
+Based on the sequence of frames provided, there are no detected persons in any of the frames from 1120 to 1126. Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_161->
+### Frame 1127
+
+No pedestrians are detected in this frame.
+
+### Frame 1128
+
+#### Potential Risks
+Person 16 is detected on the right side of the car. This needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 16: Safe (Detected on the right side of the car)
+
+### Frame 1129
+
+No pedestrians are detected in this frame.
+
+### Frame 1130
+
+No pedestrians are detected in this frame.
+
+### Frame 1131
+
+No pedestrians are detected in this frame.
+
+### Frame 1132
+
+No pedestrians are detected in this frame.
+
+### Frame 1133
+
+No pedestrians are detected in this frame.
+<-batch_162->
+Based on the sequence of frames provided, there are no detected persons in any of the frames (1134-1140). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_163->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_164->
+Based on the sequence of frames provided, there are no detected persons in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_165->
+### Frame 1155
+
+#### Potential Risks
+Person 17 is on the right side of the car and is detected in this frame.
+
+#### Safety Evaluation
+Person 17: Safe (Detected on the right side of the car)
+
+### Frame 1156
+
+#### Potential Risks
+Person 17 is on the right side of the car and is detected in this frame.
+
+#### Safety Evaluation
+Person 17: Safe (Detected on the right side of the car)
+
+### Frame 1157
+
+#### Potential Risks
+Person 17 is on the right side of the car and is detected in this frame. They have high confidence.
+
+#### Safety Evaluation
+Person 17: Safe (Detected on the right side of the car with high confidence)
+
+### Frame 1158
+
+#### Potential Risks
+Person 17 is on the right side of the car and is detected in this frame.
+
+#### Safety Evaluation
+Person 17: Safe (Detected on the right side of the car)
+
+### Frame 1159
+
+#### Potential Risks
+Person 17 is on the right side of the car and is detected in this frame.
+
+#### Safety Evaluation
+Person 17: Safe (Detected on the right side of the car)
+
+### Frame 1160
+
+#### Potential Risks
+Person 17 is on the right side of the car and is detected in this frame.
+
+#### Safety Evaluation
+Person 17: Safe (Detected on the right side of the car)
+
+### Frame 1161
+
+#### Potential Risks
+Person 17 is on the right side of the car and is detected in this frame.
+
+#### Safety Evaluation
+Person 17: Safe (Detected on the right side of the car)
+
+Please let me know if you need any further information.
+<-batch_166->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames. Therefore, there are no significant events or movements of people to describe in the road scene.
+<-batch_167->
+Based on the provided sequence of frames, there are no detected persons present in any of the frames (1169-1175). Therefore, there are no significant events or movements of people to describe in this road scene.
+<-batch_168->
+### Frame 1176
+No pedestrians detected in this frame.
+
+### Frame 1177
+No pedestrians detected in this frame.
+
+### Frame 1178
+No pedestrians detected in this frame.
+
+### Frame 1179
+No pedestrians detected in this frame.
+
+### Frame 1180
+No pedestrians detected in this frame.
+
+### Frame 1181
+#### Potential Risks
+Person 18 is on the left side of the car.
+
+#### Safety Evaluation
+Person 18: Safe (On the left side of the car)
+
+### Frame 1182
+#### Potential Risks
+Person 18 is on the left side of the car.
+
+#### Safety Evaluation
+Person 18: Safe (On the left side of the car)
+
+Based on the provided frames, there are no significant events or movements of people. Only one person, identified as person 18, is detected in frames 1181 and 1182, and they are on the left side of the car. However, there are no indications of risky behavior or potential dangers in these frames.
+<-batch_169->
+### Frame 1183
+
+#### Potential Risks
+Person 18 is on the left side of the car and is not moving closer or further away. Confidence level is not provided.
+
+#### Safety Evaluation
+Person 18: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 1184
+
+#### Potential Risks
+Person 18 is on the left side of the car and is not moving closer or further away. Confidence level is not provided.
+
+#### Safety Evaluation
+Person 18: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 1185
+
+#### Potential Risks
+Person 18 is on the left side of the car and is not moving closer or further away. Confidence level is not provided.
+
+#### Safety Evaluation
+Person 18: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 1186
+
+#### Potential Risks
+Person 18 is on the left side of the car and is not moving closer or further away. Confidence level is not provided.
+
+#### Safety Evaluation
+Person 18: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 1187
+
+#### Potential Risks
+Person 18 is on the left side of the car and is not moving closer or further away. Confidence level is low.
+
+#### Safety Evaluation
+Person 18: Safe (Static or slight movement, left side, low confidence)
+
+### Frame 1188
+
+#### Potential Risks
+Person 18 is on the left side of the car and is not moving closer or further away. Confidence level is not provided.
+
+#### Safety Evaluation
+Person 18: Safe (Static or slight movement, left side, confidence not provided)
+
+### Frame 1189
+
+#### Potential Risks
+Person 18 is on the left side of the car and is not moving closer or further away. Confidence level is not provided.
+
+#### Safety Evaluation
+Person 18: Safe (Static or slight movement, left side, confidence not provided)
+<-batch_170->
+### Frame 1190
+
+#### Potential Risks
+Person 18 is on the left side of the car and is not moving. Confidence level is not provided.
+
+#### Safety Evaluation
+Person 18: Safe (Static, left side, confidence not provided)
+
+### Frame 1191
+
+#### Potential Risks
+Person 18 is on the left side of the car and is moving closer, as indicated by changing coordinates. Confidence level is low.
+
+#### Safety Evaluation
+Person 18: Risky (Moving closer, left side, low confidence)
+
+### Frame 1192
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 1193
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 1194
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 1195
+
+#### Potential Risks
+No person detected in this frame.
+
+### Frame 1196
+
+#### Potential Risks
+Person 18 is on the left side of the car and is moving closer, as indicated by changing coordinates. Confidence level is high.
+
+#### Safety Evaluation
+Person 18: Risky (Moving closer, left side, high confidence)
+
+Please let me know if you need further assistance.
+<-batch_171->
+### Frame 1197
+
+#### Potential Risks
+Person 19 is on the left side of the car, with coordinates [824.1, 374.2, 863.9, 477.8]. This person is close to the car and needs to be monitored carefully.
+Person 18 is also on the left side of the car, with coordinates [739.9, 370.5, 773.2, 450.4]. This person is close to the car and needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 19: Risky (Left side, close to the car)
+Person 18: Risky (Left side, close to the car)
+
+### Frame 1198
+
+#### Potential Risks
+Person 19 is on the left side of the car, with coordinates [832.6, 375.1, 873.9, 482.8]. This person is close to the car and needs to be monitored carefully.
+Person 18 is also on the left side of the car, with coordinates [746.3, 371.8, 780.0, 452.8]. This person is close to the car and needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 19: Risky (Left side, close to the car)
+Person 18: Risky (Left side, close to the car)
+
+### Frame 1199
+
+#### Potential Risks
+Person 19 is on the left side of the car, with coordinates [841.7, 372.1, 885.6, 486.5]. This person is close to the car and needs to be monitored carefully.
+Person 18 is also on the left side of the car, with coordinates [751.6, 371.4, 787.0, 456.1]. This person is close to the car and needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 19: Risky (Left side, close to the car)
+Person 18: Risky (Left side, close to the car)
+
+### Frame 1200
+
+#### Potential Risks
+Person 19 is on the left side of the car, with coordinates [849.9, 377.6, 893.3, 490.4]. This person is close to the car and needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 19: Risky (Left side, close to the car)
+
+### Frame 1201
+
+#### Potential Risks
+Person 19 is on the left side of the car, with coordinates [860.8, 370.6, 903.2, 480.4]. This person is close to the car and needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 19: Risky (Left side, close to the car)
+
+### Frame 1202
+
+#### Potential Risks
+Person 19 is on the left side of the car, with coordinates [872.4, 367.4, 914.1, 475.3]. This person is close to the car and needs to be monitored carefully.
+Person 18 is also on the left side of the car, with coordinates [769.1, 366.3, 809.3, 463.0]. This person is close to the car and needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 19: Risky (Left side, close to the car)
+Person 18: Risky (Left side, close to the car)
+
+### Frame 1203
+
+#### Potential Risks
+Person 19 is on the left side of the car, with coordinates [887.5, 364.7, 927.5, 468.1]. This person is close to the car and needs to be monitored carefully.
+Person 18 is also on the left side of the car, with coordinates [775.9, 363.4, 819.2, 467.9]. This person is close to the car and needs to be monitored carefully.
+
+#### Safety Evaluation
+Person 19: Risky (Left side, close to the car)
+Person 18: Risky (Left side, close to the car)
+<-batch_172->
+### Frame 1204
+
+#### Potential Risks
+Person 19 is on the left side of the car and has high confidence. This needs to be monitored carefully.
+Person 18 is on the left side of the car and has low confidence. 
+
+#### Safety Evaluation
+Person 19: Risky (Left side, high confidence)
+Person 18: Safe (Left side, low confidence)
+
+Please provide the data for the next frame.

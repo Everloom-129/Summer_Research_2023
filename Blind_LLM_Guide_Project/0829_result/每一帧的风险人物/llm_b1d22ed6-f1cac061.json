@@ -1,0 +1,112 @@
+[
+    {
+        "frame": 0,
+        "risky_persons": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "frame": 1,
+        "risky_persons": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "frame": 2,
+        "risky_persons": [
+            1,
+            3
+        ]
+    },
+    {
+        "frame": 3,
+        "risky_persons": [
+            1,
+            4
+        ]
+    },
+    {
+        "frame": 4,
+        "risky_persons": [
+            1,
+            4,
+            5
+        ]
+    },
+    {
+        "frame": 5,
+        "risky_persons": [
+            1,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "frame": 6,
+        "risky_persons": [
+            1,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "frame": 7,
+        "risky_persons": [
+            1,
+            4,
+            5,
+            6,
+            8
+        ]
+    },
+    {
+        "frame": 8,
+        "risky_persons": [
+            1,
+            4,
+            6,
+            8
+        ]
+    },
+    {
+        "frame": 9,
+        "risky_persons": [
+            1,
+            4,
+            6,
+            8
+        ]
+    },
+    {
+        "frame": 10,
+        "risky_persons": []
+    },
+    {
+        "frame": 11,
+        "risky_persons": []
+    },
+    {
+        "frame": 12,
+        "risky_persons": []
+    },
+    {
+        "frame": 13,
+        "risky_persons": []
+    },
+    {
+        "frame": 14,
+        "risky_persons": []
+    },
+    {
+        "frame": 15,
+        "risky_persons": []
+    }
+]

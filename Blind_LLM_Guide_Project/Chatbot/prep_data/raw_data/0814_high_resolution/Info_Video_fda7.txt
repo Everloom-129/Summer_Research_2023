@@ -1,0 +1,203 @@
+INFO of frame 0001:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [1.5020752e-01 3.8419351e+02 2.4378430e+02 5.5490454e+02] <VE> 
+car 1 is at right_down
+<V> car 1 is at [1122.4193   375.76938 1279.775    609.15283] <VE> 
+INFO of frame 0002:
+road 0 is at middle_down
+car 0 is at right_down
+<V> car 0 is at [ 848.82446  373.3085  1110.492    512.7866 ] <VE> 
+car 1 is at left_down
+<V> car 1 is at [107.03006 373.52158 330.9769  503.8713 ] <VE> 
+INFO of frame 0003:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at left_down
+<V> car 0 is at [1.3406372e-01 4.0466995e+02 1.5399863e+02 5.4999335e+02] <VE> 
+INFO of frame 0005:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [6.8954468e-02 3.8106653e+02 1.7565068e+02 5.3839429e+02] <VE> 
+INFO of frame 0006:
+road 0 is at middle_down
+car 0 is at right_down
+<V> car 0 is at [1074.0879  338.8233 1279.7434  617.1248] <VE> 
+INFO of frame 0008:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at left_down
+car 0 is at left_down
+<V> car 0 is at [300.76224 425.97098 412.90268 492.10782] <VE> 
+INFO of frame 0009:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+road 2 is at middle_down
+sidewalk 3 is at left_down
+car 0 is at left_down
+<V> car 0 is at [258.79047 439.28983 384.72418 513.80975] <VE> 
+INFO of frame 0010:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+road 2 is at middle_down
+road 3 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [150.77832 425.605   322.81293 517.0504 ] <VE> 
+INFO of frame 0011:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at left_down
+<V> car 0 is at [2.2752380e-01 3.9586902e+02 1.8663637e+02 5.3508313e+02] <VE> 
+INFO of frame 0012:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at left_down
+<V> car 0 is at [221.60956 370.90405 338.75507 461.62158] <VE> 
+INFO of frame 0013:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at left_down
+<V> car 0 is at [1.11068726e-01 3.76267944e+02 1.09669769e+02 5.33324951e+02] <VE> 
+car 1 is at right_down
+<V> car 1 is at [ 827.201    368.48734 1095.3391   513.63965] <VE> 
+car 2 is at left_down
+<V> car 2 is at [216.44424 383.9229  371.4351  478.75055] <VE> 
+car 3 is at right_down
+<V> car 3 is at [1094.2657  363.7029 1273.2137  458.6265] <VE> 
+INFO of frame 0014:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at right_down
+<V> car 0 is at [ 864.5888   324.97638 1174.7488   533.0985 ] <VE> 
+INFO of frame 0015:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at right_down
+<V> car 0 is at [783.20264 377.35168 967.02637 492.0531 ] <VE> 
+car 1 is at left_down
+<V> car 1 is at [273.3227  385.83267 409.91248 474.83395] <VE> 
+INFO of frame 0016:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at left_down
+<V> car 0 is at [301.27917 390.1806  410.0489  456.91302] <VE> 
+INFO of frame 0017:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [2.0655823e-01 3.8634570e+02 1.7256932e+02 5.3247302e+02] <VE> 
+car 1 is at right_down
+<V> car 1 is at [ 900.65216  360.12427 1279.6484   577.8588 ] <VE> 
+car 2 is at left_down
+<V> car 2 is at [234.03601 361.06873 387.94476 457.53503] <VE> 
+INFO of frame 0018:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+car 0 is at right_down
+<V> car 0 is at [ 976.5359  324.1703 1279.5312  687.4529] <VE> 
+car 1 is at right_down
+<V> car 1 is at [ 824.95483  326.91696 1090.9308   508.7446 ] <VE> 
+INFO of frame 0020:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [107.285164 385.8724   286.67316  491.4609  ] <VE> 
+car 1 is at left_down
+<V> car 1 is at [2.9751587e-01 3.8851996e+02 1.4036681e+02 5.2599536e+02] <VE> 
+INFO of frame 0021:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [2.4004364e-01 3.7126389e+02 1.0346441e+02 4.2852353e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [287.4304  345.812   455.05093 471.74597] <VE> 
+car 2 is at middle_down
+<V> car 2 is at [772.0639  356.69476 897.55414 472.40692] <VE> 
+INFO of frame 0022:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+sidewalk 2 is at right_down
+car 0 is at right_down
+<V> car 0 is at [ 969.9811   338.13913 1279.7135   697.1853 ] <VE> 
+INFO of frame 0023:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+sidewalk 2 is at right_down
+sidewalk 3 is at right_down
+car 0 is at right_down
+<V> car 0 is at [1237.2812  402.9175 1279.8506  446.9506] <VE> 
+INFO of frame 0026:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+sidewalk 2 is at middle_down
+car 0 is at right_down
+<V> car 0 is at [ 862.67804  416.73886 1188.4382   524.94995] <VE> 
+car 1 is at right_down
+<V> car 1 is at [1179.6353   439.92487 1279.7458   525.3388 ] <VE> 
+INFO of frame 0027:
+road 0 is at middle_down
+person 0 is at right_down
+The [distance,angle] of person 0 is: [far,to the right]
+car 1 is at middle_down
+<V> car 1 is at [357.00507 437.54236 746.0623  580.63416] <VE> 
+car 2 is at middle_down
+<V> car 2 is at [735.9731  452.80505 967.99554 554.50745] <VE> 
+Person 0 is on the road 0, his/her bbox is[1004.49243  460.45828 1028.6663   522.5139 ]
+INFO of frame 0028:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+person 0 is at middle_down
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at left_down
+<V> car 1 is at [ 96.14853 438.95935 489.98172 602.47705] <VE> 
+car 2 is at middle_down
+<V> car 2 is at [562.8357  445.86475 695.7693  525.2592 ] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[565.2499  433.24722 587.1942  483.5333 ]
+INFO of frame 0029:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at left_down
+<V> car 0 is at [130.57745 397.93213 365.4845  520.5734 ] <VE> 
+car 1 is at left_down
+<V> car 1 is at [358.65924 394.43814 481.72504 472.99283] <VE> 
+INFO of frame 0030:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at left_down
+<V> car 0 is at [1.3425446e-01 3.8519736e+02 2.2427292e+02 5.3294836e+02] <VE> 
+INFO of frame 0031:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+car 0 is at left_down
+<V> car 0 is at [190.38379 396.39188 345.255   484.2775 ] <VE> 
+INFO of frame 0032:
+road 0 is at middle_down
+sidewalk 1 is at right_down
+sidewalk 2 is at left_down
+car 0 is at left_down
+<V> car 0 is at [1.70219421e-01 4.00509399e+02 1.15188545e+02 5.37502502e+02] <VE> 
+INFO of frame 0033:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+sidewalk 2 is at right_down
+car 0 is at left_down
+<V> car 0 is at [3.3718109e-01 3.6954968e+02 2.1842807e+02 5.1011713e+02] <VE> 
+INFO of frame 0035:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [  1.659729 361.8711   227.59787  500.36005 ] <VE> 
+car 1 is at right_down
+<V> car 1 is at [777.54486 342.45166 960.2507  478.3593 ] <VE> 
+car 2 is at right_down
+<V> car 2 is at [ 869.02686  356.3788  1258.6548   548.6401 ] <VE> 
+INFO of frame 0036:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+sidewalk 2 is at left_up
+car 0 is at right_down
+<V> car 0 is at [ 916.584    281.41577 1279.8604   602.44977] <VE> 
+INFO of frame 0037:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+car 0 is at right_up
+<V> car 0 is at [1229.7141   305.54205 1279.832    364.0296 ] <VE> 
