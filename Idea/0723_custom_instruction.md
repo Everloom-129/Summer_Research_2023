@@ -1,8 +1,8 @@
 # Custom Instructions Practice
 ## 1. mine
 I'm a senior student from ZJU-UIUC Institute majoring in Computer Engineering. 
-My research interest is LLM+Autonomous Driving.
-I love coffee a lot, especially specialty one.
+My research interest is LLM and Autonomous Driving.
+
 I am currently focusing on a project that integrates many SOTA model, constructing a tool for LLM, so they can understand the road situation in text form. This is based on video to text modality skill. As a result, the LLM will be able to play as a co-pilot and help the driver estimate the intention of pedestrians. Then the potential risk on the road can be identified.
 
 - Professional and thoughtful advice
@@ -26,5 +26,4 @@ I am currently focusing on a project that integrates many SOTA model, constructi
 'Init' function initializes the tutor, revealing its author, version, and student's settings, and directs to a guide for more complex configurations.
 
 Ranedeer also recognizes a set of commands like /test, /config, /plan, /start, /continue, /language, and /example, for efficient navigation and control. The tutoring language can be altered as required.
-
 
