@@ -1,0 +1,941 @@
+INFO of frame 0001:
+road 0 is at middle_down
+road 1 is at left_down
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,far to the right]
+person 1 is at middle_up
+The [distance,angle] of person 1 is: [very far,slightly to the right]
+Person 0 is on the road 0, road 1, his/her bbox is[1208.7097   217.24554 1258.7578   322.20355]
+Person 1 is on the road 0, road 1, his/her bbox is[709.5554  284.70312 747.5907  368.28687]
+INFO of frame 0002:
+road 0 is at middle_down
+road 1 is at left_down
+sidewalk 2 is at right_down
+car 0 is at left_down
+<V> car 0 is at [1.8816376e-01 3.5287448e+02 1.4441022e+02 4.6892953e+02] <VE> 
+INFO of frame 0003:
+road 0 is at middle_down
+road 1 is at left_down
+car 0 is at left_down
+<V> car 0 is at [2.3628998e-01 3.4874149e+02 1.8481332e+02 4.9033426e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [134.55324 331.64374 350.93762 427.0829 ] <VE> 
+INFO of frame 0004:
+road 0 is at middle_down
+road 1 is at left_down
+sidewalk 2 is at right_down
+car 0 is at left_down
+<V> car 0 is at [3.4542847e-01 3.4736810e+02 2.3141811e+02 5.0053223e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [182.22496 329.15045 407.55707 427.4632 ] <VE> 
+INFO of frame 0005:
+road 0 is at middle_down
+road 1 is at middle_down
+sidewalk 2 is at right_down
+car 0 is at left_down
+<V> car 0 is at [3.7188721e-01 3.4253906e+02 2.8452423e+02 5.0799060e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [238.43193 322.64886 474.31354 434.7697 ] <VE> 
+INFO of frame 0006:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [2.8776550e-01 3.3975885e+02 3.4320660e+02 5.2619238e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [295.69952 317.08838 549.48694 434.70648] <VE> 
+INFO of frame 0007:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [4.0626526e-01 3.4270767e+02 3.6012384e+02 5.6370264e+02] <VE> 
+car 1 is at middle_down
+<V> car 1 is at [317.61932 318.45197 596.7896  440.84155] <VE> 
+INFO of frame 0008:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [4.6380615e-01 3.5385831e+02 2.9134018e+02 5.6237683e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [248.83032 323.0631  582.97424 461.9217 ] <VE> 
+INFO of frame 0009:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [ 51.22319 329.61795 494.87946 507.4462 ] <VE> 
+INFO of frame 0010:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [4.6965027e-01 3.4523669e+02 3.7102307e+02 5.6470636e+02] <VE> 
+INFO of frame 0011:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [1.4556885e-01 4.0863797e+02 1.8458916e+02 5.7816461e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [153.61765 301.6772  478.55002 481.9781 ] <VE> 
+INFO of frame 0012:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [314.83575 317.67422 496.529   423.59702] <VE> 
+car 1 is at left_down
+<V> car 1 is at [1.5809631e-01 3.0872809e+02 3.6972101e+02 5.2790979e+02] <VE> 
+car 2 is at middle_up
+<V> car 2 is at [453.41754 303.67267 580.6091  385.93817] <VE> 
+INFO of frame 0013:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [152.77873 322.4621  417.54858 452.5739 ] <VE> 
+car 1 is at middle_up
+<V> car 1 is at [369.158   305.21655 522.24945 401.56604] <VE> 
+car 2 is at left_down
+<V> car 2 is at [3.1481934e-01 3.2930502e+02 2.2825710e+02 5.4719617e+02] <VE> 
+INFO of frame 0014:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [2.5216675e-01 3.3118127e+02 3.4229214e+02 5.0721124e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [288.58945 307.0856  480.69388 420.2662 ] <VE> 
+INFO of frame 0015:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [3.5686493e-01 3.4353067e+02 2.4115741e+02 5.7432776e+02] <VE> 
+car 1 is at left_down
+<V> car 1 is at [160.28316 307.37503 440.19666 451.77267] <VE> 
+person 2 is at right_up
+The [distance,angle] of person 2 is: [far,to the right]
+Person 2 is on the road 0, his/her bbox is[860.46765 274.15796 871.3805  303.5406 ]
+INFO of frame 0016:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at left_down
+<V> car 1 is at [3.8182068e-01 3.1914948e+02 3.7523566e+02 5.1332458e+02] <VE> 
+car 2 is at middle_up
+<V> car 2 is at [466.06192 297.4681  579.4179  371.7496 ] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[373.03732 286.02536 398.77505 355.37186]
+INFO of frame 0017:
+road 0 is at middle_down
+car 0 is at middle_up
+<V> car 0 is at [427.1135  298.85248 560.34015 383.39178] <VE> 
+INFO of frame 0018:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+sidewalk 2 is at left_down
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at middle_up
+<V> car 1 is at [371.4846  296.35684 533.32086 395.61264] <VE> 
+car 2 is at left_up
+<V> car 2 is at [188.91649 295.04596 275.16254 340.52277] <VE> 
+person 3 is at right_up
+The [distance,angle] of person 3 is: [medium,to the right]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[304.60922 280.0493  331.9691  364.20572]
+Person 3 is on the road 0, his/her bbox is[944.12256 266.61542 961.3811  301.13916]
+INFO of frame 0019:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+sidewalk 2 is at left_down
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at left_down
+<V> car 1 is at [291.22034 304.52414 499.1159  424.51883] <VE> 
+car 2 is at left_up
+<V> car 2 is at [127.57413 302.0981  241.50775 351.73337] <VE> 
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[253.89668 282.48837 290.37726 379.23703]
+INFO of frame 0020:
+road 0 is at middle_down
+road 1 is at right_down
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at left_down
+<V> car 1 is at [164.38988 312.08087 454.75244 467.15234] <VE> 
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,to the right]
+person 3 is at right_up
+The [distance,angle] of person 3 is: [very far,to the right]
+Person 0 is on the road 0, road 1, his/her bbox is[191.18225 282.44897 227.75787 358.30823]
+Person 2 is on the road 0, road 1, his/her bbox is[982.1538  273.38095 992.97375 308.86893]
+Person 3 is on the road 0, road 1, his/her bbox is[961.5997  270.04187 981.93243 310.68994]
+INFO of frame 0021:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+sidewalk 2 is at right_up
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,far to the left]
+car 1 is at left_down
+<V> car 1 is at [2.2114563e-01 3.2212720e+02 3.8955621e+02 5.3150000e+02] <VE> 
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,to the right]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[109.84567 280.21854 155.16098 333.7159 ]
+Person 2 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[ 980.56146  269.957   1001.529    313.36984]
+INFO of frame 0022:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+car 0 is at left_down
+<V> car 0 is at [3.6929321e-01 3.2237854e+02 2.7774893e+02 6.5539215e+02] <VE> 
+person 1 is at left_up
+The [distance,angle] of person 1 is: [very far,far to the left]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[ 18.97489 261.98526  72.47396 329.21445]
+INFO of frame 0024:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+sidewalk 2 is at right_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,far to the right]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[944.4028  270.331   993.46564 360.7287 ]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[1108.9918   273.7184  1137.0504   347.50565]
+INFO of frame 0025:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,to the right]
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[864.8513  277.1792  899.7396  345.85327]
+INFO of frame 0026:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+road 2 is at right_down
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [very far,to the right]
+car 1 is at left_down
+<V> car 1 is at [ 48.996307 313.3974   417.0877   509.8291  ] <VE> 
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,to the right]
+Person 0 is on the road 0, sidewalk 1, road 2, his/her bbox is[808.18024 271.73486 836.72455 325.07672]
+Person 2 is on the road 0, sidewalk 1, road 2, his/her bbox is[1003.0388   267.20114 1018.36316  308.22665]
+INFO of frame 0027:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,far to the right]
+car 1 is at left_down
+<V> car 1 is at [1.8695068e-01 3.3235028e+02 2.9950958e+02 6.6646631e+02] <VE> 
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,far to the right]
+person 3 is at right_up
+The [distance,angle] of person 3 is: [very close,to the right]
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[1225.2278   262.42657 1260.8608   335.5946 ]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[1182.2031   264.5489  1222.0105   336.99127]
+Person 3 is on the road 0, his/her bbox is[1019.99884  263.32486 1036.7765   308.17294]
+INFO of frame 0028:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+sidewalk 2 is at right_up
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,far to the right]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[340.37054 281.56952 368.8012  320.6609 ]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[1240.626    271.0641  1279.7375   351.69366]
+INFO of frame 0029:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+sidewalk 2 is at right_up
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+car 2 is at left_down
+<V> car 2 is at [170.29681 320.1184  438.56934 488.71558] <VE> 
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[273.44843 278.23474 309.6701  324.8291 ]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[1072.6953   271.73178 1091.8267   322.48892]
+INFO of frame 0030:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+sidewalk 2 is at left_up
+person 0 is at left_up
+The [distance,angle] of person 0 is: [far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [far,far to the right]
+car 2 is at left_down
+<V> car 2 is at [2.4336243e-01 3.2981549e+02 3.4688373e+02 5.9260785e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[183.14836 269.17505 225.48103 341.396  ]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[1112.39     266.63217 1133.0421   324.7017 ]
+INFO of frame 0031:
+road 0 is at middle_down
+sidewalk 1 is at left_up
+sidewalk 2 is at left_down
+road 3 is at middle_up
+person 0 is at left_up
+The [distance,angle] of person 0 is: [far,far to the left]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [far,far to the right]
+car 2 is at left_down
+<V> car 2 is at [297.63904 306.20404 486.40857 417.10345] <VE> 
+car 3 is at left_down
+<V> car 3 is at [2.0529938e-01 4.5048425e+02 1.3394919e+02 6.4802405e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[ 26.892357 263.07605   90.71384  408.6792  ]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[1158.5116   269.41315 1183.878    328.38953]
+INFO of frame 0032:
+road 0 is at middle_down
+sidewalk 1 is at left_up
+road 2 is at middle_up
+car 0 is at left_down
+<V> car 0 is at [163.94652 308.8355  438.57556 456.59106] <VE> 
+person 1 is at middle_up
+The [distance,angle] of person 1 is: [far,None]
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,far to the right]
+person 3 is at left_up
+The [distance,angle] of person 3 is: [close,None]
+Person 1 is on the road 0, sidewalk 1, road 2, his/her bbox is[446.54703 274.3862  462.65317 295.3273 ]
+Person 2 is on the road 0, sidewalk 1, road 2, his/her bbox is[1217.4886   259.97983 1245.7098   326.46133]
+Person 3 is not on any detected surface, his/her bbox is[401.07678 270.25095 420.974   301.723  ]
+INFO of frame 0033:
+road 0 is at middle_down
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+car 2 is at left_down
+<V> car 2 is at [2.1290588e-01 3.1754373e+02 3.5590814e+02 5.3818921e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[421.53763 271.4591  439.00162 294.28192]
+Person 1 is on the road 0, his/her bbox is[851.6772  258.71667 862.5002  286.73907]
+INFO of frame 0034:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+road 2 is at middle_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,to the right]
+car 1 is at left_down
+<V> car 1 is at [1.2565613e-01 3.7201636e+02 1.8531641e+02 6.1133179e+02] <VE> 
+car 2 is at left_down
+<V> car 2 is at [121.19533 300.1194  448.60498 466.8452 ] <VE> 
+Person 0 is on the road 0, sidewalk 1, road 2, his/her bbox is[857.879   259.13666 869.0558  289.10236]
+INFO of frame 0035:
+road 0 is at middle_down
+sidewalk 1 is at left_up
+sidewalk 2 is at left_up
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+car 2 is at left_down
+<V> car 2 is at [2.7191162e-01 3.2212451e+02 3.5930710e+02 5.7275336e+02] <VE> 
+person 3 is at left_up
+The [distance,angle] of person 3 is: [close,None]
+person 4 is at left_up
+The [distance,angle] of person 4 is: [close,None]
+person 5 is at left_up
+The [distance,angle] of person 5 is: [close,None]
+Person 0 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[215.1483  271.16934 255.69295 336.76712]
+Person 1 is on the road 0, sidewalk 1, sidewalk 2, his/her bbox is[864.1421  264.2949  875.45264 294.38522]
+Person 3 is on the road 0, sidewalk 2, his/her bbox is[248.50539 125.15583 262.567   156.28638]
+Person 4 is on the road 0, sidewalk 2, his/her bbox is[261.78027 120.41739 276.5479  156.34848]
+Person 5 is on the road 0, sidewalk 2, his/her bbox is[279.15854 278.14966 298.84842 344.32965]
+INFO of frame 0036:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+road 2 is at middle_up
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,far to the left]
+person 1 is at left_up
+The [distance,angle] of person 1 is: [very far,None]
+car 2 is at left_down
+<V> car 2 is at [8.2443237e-02 4.5134943e+02 1.6081529e+02 6.3604315e+02] <VE> 
+person 3 is at left_up
+The [distance,angle] of person 3 is: [close,far to the left]
+person 4 is at left_up
+The [distance,angle] of person 4 is: [close,far to the left]
+car 5 is at left_down
+<V> car 5 is at [265.71378 299.35312 477.5405  432.55856] <VE> 
+Person 0 is on the road 0, sidewalk 1, road 2, his/her bbox is[ 88.71983 274.7331  139.45932 390.604  ]
+Person 1 is on the road 0, sidewalk 1, road 2, his/her bbox is[214.58473 284.85486 246.16258 363.58386]
+Person 3 is on the road 2, his/her bbox is[107.81517   81.58215  128.4557   123.433334]
+Person 4 is on the road 2, his/her bbox is[124.795265  74.27379  147.0502   122.98616 ]
+INFO of frame 0037:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+car 0 is at left_down
+<V> car 0 is at [ 91.44017 304.45053 420.84808 481.7675 ] <VE> 
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[881.4768  266.64938 895.72754 298.08475]
+INFO of frame 0038:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+car 0 is at left_down
+<V> car 0 is at [214.85071 305.06528 461.3058  453.6888 ] <VE> 
+car 1 is at left_down
+<V> car 1 is at [3.1062317e-01 3.1715332e+02 3.0995782e+02 6.0629047e+02] <VE> 
+INFO of frame 0039:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+car 0 is at left_down
+<V> car 0 is at [5.4138184e-02 3.2342783e+02 3.8388885e+02 5.5967285e+02] <VE> 
+INFO of frame 0040:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+road 2 is at middle_up
+sidewalk 3 is at right_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,far to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+car 2 is at left_down
+<V> car 2 is at [1.3199615e-01 3.9451245e+02 2.0868002e+02 6.5111890e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, road 2, his/her bbox is[1212.6053   252.3609  1244.9874   322.34344]
+Person 1 is on the road 0, sidewalk 1, road 2, his/her bbox is[917.47064 254.10803 931.8957  290.32056]
+INFO of frame 0041:
+road 0 is at middle_down
+sidewalk 1 is at left_down
+road 2 is at right_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at middle_up
+The [distance,angle] of person 1 is: [very far,None]
+car 2 is at left_up
+<V> car 2 is at [171.01175 271.35718 218.08374 305.47107] <VE> 
+car 3 is at right_up
+<V> car 3 is at [1089.7369   240.43614 1241.9652   279.65796] <VE> 
+Person 0 is on the road 0, sidewalk 1, road 2, his/her bbox is[935.6507  248.99257 949.5959  288.62112]
+Person 1 is on the road 0, sidewalk 1, road 2, his/her bbox is[453.7508  291.6402  479.55145 335.78546]
+INFO of frame 0042:
+road 0 is at middle_down
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at left_up
+The [distance,angle] of person 1 is: [very far,None]
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,to the right]
+Person 0 is on the road 0, his/her bbox is[418.15533 291.62512 451.85468 372.77112]
+Person 1 is on the road 0, his/her bbox is[263.67545 282.98813 283.9783  327.11624]
+Person 2 is on the road 0, his/her bbox is[954.5141  250.39557 974.27594 291.2934 ]
+INFO of frame 0043:
+road 0 is at middle_down
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+car 2 is at left_up
+<V> car 2 is at [1.6825104e-01 2.6530710e+02 1.2988730e+02 3.0802585e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[361.21817 293.78134 401.63998 399.29776]
+Person 1 is on the road 0, his/her bbox is[ 982.20935  241.14104 1001.022    287.96796]
+INFO of frame 0044:
+road 0 is at middle_down
+road 1 is at middle_down
+person 0 is at left_up
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+car 2 is at left_down
+<V> car 2 is at [1.8412781e-01 3.1764310e+02 2.9883984e+02 5.3759058e+02] <VE> 
+person 3 is at right_up
+The [distance,angle] of person 3 is: [very far,to the right]
+person 4 is at left_up
+The [distance,angle] of person 4 is: [very far,None]
+car 5 is at right_up
+<V> car 5 is at [1257.2571   237.03981 1279.9246   265.3166 ] <VE> 
+Person 0 is on the road 0, road 1, his/her bbox is[296.21698 290.0194  349.61987 427.79944]
+Person 1 is on the road 0, road 1, his/her bbox is[1025.8038   221.6168  1046.4398   273.66525]
+Person 3 is on the road 0, road 1, his/her bbox is[929.946   235.69826 944.3858  280.77396]
+Person 4 is on the road 0, road 1, his/her bbox is[146.24683 276.71396 181.00684 326.57523]
+INFO of frame 0045:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at left_up
+The [distance,angle] of person 1 is: [very far,far to the left]
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,to the right]
+Person 0 is on the road 0, his/her bbox is[228.29597 279.92975 302.43353 456.69318]
+Person 1 is on the road 0, his/her bbox is[110.19742 305.15463 166.00595 390.32028]
+Person 2 is on the road 0, his/her bbox is[1075.9624   208.9726  1096.4619   263.60544]
+INFO of frame 0046:
+road 0 is at middle_down
+sidewalk 1 is at right_up
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at left_down
+The [distance,angle] of person 1 is: [very far,far to the left]
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,to the right]
+person 3 is at right_up
+The [distance,angle] of person 3 is: [very close,to the right]
+person 4 is at left_up
+The [distance,angle] of person 4 is: [very close,far to the left]
+car 5 is at left_down
+<V> car 5 is at [1.9725037e-01 4.1626089e+02 1.4642766e+02 5.8463208e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[178.80637 279.9578  268.16092 496.68307]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[ 77.708206 307.54834  137.80684  445.25415 ]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[1107.5566   207.47208 1129.1006   262.06677]
+Person 3 is not on any detected surface, his/her bbox is[1003.702    219.69487 1020.60156  272.16095]
+Person 4 is on the road 0, his/her bbox is[1.1005020e-01 2.5970288e+02 3.7801563e+01 4.2006409e+02]
+INFO of frame 0047:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,far to the right]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,far to the left]
+Person 0 is on the road 0, his/her bbox is[161.57376 281.77194 259.4233  522.6406 ]
+Person 1 is on the road 0, his/her bbox is[1116.8435   207.80908 1138.0415   263.63538]
+Person 2 is on the road 0, his/her bbox is[ 79.50492 317.97644 138.09207 461.15942]
+INFO of frame 0048:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at left_down
+The [distance,angle] of person 1 is: [very far,far to the left]
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,far to the right]
+Person 0 is on the road 0, his/her bbox is[192.28346 290.2224  288.49152 551.0499 ]
+Person 1 is on the road 0, his/her bbox is[ 86.77646 336.2561  152.65887 474.69934]
+Person 2 is on the road 0, his/her bbox is[1112.3861   223.14223 1135.1583   278.39206]
+INFO of frame 0049:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at left_down
+The [distance,angle] of person 1 is: [very far,far to the left]
+car 2 is at left_down
+<V> car 2 is at [1.6850281e-01 4.6642957e+02 1.1388396e+02 6.5072522e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[233.64856 290.8501  369.14258 551.15546]
+Person 1 is on the road 0, his/her bbox is[100.058586 332.37167  156.54974  477.5516  ]
+INFO of frame 0050:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at left_down
+The [distance,angle] of person 1 is: [very far,None]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,far to the left]
+person 3 is at right_up
+The [distance,angle] of person 3 is: [very far,to the right]
+person 4 is at right_up
+The [distance,angle] of person 4 is: [very far,to the right]
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[330.62317 285.9228  416.95312 548.56335]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[131.18637 332.4475  190.23572 473.2281 ]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[ 15.161331 304.6633    94.26665  487.83975 ]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[1097.1511   224.25954 1118.7874   277.56973]
+Person 4 is on the road 0, sidewalk 1, his/her bbox is[ 982.2047   241.83517 1005.31824  292.46475]
+INFO of frame 0051:
+road 0 is at middle_down
+person 0 is at middle_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,None]
+Person 0 is on the road 0, his/her bbox is[415.30255 276.575   521.7666  538.1685 ]
+Person 1 is on the road 0, his/her bbox is[1090.0106   225.18465 1110.1244   277.18106]
+Person 2 is on the road 0, his/her bbox is[106.286934 302.102    237.8049   536.9167  ]
+INFO of frame 0052:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,None]
+car 3 is at left_down
+<V> car 3 is at [2.1112823e-01 4.6749634e+02 1.1452839e+02 6.5046423e+02] <VE> 
+car 4 is at left_up
+<V> car 4 is at [2.0899963e-01 2.6004514e+02 1.0334049e+02 3.1015005e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[505.13034 273.55786 634.8419  533.09674]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[1084.9934   226.74374 1104.8279   276.4497 ]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[192.96509 284.40604 332.76056 530.4624 ]
+INFO of frame 0053:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at middle_down
+The [distance,angle] of person 1 is: [very far,slightly to the right]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,None]
+person 3 is at left_down
+The [distance,angle] of person 3 is: [very far,far to the left]
+person 4 is at right_up
+The [distance,angle] of person 4 is: [very far,to the right]
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[305.12686 284.31973 428.20285 517.55457]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[605.28894 264.78256 748.40234 519.4687 ]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[223.71121 324.6316  299.9719  466.65424]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[1.0710430e-01 2.9370605e+02 2.7878357e+01 4.6942584e+02]
+Person 4 is on the road 0, sidewalk 1, his/her bbox is[917.0588  241.12389 931.0621  291.3186 ]
+INFO of frame 0054:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at middle_down
+The [distance,angle] of person 1 is: [very far,slightly to the right]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,None]
+person 3 is at left_down
+The [distance,angle] of person 3 is: [very far,far to the left]
+person 4 is at right_up
+The [distance,angle] of person 4 is: [very far,to the right]
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[399.8485  274.60138 515.86285 516.85175]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[710.81995 263.128   855.7948  516.3289 ]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[259.89197 319.90582 325.54297 466.76465]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[ 29.721386 292.0351    93.20976  476.82434 ]
+Person 4 is on the road 0, sidewalk 1, his/her bbox is[892.7494  240.13141 908.0311  291.35834]
+INFO of frame 0055:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at middle_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at right_down
+The [distance,angle] of person 1 is: [very far,to the right]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,None]
+person 3 is at left_down
+The [distance,angle] of person 3 is: [very far,far to the left]
+car 4 is at right_up
+<V> car 4 is at [1063.9382   231.18713 1272.821    293.8004 ] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[500.50586 266.23633 601.6101  506.58643]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[816.5189  254.54568 971.3523  502.58347]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[306.7681  319.838   366.26016 464.151  ]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[116.34651 306.44788 186.02296 509.08337]
+INFO of frame 0056:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at right_down
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at left_down
+The [distance,angle] of person 1 is: [very far,None]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,None]
+person 3 is at middle_down
+The [distance,angle] of person 3 is: [very far,straight ahead]
+car 4 is at left_down
+<V> car 4 is at [1.4744949e-01 4.6696927e+02 1.1431865e+02 6.5057104e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[ 928.24036  247.80777 1066.8922   500.01126]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[212.9218  293.04672 284.29004 506.21622]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[353.62842 319.20868 421.96277 465.2729 ]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[600.0348  255.42172 670.4503  504.1589 ]
+INFO of frame 0057:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at right_down
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at left_down
+The [distance,angle] of person 1 is: [very far,None]
+person 2 is at middle_down
+The [distance,angle] of person 2 is: [very far,None]
+person 3 is at middle_down
+The [distance,angle] of person 3 is: [very far,slightly to the right]
+car 4 is at left_down
+<V> car 4 is at [1.3168335e-01 4.6725439e+02 1.1441738e+02 6.5037915e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[1031.812    242.30466 1169.9578   491.85776]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[303.67496 290.79614 363.30222 497.64764]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[394.5329  317.30664 468.0047  461.09857]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[695.58356 243.58609 769.0805  498.1143 ]
+INFO of frame 0058:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at right_down
+The [distance,angle] of person 0 is: [very far,far to the right]
+person 1 is at middle_down
+The [distance,angle] of person 1 is: [very far,None]
+person 2 is at left_down
+The [distance,angle] of person 2 is: [very far,None]
+person 3 is at middle_down
+The [distance,angle] of person 3 is: [very far,to the right]
+car 4 is at left_down
+<V> car 4 is at [1.5830612e-01 4.6726440e+02 1.1416734e+02 6.5050879e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[1128.8821   238.02847 1237.7642   485.80612]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[450.03604 311.09283 535.36194 460.08026]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[388.35556 283.92725 460.72183 494.2417 ]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[802.0237  240.37894 866.63403 492.50027]
+INFO of frame 0059:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at right_down
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at middle_down
+The [distance,angle] of person 1 is: [very far,None]
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,far to the right]
+person 3 is at middle_down
+The [distance,angle] of person 3 is: [very far,None]
+car 4 is at left_down
+<V> car 4 is at [1.25522614e-01 4.67207062e+02 1.14104126e+02 6.50483398e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[903.91095 235.5731  974.79926 485.62433]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[480.4392  277.0202  540.77637 488.85492]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[1206.3738   235.41895 1279.7366   475.0562 ]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[536.68317 313.16418 614.5495  460.21106]
+INFO of frame 0060:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at middle_down
+The [distance,angle] of person 1 is: [very far,None]
+person 2 is at middle_down
+The [distance,angle] of person 2 is: [very far,slightly to the right]
+car 3 is at left_down
+<V> car 3 is at [1.9776917e-01 4.6688071e+02 1.1402800e+02 6.5048859e+02] <VE> 
+car 4 is at left_up
+<V> car 4 is at [244.8422  251.76233 440.9294  316.60303] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[ 996.03436  229.7977  1084.1432   487.76443]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[566.1648  270.26736 640.8882  485.76596]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[659.6784  309.47546 721.3687  461.55774]
+INFO of frame 0061:
+road 0 is at middle_down
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,far to the right]
+person 1 is at middle_down
+The [distance,angle] of person 1 is: [very far,slightly to the right]
+person 2 is at middle_down
+The [distance,angle] of person 2 is: [very far,slightly to the right]
+Person 0 is on the road 0, his/her bbox is[1103.8467   225.99883 1192.8091   482.37494]
+Person 1 is on the road 0, his/her bbox is[730.324   310.86896 803.8491  457.95276]
+Person 2 is on the road 0, his/her bbox is[656.8811  263.5733  728.42554 482.31848]
+INFO of frame 0062:
+road 0 is at middle_down
+sidewalk 1 is at middle_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,far to the right]
+person 1 is at middle_down
+The [distance,angle] of person 1 is: [very far,to the right]
+person 2 is at middle_down
+The [distance,angle] of person 2 is: [very far,slightly to the right]
+car 3 is at right_up
+<V> car 3 is at [1057.1733   228.70131 1254.6646   299.38123] <VE> 
+car 4 is at left_down
+<V> car 4 is at [1.6918182e-01 4.6682001e+02 1.1430222e+02 6.5081012e+02] <VE> 
+car 5 is at left_up
+<V> car 5 is at [2.3176575e-01 2.5284106e+02 2.6847662e+02 3.5477698e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[1191.7279   221.04767 1279.8251   480.6933 ]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[772.63995 305.6059  845.4843  459.2094 ]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[745.99817 264.17566 825.3933  483.95697]
+INFO of frame 0063:
+road 0 is at middle_down
+car 0 is at left_down
+<V> car 0 is at [1.84780121e-01 4.67194092e+02 1.14326935e+02 6.50820557e+02] <VE> 
+person 1 is at right_down
+The [distance,angle] of person 1 is: [very far,to the right]
+car 2 is at right_up
+<V> car 2 is at [1041.0115   229.51613 1269.8472   300.29688] <VE> 
+Person 1 is on the road 0, his/her bbox is[837.99896 253.24887 920.6873  474.97794]
+INFO of frame 0064:
+road 0 is at middle_down
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,far to the right]
+person 1 is at right_down
+The [distance,angle] of person 1 is: [very far,to the right]
+car 2 is at left_down
+<V> car 2 is at [2.1559906e-01 4.6705481e+02 1.1424868e+02 6.5102332e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[1175.0393   220.35071 1272.5142   400.40942]
+Person 1 is on the road 0, his/her bbox is[ 933.58325  247.23822 1017.80786  473.5868 ]
+INFO of frame 0065:
+road 0 is at middle_down
+sidewalk 1 is at middle_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,far to the right]
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,to the right]
+person 3 is at middle_up
+The [distance,angle] of person 3 is: [very close,straight ahead]
+car 4 is at left_down
+<V> car 4 is at [2.2495651e-01 4.6724951e+02 1.1429741e+02 6.5060815e+02] <VE> 
+car 5 is at left_up
+<V> car 5 is at [1.9073486e-01 2.5978784e+02 1.0322148e+02 3.0993463e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[1028.532    241.733   1125.5515   472.16592]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[1104.0201   223.17917 1197.3365   400.86124]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[ 942.2867   288.5211  1007.27985  429.1359 ]
+Person 3 is on the road 0, sidewalk 1, his/her bbox is[645.5704  254.73387 673.8034  300.84552]
+INFO of frame 0066:
+road 0 is at middle_down
+sidewalk 1 is at middle_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,far to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+person 2 is at middle_up
+The [distance,angle] of person 2 is: [very far,straight ahead]
+car 3 is at left_down
+<V> car 3 is at [1.9491959e-01 4.6730295e+02 1.1438107e+02 6.5052393e+02] <VE> 
+person 4 is at left_up
+The [distance,angle] of person 4 is: [very close,None]
+person 5 is at right_up
+The [distance,angle] of person 5 is: [very close,to the right]
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[1127.5723   237.01567 1200.8381   469.69226]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[1003.7007   229.52133 1123.5637   401.90384]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[625.3117  256.26367 652.83307 301.6579 ]
+Person 4 is on the road 0, sidewalk 1, his/her bbox is[303.0003  252.1005  317.80554 292.65518]
+Person 5 is on the road 0, sidewalk 1, his/her bbox is[ 958.46387  288.82593 1021.7645   427.79047]
+INFO of frame 0067:
+road 0 is at middle_down
+sidewalk 1 is at middle_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,far to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+person 2 is at right_up
+The [distance,angle] of person 2 is: [very far,to the right]
+person 3 is at middle_up
+The [distance,angle] of person 3 is: [very close,straight ahead]
+car 4 is at left_down
+<V> car 4 is at [2.2423553e-01 4.6689288e+02 1.1417985e+02 6.5097675e+02] <VE> 
+car 5 is at left_up
+<V> car 5 is at [1.8143463e-01 2.6132971e+02 2.1573529e+02 3.4639343e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[1214.573    235.66783 1279.8625   463.82025]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[ 964.15985  288.18365 1064.7316   428.32916]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[ 935.1948   230.56592 1016.67725  401.89612]
+Person 3 is on the road 0, his/her bbox is[601.7389  251.90808 631.03503 303.71295]
+INFO of frame 0068:
+road 0 is at middle_down
+sidewalk 1 is at middle_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,to the right]
+person 2 is at middle_up
+The [distance,angle] of person 2 is: [very far,None]
+car 3 is at left_down
+<V> car 3 is at [1.8141556e-01 4.6697113e+02 1.1424133e+02 6.5069403e+02] <VE> 
+car 4 is at left_up
+<V> car 4 is at [ 22.032272 262.3029   299.88898  346.71426 ] <VE> 
+car 5 is at right_up
+<V> car 5 is at [1015.09283  230.44827 1240.1877   301.72897] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[1069.9138   282.37927 1141.1526   424.04156]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[874.909   231.99667 956.2692  405.69333]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[584.4273  256.41037 609.40436 304.5087 ]
+INFO of frame 0069:
+road 0 is at middle_down
+sidewalk 1 is at middle_up
+person 0 is at right_up
+The [distance,angle] of person 0 is: [very far,to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,far to the right]
+person 2 is at middle_up
+The [distance,angle] of person 2 is: [very far,None]
+car 3 is at left_down
+<V> car 3 is at [2.27596283e-01 4.67096802e+02 1.14190475e+02 6.50529541e+02] <VE> 
+car 4 is at left_up
+<V> car 4 is at [100.86688 261.029   374.1981  345.11047] <VE> 
+car 5 is at right_up
+<V> car 5 is at [1012.9667   230.45134 1238.0126   302.20697] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[826.6354  239.15036 881.79016 406.30508]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[1131.119    281.08386 1193.3365   426.28656]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[562.8953  251.05971 588.1694  305.5647 ]
+INFO of frame 0070:
+road 0 is at middle_down
+sidewalk 1 is at middle_up
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [very far,slightly to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [very far,far to the right]
+person 2 is at middle_up
+The [distance,angle] of person 2 is: [very far,None]
+car 3 is at left_up
+<V> car 3 is at [177.44212 259.4757  446.71216 342.3943 ] <VE> 
+car 4 is at left_down
+<V> car 4 is at [1.66412354e-01 4.67095306e+02 1.14283424e+02 6.50499268e+02] <VE> 
+car 5 is at left_up
+<V> car 5 is at [2.0882797e-01 2.5971432e+02 1.0293788e+02 3.0985904e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[760.8343  245.16699 820.6182  416.23364]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[1160.2894   278.9317  1237.7074   430.20825]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[543.2992  252.86717 566.0724  305.40692]
+INFO of frame 0071:
+road 0 is at middle_down
+sidewalk 1 is at middle_down
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [far,slightly to the right]
+person 1 is at right_up
+The [distance,angle] of person 1 is: [far,far to the right]
+car 2 is at left_down
+<V> car 2 is at [1.6760254e-01 4.6711209e+02 1.1413905e+02 6.5084705e+02] <VE> 
+car 3 is at left_up
+<V> car 3 is at [255.4569  257.1162  517.65906 341.37012] <VE> 
+car 4 is at left_up
+<V> car 4 is at [1.7139053e-01 2.5980884e+02 1.0284233e+02 3.0993469e+02] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[692.62524 242.10938 778.90015 421.25098]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[1217.1047   277.49527 1279.8201   434.3524 ]
+INFO of frame 0072:
+road 0 is at middle_down
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [far,straight ahead]
+car 1 is at left_down
+<V> car 1 is at [1.5018463e-01 4.6750510e+02 1.1418559e+02 6.5036792e+02] <VE> 
+car 2 is at right_up
+<V> car 2 is at [1004.30096  230.7077  1223.1796   304.1048 ] <VE> 
+Person 0 is on the road 0, his/her bbox is[621.0197  245.46835 718.0816  435.44327]
+INFO of frame 0073:
+road 0 is at middle_down
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at left_down
+<V> car 1 is at [2.07897186e-01 4.67123566e+02 1.14109344e+02 6.50618286e+02] <VE> 
+car 2 is at right_up
+<V> car 2 is at [1000.8001   231.19519 1217.1276   304.66028] <VE> 
+Person 0 is on the road 0, his/her bbox is[542.75964 252.22952 656.83826 440.106  ]
+INFO of frame 0074:
+road 0 is at middle_down
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at right_up
+<V> car 1 is at [ 999.1767   231.22992 1207.2035   305.41937] <VE> 
+car 2 is at left_down
+<V> car 2 is at [1.83929443e-01 4.67219360e+02 1.14523605e+02 6.50840454e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[474.73413 256.70966 572.911   451.73596]
+INFO of frame 0075:
+road 0 is at middle_down
+person 0 is at middle_up
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at right_up
+<V> car 1 is at [ 996.965    231.07669 1201.4174   306.49374] <VE> 
+car 2 is at left_down
+<V> car 2 is at [1.5612030e-01 4.6720547e+02 1.1441935e+02 6.5065479e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[390.97913 258.00522 493.76886 458.94528]
+INFO of frame 0076:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+car 1 is at right_up
+<V> car 1 is at [ 996.573    231.49594 1195.5059   307.10434] <VE> 
+car 2 is at left_down
+<V> car 2 is at [2.17758179e-01 4.67232056e+02 1.14367584e+02 6.50280151e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[317.36957 261.60544 403.9591  470.51804]
+INFO of frame 0077:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at middle_up
+The [distance,angle] of person 1 is: [very far,None]
+car 2 is at left_down
+<V> car 2 is at [2.6264191e-01 4.6668564e+02 1.1391038e+02 6.5074292e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[231.2463  269.77942 336.1224  480.6931 ]
+Person 1 is on the road 0, his/her bbox is[493.93768 256.04028 510.5426  300.536  ]
+INFO of frame 0078:
+road 0 is at middle_down
+sidewalk 1 is at middle_up
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,None]
+person 1 is at middle_up
+The [distance,angle] of person 1 is: [very far,None]
+person 2 is at left_up
+The [distance,angle] of person 2 is: [very far,far to the left]
+car 3 is at left_up
+<V> car 3 is at [2.50846863e-01 2.59885010e+02 1.02898674e+02 3.09990967e+02] <VE> 
+car 4 is at left_down
+<V> car 4 is at [2.0397568e-01 4.6748050e+02 1.1442062e+02 6.5071649e+02] <VE> 
+car 5 is at right_up
+<V> car 5 is at [ 995.8036   235.77104 1093.17     308.82245] <VE> 
+Person 0 is on the road 0, sidewalk 1, his/her bbox is[159.53566 279.03076 261.87866 484.79303]
+Person 1 is on the road 0, sidewalk 1, his/her bbox is[495.59647 271.87637 512.3722  302.3799 ]
+Person 2 is on the road 0, sidewalk 1, his/her bbox is[1.00830555e-01 2.84611603e+02 1.48543663e+01 3.97021515e+02]
+INFO of frame 0079:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,far to the left]
+car 1 is at right_up
+<V> car 1 is at [ 996.7839   231.49976 1178.5845   309.1117 ] <VE> 
+car 2 is at left_down
+<V> car 2 is at [1.82861328e-01 4.66840454e+02 1.14098755e+02 6.50629761e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[ 45.20616 284.05396 192.58484 488.94855]
+INFO of frame 0080:
+road 0 is at middle_down
+person 0 is at left_down
+The [distance,angle] of person 0 is: [very far,far to the left]
+person 1 is at middle_up
+The [distance,angle] of person 1 is: [very far,None]
+car 2 is at left_down
+<V> car 2 is at [2.0040894e-01 4.6707809e+02 1.1456991e+02 6.5045020e+02] <VE> 
+Person 0 is on the road 0, his/her bbox is[1.8609238e-01 2.7687549e+02 9.5665207e+01 4.8217407e+02]
+Person 1 is on the road 0, his/her bbox is[506.0951  259.99167 527.41956 305.28104]
