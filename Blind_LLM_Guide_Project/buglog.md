@@ -1,3 +1,5 @@
+Bug log 
+1. misunderstand the yolo detection format
 
                 # ### my code ------
                 # for _, confidence, class_id, tracker_id in detections:
