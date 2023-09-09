@@ -1,0 +1,88 @@
+{
+    "周儒": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "徐杨丽": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    }
+}

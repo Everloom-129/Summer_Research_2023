@@ -1,0 +1,494 @@
+{
+    "段景辉": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 1,
+                "car_correct_times": 0,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "黄惠铭": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "黄梦怡": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "刘鹤璐": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "徐杨丽": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "田锐抒": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "达吾列提别克": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "杜力": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "于紫琪": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "金亚霏": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "魏瑜均": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "宫宇航": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "何嘉好": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "郝思嘉": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "张煜婷": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "薛嘉涵": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "陈昕冉": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "姜昕彤": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "胡钰婕": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "周禾嘉": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "朱一铭": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "汪靖姗": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "郭姝含": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "陈紫甜": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "高帅": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "刘佳": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "周佳": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "蒋笑阳": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "徐盛南": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "徐宇凡": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "王子宸": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "吴易轩": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "周儒": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "王嘉": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "邓子昊": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "王程业": {
+        "不使用平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "楼瀚予": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "熊文逸": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "刘伟": {
+        "单风险平视显示器": {
+            "test": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "侯建华 ": {
+        "双风险平视显示器": {
+            "test": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "NaN": {
+        "NaN": {
+            "test": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 0,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    }
+}

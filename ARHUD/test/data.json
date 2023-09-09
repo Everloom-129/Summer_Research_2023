@@ -1,0 +1,914 @@
+{
+    "周儒": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_03b8完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": NaN,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 0
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 0
+        }
+    },
+    "徐杨丽": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_03b8完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.0,
+            "car_correct_ratio": 3,
+            "other_correct_ratio": 2
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0bb4完成"
+            ],
+            "person_correct_ratio": 0.67,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 0
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "陈紫甜": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_03b8完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 3,
+            "other_correct_ratio": 2
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0bb4完成"
+            ],
+            "person_correct_ratio": 0.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 0
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        }
+    },
+    "田锐抒": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_03b8完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.0,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 3
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0bb4完成"
+            ],
+            "person_correct_ratio": 0.33,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "金亚霏": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_03b8完成",
+                "实验安排_87bd短完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 3.5,
+            "car_correct_ratio": 4,
+            "other_correct_ratio": 3
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0bb4完成"
+            ],
+            "person_correct_ratio": 0.67,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "高帅": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_03b8完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0bb4完成"
+            ],
+            "person_correct_ratio": 0.33,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        }
+    },
+    "刘佳": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.33,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 0
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        }
+    },
+    "周佳": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.33,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 2
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "段景辉": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.92,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 2
+        }
+    },
+    "刘伟": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 0
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 0
+        }
+    },
+    "王嘉": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.75,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        }
+    },
+    "魏瑜均": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.67,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 2
+        }
+    },
+    "宫宇航": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.83,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "黄惠铭": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.92,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 2
+        }
+    },
+    "何嘉好": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.33,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        }
+    },
+    "达吾列提别克": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.42,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 3
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        }
+    },
+    "郝思嘉": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.25,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 2
+        }
+    },
+    "张煜婷": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.75,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        }
+    },
+    "杜力": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.25,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.25,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "邓子昊": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 0.5800000000000001,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        }
+    },
+    "薛嘉涵": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.0,
+            "car_correct_ratio": 3,
+            "other_correct_ratio": 2
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        }
+    },
+    "陈昕冉": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.0,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 3
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        }
+    },
+    "黄梦怡": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 3.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 2
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "蒋笑阳": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.83,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        }
+    },
+    "姜昕彤": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.75,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "王程业": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.42,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "徐盛南": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.67,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "徐宇凡": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.83,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 0
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        }
+    },
+    "于紫琪": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成"
+            ],
+            "person_correct_ratio": 1.25,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 0
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd短完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 2.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 3
+        }
+    },
+    "侯建华": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成"
+            ],
+            "person_correct_ratio": 1.33,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 2
+        }
+    },
+    "胡钰婕": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.33,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        }
+    },
+    "周禾嘉": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.33,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        }
+    },
+    "王子宸": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.33,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.25,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        }
+    },
+    "朱一铭": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.08,
+            "car_correct_ratio": 3,
+            "other_correct_ratio": 3
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        }
+    },
+    "楼瀚予": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.25,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        }
+    },
+    "刘鹤璐": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.67,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 2
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 0.5,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        }
+    },
+    "汪靖姗": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.33,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 2
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "吴易轩": {
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 2.08,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 2
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "郭姝含": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 2,
+            "other_correct_ratio": 1
+        },
+        "不使用平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "熊文逸": {
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0194完成",
+                "实验安排_0bb4完成",
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.08,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 0
+        },
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        }
+    },
+    "纪子欣": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_03b8完成",
+                "实验安排_87bd长完成"
+            ],
+            "person_correct_ratio": 1.5,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 1
+        },
+        "单风险平视显示器": {
+            "src": [
+                "实验安排_0bb4完成"
+            ],
+            "person_correct_ratio": 0.33,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 1
+        }
+    },
+    "侯建华 ": {
+        "双风险平视显示器": {
+            "src": [
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 1.0,
+            "car_correct_ratio": 1,
+            "other_correct_ratio": 0
+        }
+    },
+    "NaN": {
+        "NaN": {
+            "src": [
+                "实验安排_87bd短完成"
+            ],
+            "person_correct_ratio": 0.0,
+            "car_correct_ratio": 0,
+            "other_correct_ratio": 0
+        }
+    }
+}

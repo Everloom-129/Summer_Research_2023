@@ -1,0 +1,53 @@
+import json
+
+def calculate_avg_ratios(input_filepath, output_filepath):
+    # 从JSON文件中读取data_dict
+    with open(input_filepath, 'r', encoding='utf-8') as file:
+        data_dict = json.load(file)
+
+    # 遍历data_dict来计算平均正确率
+    for name in data_dict:
+        print(name)
+        for hud_type in data_dict[name]:
+            print(f"__{hud_type}")
+            # 初始化变量来存储累计的正确次数和问题总数
+            total_correct_times = {'person': [], 'car': [], 'other': [], 'all': []}
+            total_questions = {'person': [], 'car': [], 'other': [], 'all': []}
+            # 用于存储每个问卷的正确率
+            ratios = {'person': [], 'car': [], 'other': [], 'all': []}
+            #===video===#
+            for i, src in enumerate(data_dict[name][hud_type]):
+ 
+
+                # 累加正确次数和问题总数
+                for category in ['person', 'car', 'other']:
+                    total_correct_times[category].append( data_dict[name][hud_type][src][f'{category}_correct_times'] )
+                                                          
+                    total_questions[category].append(     data_dict[name][hud_type][src][f'{category}_total'] )
+
+                    # 计算并存储每个问卷的正确率
+                    ratios[category].append(data_dict[name][hud_type][src][f'{category}_correct_times'] / data_dict[name][hud_type][src][f'{category}_total'])
+
+                # 计算和存储“all”类别的正确次数和问题总数
+                total_correct_times['all'].append( sum(data_dict[name][hud_type][src][f'{category}_correct_times'] for category in ['person', 'car', 'other']) )
+                total_questions['all'].append(     sum(data_dict[name][hud_type][src][f'{category}_total'] for category in ['person', 'car', 'other']) )
+                
+                ratios['all'].append(total_correct_times['all'][i] / total_questions['all'][i])
+            #===video===#
+          
+            print(ratios)
+            # 计算两种类型的平均正确率
+            avg_ratio1 = {category: round(sum(ratios[category]) / len(ratios[category]),3) for category in ['person', 'car', 'other', 'all']}
+
+            avg_ratio2 = {category: round(sum(total_correct_times[category]) / sum(total_questions[category],3)) for category in ['person', 'car', 'other', 'all']}
+
+            # 将平均正确率存储到新的键中
+            data_dict[name][hud_type]['avg_ratio1'] = avg_ratio1
+            data_dict[name][hud_type]['avg_ratio2'] = avg_ratio2
+            
+    # 保存更新后的data_dict
+    with open(output_filepath, 'w', encoding='utf-8') as json_file:
+        json.dump(data_dict, json_file, ensure_ascii=False, indent=4)
+
+# 使用函数
+calculate_avg_ratios('input_3/test_dict.json', 'input_3/test_output.json')

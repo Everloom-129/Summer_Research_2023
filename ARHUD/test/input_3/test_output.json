@@ -1,0 +1,148 @@
+{
+    "周儒": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "avg_ratio1": {
+                "person": 0.167,
+                "car": 0.556,
+                "other": 0.361,
+                "all": 0.381
+            },
+            "avg_ratio2": {
+                "person": 0.0,
+                "car": 0.0,
+                "other": 0.333,
+                "all": 0.2
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "avg_ratio1": {
+                "person": 1.0,
+                "car": 0.333,
+                "other": 0.5,
+                "all": 0.556
+            },
+            "avg_ratio2": {
+                "person": 1.0,
+                "car": 0.333,
+                "other": 0.5,
+                "all": 0.556
+            }
+        }
+    },
+    "徐杨丽": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "avg_ratio1": {
+                "person": 0.667,
+                "car": 0.889,
+                "other": 0.694,
+                "all": 0.726
+            },
+            "avg_ratio2": {
+                "person": 0.0,
+                "car": 1.0,
+                "other": 0.833,
+                "all": 0.7
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "avg_ratio1": {
+                "person": 0.667,
+                "car": 0.75,
+                "other": 0.4,
+                "all": 0.583
+            },
+            "avg_ratio2": {
+                "person": 0.667,
+                "car": 0.75,
+                "other": 0.4,
+                "all": 0.583
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "avg_ratio1": {
+                "person": 0.5,
+                "car": 0.667,
+                "other": 1.0,
+                "all": 0.778
+            },
+            "avg_ratio2": {
+                "person": 0.5,
+                "car": 0.667,
+                "other": 1.0,
+                "all": 0.778
+            }
+        }
+    }
+}

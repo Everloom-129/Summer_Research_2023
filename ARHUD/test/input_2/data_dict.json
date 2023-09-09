@@ -1,0 +1,1890 @@
+{
+    "周儒": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "徐杨丽": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "陈紫甜": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_0bb4完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 4,
+                "other_correct_times": 1,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "田锐抒": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 5,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "金亚霏": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 4,
+                "other_correct_times": 5,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        }
+    },
+    "高帅": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 0,
+                "other_correct_times": 4,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "刘佳": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 4,
+                "other_correct_times": 1,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "周佳": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "段景辉": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 0,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "刘伟": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "王嘉": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "魏瑜均": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 0,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "宫宇航": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 0,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "黄惠铭": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "何嘉好": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "达吾列提别克": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "郝思嘉": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 1,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "张煜婷": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "杜力": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 1,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "邓子昊": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "薛嘉涵": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 4,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "陈昕冉": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "黄梦怡": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "蒋笑阳": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 1,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "姜昕彤": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "王程业": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 5,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "徐盛南": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 1,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "徐宇凡": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "于紫琪": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 3,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 1,
+                "other_correct_times": 1,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "侯建华": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 3,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "胡钰婕": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "周禾嘉": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "王子宸": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 4,
+                "other_correct_times": 3,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "朱一铭": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 4,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "楼瀚予": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 3,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 0,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 0,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "刘鹤璐": {
+        "双风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 6,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 5,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "汪靖姗": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 3,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "吴易轩": {
+        "不使用平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 0,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "郭姝含": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 3,
+                "car_correct_times": 3,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 4,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "熊文逸": {
+        "单风险平视显示器": {
+            "实验安排_0194完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 1,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            },
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 2,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            },
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 1,
+                "other_correct_times": 2,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        }
+    },
+    "纪子欣": {
+        "双风险平视显示器": {
+            "实验安排_03b8完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 2,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            },
+            "实验安排_87bd长完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 1,
+                "other_correct_times": 3,
+                "person_total": 2,
+                "car_total": 3,
+                "other_total": 4
+            }
+        },
+        "单风险平视显示器": {
+            "实验安排_0bb4完成": {
+                "person_correct_times": 1,
+                "car_correct_times": 0,
+                "other_correct_times": 3,
+                "person_total": 3,
+                "car_total": 4,
+                "other_total": 5
+            }
+        }
+    },
+    "侯建华 ": {
+        "双风险平视显示器": {
+            "实验安排_87bd短完成": {
+                "person_correct_times": 2,
+                "car_correct_times": 2,
+                "other_correct_times": 1,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    },
+    "NaN": {
+        "NaN": {
+            "实验安排_87bd短完成": {
+                "person_correct_times": 0,
+                "car_correct_times": 0,
+                "other_correct_times": 0,
+                "person_total": 2,
+                "car_total": 2,
+                "other_total": 6
+            }
+        }
+    }
+}
