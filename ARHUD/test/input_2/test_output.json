@@ -48,6 +48,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.312,
+                "car": 0.528,
+                "other": 0.331,
+                "all": 0.408
             }
         },
         "单风险平视显示器": {
@@ -82,6 +88,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.875,
+                "car": 0.833,
+                "other": 0.7,
+                "all": 0.763
             }
         },
         "双风险平视显示器": {
@@ -116,6 +128,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.562,
+                "car": 0.625,
+                "other": 0.457,
+                "all": 0.531
             }
         }
     },
@@ -160,6 +178,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.65,
+                "car": 0.633,
+                "other": 0.637,
+                "all": 0.626
             }
         },
         "不使用平视显示器": {
@@ -202,6 +226,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.55,
+                "car": 0.267,
+                "other": 0.68,
+                "all": 0.588
             }
         },
         "单风险平视显示器": {
@@ -244,6 +274,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.233,
+                "car": 0.35,
+                "other": 0.623,
+                "all": 0.504
             }
         }
     },
@@ -288,6 +324,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.5,
+                "car": 0.833,
+                "other": 0.5,
+                "all": 0.58
             }
         },
         "双风险平视显示器": {
@@ -330,6 +372,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.667,
+                "car": 0.4,
+                "other": 0.463,
+                "all": 0.513
             }
         },
         "单风险平视显示器": {
@@ -372,6 +420,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.35,
+                "car": 0.7,
+                "other": 0.434,
+                "all": 0.508
             }
         }
     },
@@ -416,6 +470,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.6,
+                "car": 0.7,
+                "other": 0.72,
+                "all": 0.7
             }
         },
         "双风险平视显示器": {
@@ -458,6 +518,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.883,
+                "car": 0.267,
+                "other": 0.673,
+                "all": 0.666
             }
         },
         "不使用平视显示器": {
@@ -500,6 +566,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.767,
+                "car": 0.45,
+                "other": 0.754,
+                "all": 0.692
             }
         }
     },
@@ -576,6 +648,12 @@
                 "person_total": 2.0,
                 "car_total": 3.0,
                 "other_total": 4.0
+            },
+            "avg_ratio1": {
+                "person": 0.625,
+                "car": 0.815,
+                "other": 0.581,
+                "all": 0.645
             }
         },
         "双风险平视显示器": {
@@ -618,6 +696,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.633,
+                "car": 0.7,
+                "other": 0.823,
+                "all": 0.768
             }
         },
         "不使用平视显示器": {
@@ -628,6 +712,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 1.0,
+                "car": 0.0,
+                "other": 0.833,
+                "all": 0.778
             }
         }
     },
@@ -672,6 +762,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.5,
+                "other": 0.507,
+                "all": 0.566
             }
         },
         "单风险平视显示器": {
@@ -706,6 +802,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.375,
+                "car": 0.25,
+                "other": 0.621,
+                "all": 0.497
             }
         },
         "不使用平视显示器": {
@@ -756,6 +858,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.486,
+                "car": 0.417,
+                "other": 0.706,
+                "all": 0.599
             }
         }
     },
@@ -800,6 +908,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.467,
+                "car": 0.5,
+                "other": 0.413,
+                "all": 0.476
             }
         },
         "双风险平视显示器": {
@@ -842,6 +956,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.667,
+                "car": 0.433,
+                "other": 0.466,
+                "all": 0.528
             }
         },
         "单风险平视显示器": {
@@ -884,6 +1004,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.525,
+                "car": 0.433,
+                "other": 0.6,
+                "all": 0.566
             }
         }
     },
@@ -920,6 +1046,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.458,
+                "car": 0.75,
+                "other": 0.546,
+                "all": 0.572
             }
         },
         "单风险平视显示器": {
@@ -970,6 +1102,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.417,
+                "car": 0.528,
+                "other": 0.762,
+                "all": 0.658
             }
         },
         "双风险平视显示器": {
@@ -1012,6 +1150,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.525,
+                "car": 0.367,
+                "other": 0.39,
+                "all": 0.439
             }
         }
     },
@@ -1056,6 +1200,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.633,
+                "car": 0.383,
+                "other": 0.687,
+                "all": 0.602
             }
         },
         "双风险平视显示器": {
@@ -1098,6 +1248,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.817,
+                "car": 0.4,
+                "other": 0.756,
+                "all": 0.699
             }
         },
         "不使用平视显示器": {
@@ -1140,6 +1296,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.7,
+                "car": 0.433,
+                "other": 0.757,
+                "all": 0.704
             }
         }
     },
@@ -1184,6 +1346,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.7,
+                "car": 0.55,
+                "other": 0.327,
+                "all": 0.453
             }
         },
         "不使用平视显示器": {
@@ -1226,6 +1394,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.65,
+                "car": 0.467,
+                "other": 0.557,
+                "all": 0.562
             }
         },
         "双风险平视显示器": {
@@ -1268,6 +1442,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.6,
+                "car": 0.467,
+                "other": 0.5,
+                "all": 0.536
             }
         }
     },
@@ -1312,6 +1492,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.617,
+                "other": 0.49,
+                "all": 0.578
             }
         },
         "不使用平视显示器": {
@@ -1354,6 +1540,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.5,
+                "car": 0.533,
+                "other": 0.534,
+                "all": 0.547
             }
         },
         "单风险平视显示器": {
@@ -1396,6 +1588,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.4,
+                "car": 0.533,
+                "other": 0.527,
+                "all": 0.531
             }
         }
     },
@@ -1440,6 +1638,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.883,
+                "car": 0.45,
+                "other": 0.363,
+                "all": 0.509
             }
         },
         "单风险平视显示器": {
@@ -1482,6 +1686,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.733,
+                "car": 0.733,
+                "other": 0.484,
+                "all": 0.601
             }
         },
         "不使用平视显示器": {
@@ -1524,6 +1734,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.7,
+                "car": 0.567,
+                "other": 0.803,
+                "all": 0.724
             }
         }
     },
@@ -1568,6 +1784,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.567,
+                "car": 0.483,
+                "other": 0.5,
+                "all": 0.524
             }
         },
         "双风险平视显示器": {
@@ -1610,6 +1832,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.833,
+                "car": 0.533,
+                "other": 0.683,
+                "all": 0.702
             }
         },
         "单风险平视显示器": {
@@ -1652,6 +1880,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.5,
+                "car": 0.633,
+                "other": 0.697,
+                "all": 0.647
             }
         }
     },
@@ -1696,6 +1930,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.583,
+                "car": 0.55,
+                "other": 0.623,
+                "all": 0.612
             }
         },
         "单风险平视显示器": {
@@ -1738,6 +1978,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.617,
+                "car": 0.533,
+                "other": 0.53,
+                "all": 0.57
             }
         },
         "双风险平视显示器": {
@@ -1780,6 +2026,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.625,
+                "car": 0.567,
+                "other": 0.617,
+                "all": 0.608
             }
         }
     },
@@ -1824,6 +2076,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.367,
+                "car": 0.733,
+                "other": 0.49,
+                "all": 0.537
             }
         },
         "单风险平视显示器": {
@@ -1866,6 +2124,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.367,
+                "car": 0.533,
+                "other": 0.688,
+                "all": 0.607
             }
         },
         "双风险平视显示器": {
@@ -1908,6 +2172,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.525,
+                "car": 0.633,
+                "other": 0.807,
+                "all": 0.714
             }
         }
     },
@@ -1952,6 +2222,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.433,
+                "car": 0.65,
+                "other": 0.69,
+                "all": 0.637
             }
         },
         "双风险平视显示器": {
@@ -1994,6 +2270,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.367,
+                "car": 0.533,
+                "other": 0.648,
+                "all": 0.576
             }
         },
         "不使用平视显示器": {
@@ -2036,6 +2318,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.625,
+                "car": 0.533,
+                "other": 0.64,
+                "all": 0.63
             }
         }
     },
@@ -2080,6 +2368,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.45,
+                "car": 1.183,
+                "other": 0.477,
+                "all": 0.676
             }
         },
         "不使用平视显示器": {
@@ -2122,6 +2416,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.817,
+                "car": 0.333,
+                "other": 0.654,
+                "all": 0.637
             }
         },
         "双风险平视显示器": {
@@ -2164,6 +2464,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.475,
+                "car": 0.267,
+                "other": 0.65,
+                "all": 0.541
             }
         }
     },
@@ -2208,6 +2514,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.45,
+                "car": 0.9,
+                "other": 0.553,
+                "all": 0.621
             }
         },
         "不使用平视显示器": {
@@ -2250,6 +2562,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.883,
+                "car": 0.133,
+                "other": 0.626,
+                "all": 0.584
             }
         },
         "单风险平视显示器": {
@@ -2292,6 +2610,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.775,
+                "car": 0.733,
+                "other": 0.583,
+                "all": 0.677
             }
         }
     },
@@ -2336,6 +2660,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.65,
+                "car": 0.583,
+                "other": 0.56,
+                "all": 0.616
             }
         },
         "单风险平视显示器": {
@@ -2378,6 +2708,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.717,
+                "car": 0.367,
+                "other": 0.561,
+                "all": 0.564
             }
         },
         "不使用平视显示器": {
@@ -2420,6 +2756,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.725,
+                "car": 0.567,
+                "other": 0.61,
+                "all": 0.624
             }
         }
     },
@@ -2464,6 +2806,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.317,
+                "car": 0.483,
+                "other": 0.547,
+                "all": 0.473
             }
         },
         "双风险平视显示器": {
@@ -2506,6 +2854,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.483,
+                "car": 0.4,
+                "other": 0.654,
+                "all": 0.585
             }
         },
         "单风险平视显示器": {
@@ -2548,6 +2902,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.825,
+                "car": 0.633,
+                "other": 0.487,
+                "all": 0.61
             }
         }
     },
@@ -2592,6 +2952,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.7,
+                "car": 1.0,
+                "other": 0.64,
+                "all": 0.75
             }
         },
         "单风险平视显示器": {
@@ -2634,6 +3000,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.667,
+                "car": 0.5,
+                "other": 0.773,
+                "all": 0.732
             }
         },
         "双风险平视显示器": {
@@ -2676,6 +3048,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.525,
+                "car": 0.733,
+                "other": 0.59,
+                "all": 0.617
             }
         }
     },
@@ -2720,6 +3098,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.6,
+                "car": 0.667,
+                "other": 0.583,
+                "all": 0.608
             }
         },
         "双风险平视显示器": {
@@ -2762,6 +3146,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.883,
+                "car": 0.433,
+                "other": 0.688,
+                "all": 0.692
             }
         },
         "不使用平视显示器": {
@@ -2804,6 +3194,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.425,
+                "car": 0.533,
+                "other": 0.707,
+                "all": 0.632
             }
         }
     },
@@ -2848,6 +3244,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 1.0,
+                "car": 0.517,
+                "other": 0.773,
+                "all": 0.76
             }
         },
         "不使用平视显示器": {
@@ -2890,6 +3292,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.683,
+                "car": 0.533,
+                "other": 0.83,
+                "all": 0.752
             }
         },
         "双风险平视显示器": {
@@ -2932,6 +3340,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.6,
+                "car": 0.467,
+                "other": 0.68,
+                "all": 0.636
             }
         }
     },
@@ -2976,6 +3390,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.867,
+                "car": 0.65,
+                "other": 0.56,
+                "all": 0.655
             }
         },
         "不使用平视显示器": {
@@ -3018,6 +3438,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.5,
+                "car": 0.4,
+                "other": 0.659,
+                "all": 0.596
             }
         },
         "单风险平视显示器": {
@@ -3060,6 +3486,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.575,
+                "car": 0.533,
+                "other": 0.613,
+                "all": 0.628
             }
         }
     },
@@ -3104,6 +3536,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.65,
+                "car": 0.5,
+                "other": 0.45,
+                "all": 0.514
             }
         },
         "单风险平视显示器": {
@@ -3146,6 +3584,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.683,
+                "car": 0.733,
+                "other": 0.69,
+                "all": 0.71
             }
         },
         "不使用平视显示器": {
@@ -3188,6 +3632,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.4,
+                "car": 0.667,
+                "other": 0.633,
+                "all": 0.598
             }
         }
     },
@@ -3232,6 +3682,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.483,
+                "car": 0.617,
+                "other": 0.587,
+                "all": 0.569
             }
         },
         "双风险平视显示器": {
@@ -3274,6 +3730,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.85,
+                "car": 0.6,
+                "other": 0.67,
+                "all": 0.718
             }
         },
         "单风险平视显示器": {
@@ -3316,6 +3778,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.567,
+                "other": 0.617,
+                "all": 0.644
             }
         }
     },
@@ -3360,6 +3828,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.433,
+                "car": 0.617,
+                "other": 0.487,
+                "all": 0.52
             }
         },
         "双风险平视显示器": {
@@ -3402,6 +3876,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.525,
+                "car": 0.467,
+                "other": 0.527,
+                "all": 0.552
             }
         },
         "单风险平视显示器": {
@@ -3444,6 +3924,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.683,
+                "car": 0.6,
+                "other": 0.628,
+                "all": 0.645
             }
         }
     },
@@ -3488,6 +3974,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.567,
+                "car": 0.467,
+                "other": 0.477,
+                "all": 0.519
             }
         },
         "双风险平视显示器": {
@@ -3530,6 +4022,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.8,
+                "car": 0.533,
+                "other": 0.556,
+                "all": 0.638
             }
         },
         "不使用平视显示器": {
@@ -3572,6 +4070,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.6,
+                "car": 0.267,
+                "other": 0.647,
+                "all": 0.558
             }
         }
     },
@@ -3600,6 +4104,12 @@
                 "person_total": 3.0,
                 "car_total": 4.0,
                 "other_total": 5.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.528,
+                "other": 0.417,
+                "all": 0.539
             }
         },
         "不使用平视显示器": {
@@ -3650,6 +4160,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.681,
+                "car": 0.333,
+                "other": 0.836,
+                "all": 0.714
             }
         },
         "单风险平视显示器": {
@@ -3700,6 +4216,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.583,
+                "car": 0.611,
+                "other": 0.739,
+                "all": 0.67
             }
         }
     },
@@ -3736,6 +4258,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.458,
+                "car": 0.812,
+                "other": 0.675,
+                "all": 0.671
             }
         },
         "不使用平视显示器": {
@@ -3778,6 +4306,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.45,
+                "car": 0.667,
+                "other": 0.57,
+                "all": 0.556
             }
         },
         "单风险平视显示器": {
@@ -3804,6 +4338,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.5,
+                "other": 0.698,
+                "all": 0.689
             }
         }
     },
@@ -3848,6 +4388,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.567,
+                "car": 0.9,
+                "other": 0.673,
+                "all": 0.703
             }
         },
         "双风险平视显示器": {
@@ -3882,6 +4428,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.875,
+                "car": 0.333,
+                "other": 0.621,
+                "all": 0.61
             }
         },
         "单风险平视显示器": {
@@ -3924,6 +4476,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.575,
+                "car": 0.633,
+                "other": 0.56,
+                "all": 0.588
             }
         }
     },
@@ -3968,6 +4526,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.367,
+                "car": 0.833,
+                "other": 0.513,
+                "all": 0.561
             }
         },
         "单风险平视显示器": {
@@ -4010,6 +4574,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.917,
+                "car": 0.4,
+                "other": 0.858,
+                "all": 0.796
             }
         },
         "双风险平视显示器": {
@@ -4052,6 +4622,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.725,
+                "car": 0.533,
+                "other": 0.633,
+                "all": 0.654
             }
         }
     },
@@ -4096,6 +4672,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.567,
+                "car": 0.433,
+                "other": 0.597,
+                "all": 0.549
             }
         },
         "双风险平视显示器": {
@@ -4138,6 +4720,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.533,
+                "car": 0.3,
+                "other": 0.773,
+                "all": 0.654
             }
         },
         "不使用平视显示器": {
@@ -4180,6 +4768,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.525,
+                "car": 0.733,
+                "other": 0.813,
+                "all": 0.747
             }
         }
     },
@@ -4224,6 +4818,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.317,
+                "car": 0.783,
+                "other": 0.673,
+                "all": 0.622
             }
         },
         "不使用平视显示器": {
@@ -4266,6 +4866,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.667,
+                "car": 0.3,
+                "other": 0.841,
+                "all": 0.696
             }
         },
         "双风险平视显示器": {
@@ -4308,6 +4914,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.7,
+                "car": 0.733,
+                "other": 0.807,
+                "all": 0.771
             }
         }
     },
@@ -4352,6 +4964,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.65,
+                "car": 0.6,
+                "other": 0.557,
+                "all": 0.58
             }
         },
         "不使用平视显示器": {
@@ -4394,6 +5012,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.317,
+                "car": 0.333,
+                "other": 0.739,
+                "all": 0.564
             }
         },
         "单风险平视显示器": {
@@ -4436,6 +5060,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.55,
+                "car": 0.1,
+                "other": 0.59,
+                "all": 0.469
             }
         }
     },
@@ -4480,6 +5110,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.533,
+                "car": 0.45,
+                "other": 0.74,
+                "all": 0.634
             }
         },
         "单风险平视显示器": {
@@ -4522,6 +5158,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.733,
+                "car": 0.333,
+                "other": 0.649,
+                "all": 0.6
             }
         },
         "不使用平视显示器": {
@@ -4564,6 +5206,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.625,
+                "car": 0.367,
+                "other": 0.68,
+                "all": 0.606
             }
         }
     },
@@ -4608,6 +5256,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.367,
+                "car": 0.65,
+                "other": 0.51,
+                "all": 0.524
             }
         },
         "双风险平视显示器": {
@@ -4650,6 +5304,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.65,
+                "car": 0.6,
+                "other": 0.489,
+                "all": 0.561
             }
         },
         "单风险平视显示器": {
@@ -4692,6 +5352,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.25,
+                "car": 0.567,
+                "other": 0.647,
+                "all": 0.527
             }
         }
     },
@@ -4736,6 +5402,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.517,
+                "car": 0.567,
+                "other": 0.567,
+                "all": 0.547
             }
         },
         "单风险平视显示器": {
@@ -4770,6 +5442,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.25,
+                "other": 0.795,
+                "all": 0.669
             }
         },
         "双风险平视显示器": {
@@ -4812,6 +5490,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.625,
+                "car": 0.4,
+                "other": 0.787,
+                "all": 0.646
             }
         }
     },
@@ -4856,6 +5540,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.5,
+                "car": 0.45,
+                "other": 0.45,
+                "all": 0.482
             }
         },
         "双风险平视显示器": {
@@ -4898,6 +5588,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.9,
+                "car": 0.433,
+                "other": 0.654,
+                "all": 0.679
             }
         },
         "不使用平视显示器": {
@@ -4940,6 +5636,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.4,
+                "car": 0.333,
+                "other": 0.747,
+                "all": 0.6
             }
         }
     },
@@ -4984,6 +5686,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.417,
+                "car": 0.5,
+                "other": 0.417,
+                "all": 0.441
             }
         },
         "不使用平视显示器": {
@@ -5018,6 +5726,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.542,
+                "other": 0.643,
+                "all": 0.66
             }
         },
         "双风险平视显示器": {
@@ -5052,6 +5766,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.583,
+                "other": 0.571,
+                "all": 0.594
             }
         }
     },
@@ -5080,6 +5800,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.278,
+                "car": 0.333,
+                "other": 0.556,
+                "all": 0.444
             }
         },
         "不使用平视显示器": {
@@ -5122,6 +5848,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": 0.683,
+                "car": 0.6,
+                "other": 0.586,
+                "all": 0.63
             }
         },
         "双风险平视显示器": {
@@ -5164,6 +5896,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 0.75,
+                "car": 0.567,
+                "other": 0.69,
+                "all": 0.687
             }
         }
     },
@@ -5208,6 +5946,12 @@
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 7.0
+            },
+            "avg_ratio1": {
+                "person": NaN,
+                "car": NaN,
+                "other": NaN,
+                "all": NaN
             }
         }
     },
@@ -5220,6 +5964,12 @@
                 "person_total": 2.0,
                 "car_total": 3.0,
                 "other_total": 5.0
+            },
+            "avg_ratio1": {
+                "person": 0.0,
+                "car": 1.0,
+                "other": 0.6,
+                "all": 0.6
             }
         }
     },
@@ -5232,6 +5982,12 @@
                 "person_total": 3.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 1.0,
+                "car": 0.5,
+                "other": 0.667,
+                "all": 0.727
             }
         }
     },
@@ -5244,6 +6000,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 5.0
+            },
+            "avg_ratio1": {
+                "person": 0.25,
+                "car": 1.0,
+                "other": 1.0,
+                "all": 0.833
             }
         }
     },
@@ -5256,6 +6018,12 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
+            },
+            "avg_ratio1": {
+                "person": 1.0,
+                "car": 1.0,
+                "other": 0.167,
+                "all": 0.5
             }
         }
     }

@@ -51,3 +51,52 @@ def calculate_avg_ratios(input_filepath, output_filepath):
 
 # 使用函数
 calculate_avg_ratios('input_3/test_dict.json', 'input_3/test_output.json')
+
+
+
+# 首先从JSON文件中读取data_dict
+with open('input_2/data_dict.json', 'r', encoding='utf-8') as file:
+    data_dict = json.load(file)
+
+# 用于存储各个类别的总正确率和计数器的字典
+avg_ratio_dict = {}
+
+# 遍历data_dict来计算平均正确率
+for name in data_dict:
+    for hud_type in data_dict[name]:
+        
+        # 初始化总正确率和计数器
+        total_person_ratio = 0
+        total_all_ratio = 0
+        total_car_ratio = 0
+        total_other_ratio = 0
+        count = 0
+        
+        for src in data_dict[name][hud_type]:
+            
+            # 累计各个类别的正确率
+            total_person_ratio += data_dict[name][hud_type][src]['person_correct_ratio']
+            total_car_ratio += data_dict[name][hud_type][src]['car_correct_ratio']
+            total_other_ratio += data_dict[name][hud_type][src]['other_correct_ratio']
+            total_all_ratio += data_dict[name][hud_type][src]['person_correct_ratio'] + \
+                data_dict[name][hud_type][src]['other_correct_ratio'] + \
+                data_dict[name][hud_type][src]['car_correct_ratio']
+
+            count += 1
+        
+        # 计算平均正确率
+        avg_person_ratio = total_person_ratio / count
+        avg_car_ratio = total_car_ratio / count
+        avg_other_ratio = total_other_ratio / count
+        avg_all_ratio = total_all_ratio / count
+        # 将平均正确率存储到新的键中
+        data_dict[name][hud_type]['avg_ratio'] = {
+            'avg_person_ratio': round(avg_person_ratio, 2),
+            'avg_car_ratio': round(avg_car_ratio, 2),
+            'avg_other_ratio': round(avg_other_ratio, 2),
+            'avg_all_ratio': round(avg_all_ratio, 2)
+        }
+
+# 打印或保存更新后的data_dict
+with open('input_2/batch2_data_updated.json', 'w', encoding='utf-8') as json_file:
+    json.dump(data_dict, json_file, ensure_ascii=False, indent=4)

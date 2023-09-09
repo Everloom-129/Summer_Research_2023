@@ -1,14 +1,6 @@
 {
     "周儒": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 3.0,
@@ -17,34 +9,18 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 1.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
             },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 2.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -67,14 +43,6 @@
                 "car_total": 2.0,
                 "other_total": 6.0
             },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_fe0a短全完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
@@ -87,14 +55,6 @@
         "双风险平视显示器": {
             "实验安排_274e长完成": {
                 "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.0,
                 "car_correct_times": 2.0,
                 "other_correct_times": 3.0,
                 "person_total": 2.0,
@@ -114,21 +74,13 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         }
     },
     "徐杨丽": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
@@ -137,26 +89,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_03b8完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -184,16 +120,8 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_fe0a短全完成": {
                 "person_correct_times": 0.0,
@@ -205,26 +133,10 @@
             }
         },
         "单风险平视显示器": {
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e长完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 5.0
@@ -242,54 +154,12 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         }
     },
     "陈紫甜": {
-        "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
-            "实验安排_0382长完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 0.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 5.0
-            },
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_274e短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            }
-        },
         "双风险平视显示器": {
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
@@ -312,16 +182,8 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 1.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_fe0a短全完成": {
                 "person_correct_times": 2.0,
@@ -332,27 +194,29 @@
                 "other_total": 6.0
             }
         },
-        "单风险平视显示器": {
-            "实验安排_0bb4完成": {
+        "不使用平视显示器": {
+            "实验安排_0382长完成": {
                 "person_correct_times": 0.0,
-                "car_correct_times": 4.0,
-                "other_correct_times": 1.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
+                "car_correct_times": 2.0,
+                "other_correct_times": 0.0,
+                "person_total": 2.0,
+                "car_total": 3.0,
                 "other_total": 5.0
             },
+            "实验安排_274e短完成": {
+                "person_correct_times": 2.0,
+                "car_correct_times": 1.0,
+                "other_correct_times": 2.0,
+                "person_total": 2.0,
+                "car_total": 2.0,
+                "other_total": 6.0
+            }
+        },
+        "单风险平视显示器": {
             "实验安排_274e长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 5.0
@@ -370,21 +234,13 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         }
     },
     "田锐抒": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 3.0,
@@ -393,26 +249,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -440,16 +280,8 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_fe0a短全完成": {
                 "person_correct_times": 2.0,
@@ -461,26 +293,10 @@
             }
         },
         "不使用平视显示器": {
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 5.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 0.0,
-                "other_correct_times": 5.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 5.0
@@ -498,21 +314,13 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         }
     },
     "金亚霏": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 2.0,
@@ -529,14 +337,6 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_1629完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 2.0,
@@ -550,7 +350,7 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 0.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
             },
             "实验安排_274e短完成": {
@@ -560,45 +360,13 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 4.0,
-                "other_correct_times": 5.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 2.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 5.0
@@ -616,7 +384,7 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
@@ -633,14 +401,6 @@
     },
     "高帅": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
@@ -649,26 +409,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -688,16 +432,8 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_fe0a短全完成": {
                 "person_correct_times": 1.0,
@@ -709,14 +445,6 @@
             }
         },
         "不使用平视显示器": {
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_1629完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 1.0,
@@ -729,14 +457,6 @@
                 "person_correct_times": 0.0,
                 "car_correct_times": 2.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 5.0
@@ -754,21 +474,13 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 7.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         }
     },
     "刘佳": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 0.0,
@@ -777,26 +489,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 4.0,
-                "other_correct_times": 1.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -827,47 +523,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -888,40 +560,6 @@
         }
     },
     "周佳": {
-        "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
-            "实验安排_274e短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            }
-        },
         "单风险平视显示器": {
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
@@ -955,47 +593,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 0.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -1013,18 +627,20 @@
                 "car_total": 1.0,
                 "other_total": 6.0
             }
+        },
+        "不使用平视显示器": {
+            "实验安排_274e短完成": {
+                "person_correct_times": 1.0,
+                "car_correct_times": 2.0,
+                "other_correct_times": 2.0,
+                "person_total": 2.0,
+                "car_total": 2.0,
+                "other_total": 6.0
+            }
         }
     },
     "段景辉": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
@@ -1033,26 +649,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 6.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -1083,47 +683,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 6.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -1145,14 +721,6 @@
     },
     "刘伟": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
@@ -1161,25 +729,9 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
                 "other_correct_times": 1.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
@@ -1211,47 +763,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 1.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -1273,14 +801,6 @@
     },
     "王嘉": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
@@ -1289,26 +809,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -1339,47 +843,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -1401,14 +881,6 @@
     },
     "魏瑜均": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 2.0,
@@ -1417,26 +889,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 0.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -1467,47 +923,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -1529,14 +961,6 @@
     },
     "宫宇航": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 3.0,
@@ -1545,26 +969,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 0.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -1595,47 +1003,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -1657,14 +1041,6 @@
     },
     "黄惠铭": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
@@ -1673,26 +1049,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 6.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -1723,47 +1083,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -1785,14 +1121,6 @@
     },
     "何嘉好": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 3.0,
@@ -1801,26 +1129,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -1851,47 +1163,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -1913,14 +1201,6 @@
     },
     "达吾列提别克": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.5,
                 "car_correct_times": 3.0,
@@ -1929,26 +1209,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -1979,47 +1243,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -2041,14 +1281,6 @@
     },
     "郝思嘉": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 9.0,
@@ -2057,26 +1289,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 1.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
                 "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -2107,47 +1323,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 0.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -2169,14 +1361,6 @@
     },
     "张煜婷": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 3.0,
@@ -2185,26 +1369,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -2235,47 +1403,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 3.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -2297,14 +1441,6 @@
     },
     "杜力": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 2.0,
@@ -2313,26 +1449,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 1.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -2363,47 +1483,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -2425,14 +1521,6 @@
     },
     "邓子昊": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 0.0,
@@ -2441,26 +1529,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -2491,47 +1563,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 1.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -2553,14 +1601,6 @@
     },
     "薛嘉涵": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 3.0,
@@ -2569,26 +1609,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 4.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -2619,47 +1643,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 7.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -2681,14 +1681,6 @@
     },
     "陈昕冉": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
@@ -2697,26 +1689,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -2747,47 +1723,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 0.0,
@@ -2809,14 +1761,6 @@
     },
     "黄梦怡": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
@@ -2825,26 +1769,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 6.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -2875,47 +1803,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 6.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -2937,14 +1841,6 @@
     },
     "蒋笑阳": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 3.0,
@@ -2953,24 +1849,8 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.5,
-                "car_correct_times": 1.0,
-                "other_correct_times": 1.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
                 "person_total": 2.0,
@@ -3003,47 +1883,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 6.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 3.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 0.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -3065,14 +1921,6 @@
     },
     "姜昕彤": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 1.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 2.0,
@@ -3081,26 +1929,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -3131,47 +1963,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -3193,14 +2001,6 @@
     },
     "王程业": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
@@ -3209,26 +2009,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 5.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -3259,47 +2043,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 3.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -3321,14 +2081,6 @@
     },
     "徐盛南": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 1.0,
@@ -3337,26 +2089,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 1.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -3376,16 +2112,8 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 0.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -3405,14 +2133,6 @@
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_1629完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 2.0,
@@ -3429,34 +2149,18 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         }
     },
     "徐宇凡": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 2.0,
@@ -3465,26 +2169,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -3515,47 +2203,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -3569,6 +2233,86 @@
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
+                "person_total": 2.0,
+                "car_total": 1.0,
+                "other_total": 6.0
+            }
+        }
+    },
+    "纪子欣": {
+        "单风险平视显示器": {
+            "实验安排_0382短完成": {
+                "person_correct_times": 0.0,
+                "car_correct_times": 3.0,
+                "other_correct_times": 2.0,
+                "person_total": 2.0,
+                "car_total": 3.0,
+                "other_total": 5.0
+            },
+            "实验安排_274e短完成": {
+                "person_correct_times": 1.0,
+                "car_correct_times": 0.0,
+                "other_correct_times": 4.0,
+                "person_total": 2.0,
+                "car_total": 2.0,
+                "other_total": 6.0
+            }
+        },
+        "不使用平视显示器": {
+            "实验安排_0382长完成": {
+                "person_correct_times": 2.0,
+                "car_correct_times": 3.0,
+                "other_correct_times": 3.0,
+                "person_total": 2.0,
+                "car_total": 3.0,
+                "other_total": 5.0
+            },
+            "实验安排_1629完成": {
+                "person_correct_times": 2.0,
+                "car_correct_times": 0.0,
+                "other_correct_times": 3.0,
+                "person_total": 3.0,
+                "car_total": 2.0,
+                "other_total": 6.0
+            },
+            "实验安排_274e长完成": {
+                "person_correct_times": 1.0,
+                "car_correct_times": 2.0,
+                "other_correct_times": 3.0,
+                "person_total": 2.0,
+                "car_total": 2.0,
+                "other_total": 5.0
+            },
+            "实验安排_fe0a长完成": {
+                "person_correct_times": 1.5,
+                "car_correct_times": 0.0,
+                "other_correct_times": 3.0,
+                "person_total": 2.0,
+                "car_total": 0.0,
+                "other_total": 7.0
+            }
+        },
+        "双风险平视显示器": {
+            "实验安排_274e中完成": {
+                "person_correct_times": 3.0,
+                "car_correct_times": 0.0,
+                "other_correct_times": 2.0,
+                "person_total": 4.0,
+                "car_total": 0.0,
+                "other_total": 5.0
+            },
+            "实验安排_bd99 完成": {
+                "person_correct_times": 2.0,
+                "car_correct_times": 1.0,
+                "other_correct_times": 4.0,
+                "person_total": 2.0,
+                "car_total": 2.0,
+                "other_total": 5.0
+            },
+            "实验安排_fe0a短全完成": {
+                "person_correct_times": 1.0,
+                "car_correct_times": 1.0,
+                "other_correct_times": 6.0,
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
@@ -3577,28 +2321,12 @@
     },
     "于紫琪": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 3.0,
-                "other_total": 5.0
-            },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 1.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
                 "other_total": 5.0
             }
         },
@@ -3624,19 +2352,11 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
             },
             "实验安排_274e长完成": {
                 "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
                 "car_correct_times": 1.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
@@ -3648,19 +2368,11 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
@@ -3668,22 +2380,6 @@
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -3705,28 +2401,12 @@
     },
     "侯建华": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 3.0,
                 "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 3.0,
-                "other_total": 5.0
-            },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 3.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
                 "other_total": 5.0
             },
             "实验安排_274e短完成": {
@@ -3738,30 +2418,32 @@
                 "other_total": 6.0
             }
         },
-        "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
+        "单风险平视显示器": {
+            "实验安排_1629完成": {
+                "person_correct_times": 3.0,
+                "car_correct_times": 1.0,
+                "other_correct_times": 4.0,
+                "person_total": 3.0,
                 "car_total": 2.0,
                 "other_total": 6.0
             },
+            "实验安排_fe0a长完成": {
+                "person_correct_times": 1.5,
+                "car_correct_times": 0.0,
+                "other_correct_times": 3.0,
+                "person_total": 2.0,
+                "car_total": 0.0,
+                "other_total": 7.0
+            }
+        },
+        "不使用平视显示器": {
             "实验安排_274e中完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 1.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -3779,44 +2461,10 @@
                 "car_total": 1.0,
                 "other_total": 6.0
             }
-        },
-        "单风险平视显示器": {
-            "实验安排_1629完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
-                "person_total": 3.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_fe0a长完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 0.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 1.0,
-                "other_total": 7.0
-            }
         }
     },
     "胡钰婕": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 3.0,
@@ -3825,26 +2473,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -3867,47 +2499,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 3.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 2.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -3929,14 +2537,6 @@
     },
     "周禾嘉": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 3.0,
@@ -3945,26 +2545,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -3995,47 +2579,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 6.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -4057,14 +2617,6 @@
     },
     "王子宸": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
@@ -4073,26 +2625,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 4.0,
-                "other_correct_times": 3.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -4123,47 +2659,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 7.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 3.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 0.0,
@@ -4185,14 +2697,6 @@
     },
     "朱一铭": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 2.0,
@@ -4201,26 +2705,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 4.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -4251,47 +2739,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 0.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -4313,14 +2777,6 @@
     },
     "楼瀚予": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 3.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
@@ -4329,26 +2785,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -4379,47 +2819,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
@@ -4441,14 +2857,6 @@
     },
     "刘鹤璐": {
         "双风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 1.0,
@@ -4457,26 +2865,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 6.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -4507,47 +2899,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 1.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 2.0,
@@ -4569,14 +2937,6 @@
     },
     "汪靖姗": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 3.0,
@@ -4585,26 +2945,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -4635,47 +2979,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 1.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "单风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 0.0,
@@ -4697,14 +3017,6 @@
     },
     "吴易轩": {
         "不使用平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 0.0,
                 "car_correct_times": 2.0,
@@ -4713,26 +3025,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -4768,34 +3064,18 @@
                 "car_correct_times": 0.0,
                 "other_correct_times": 5.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 3.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.5,
@@ -4817,14 +3097,6 @@
     },
     "郭姝含": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
@@ -4833,26 +3105,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -4883,47 +3139,23 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "不使用平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_274e中完成": {
                 "person_correct_times": 2.0,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 4.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
             },
             "实验安排_bd99 完成": {
                 "person_correct_times": 0.0,
@@ -4945,14 +3177,6 @@
     },
     "熊文逸": {
         "单风险平视显示器": {
-            "实验安排_0194完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 1.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_0382短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 2.0,
@@ -4961,26 +3185,10 @@
                 "car_total": 3.0,
                 "other_total": 5.0
             },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 2.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
             "实验安排_274e短完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 2.0,
                 "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
@@ -5003,40 +3211,16 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_4659完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": 1.5,
                 "car_correct_times": 0.0,
                 "other_correct_times": 4.0,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         },
         "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
             "实验安排_bd99 完成": {
                 "person_correct_times": 1.0,
                 "car_correct_times": 0.0,
@@ -5049,118 +3233,6 @@
                 "person_correct_times": 2.0,
                 "car_correct_times": 1.0,
                 "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 1.0,
-                "other_total": 6.0
-            }
-        }
-    },
-    "纪子欣": {
-        "单风险平视显示器": {
-            "实验安排_0382短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 2.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 5.0
-            },
-            "实验安排_0bb4完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 3.0,
-                "person_total": 3.0,
-                "car_total": 4.0,
-                "other_total": 5.0
-            },
-            "实验安排_274e短完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            }
-        },
-        "不使用平视显示器": {
-            "实验安排_0382长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 3.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 5.0
-            },
-            "实验安排_1629完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 3.0,
-                "person_total": 3.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_274e长完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_4659完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_fe0a长完成": {
-                "person_correct_times": 1.5,
-                "car_correct_times": 0.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 1.0,
-                "other_total": 7.0
-            }
-        },
-        "双风险平视显示器": {
-            "实验安排_03b8完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
-            "实验安排_274e中完成": {
-                "person_correct_times": 3.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 2.0,
-                "person_total": 4.0,
-                "car_total": 1.0,
-                "other_total": 5.0
-            },
-            "实验安排_87bd长完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 3.0,
-                "person_total": 2.0,
-                "car_total": 3.0,
-                "other_total": 4.0
-            },
-            "实验安排_bd99 完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 4.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            },
-            "实验安排_fe0a短全完成": {
-                "person_correct_times": 1.0,
-                "car_correct_times": 1.0,
-                "other_correct_times": 6.0,
                 "person_total": 2.0,
                 "car_total": 1.0,
                 "other_total": 6.0
@@ -5193,20 +3265,12 @@
                 "car_total": 2.0,
                 "other_total": 5.0
             },
-            "实验安排_87bd短完成": {
-                "person_correct_times": 0.0,
-                "car_correct_times": 0.0,
-                "other_correct_times": 0.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            },
             "实验安排_fe0a长完成": {
                 "person_correct_times": NaN,
                 "car_correct_times": NaN,
                 "other_correct_times": NaN,
                 "person_total": 2.0,
-                "car_total": 1.0,
+                "car_total": 0.0,
                 "other_total": 7.0
             }
         }
@@ -5230,30 +3294,6 @@
                 "car_correct_times": 1.0,
                 "other_correct_times": 4.0,
                 "person_total": 3.0,
-                "car_total": 2.0,
-                "other_total": 6.0
-            }
-        }
-    },
-    "吴易轩 ": {
-        "单风险平视显示器": {
-            "实验安排_4659完成": {
-                "person_correct_times": 0.5,
-                "car_correct_times": 2.0,
-                "other_correct_times": 5.0,
-                "person_total": 2.0,
-                "car_total": 2.0,
-                "other_total": 5.0
-            }
-        }
-    },
-    "侯建华 ": {
-        "双风险平视显示器": {
-            "实验安排_87bd短完成": {
-                "person_correct_times": 2.0,
-                "car_correct_times": 2.0,
-                "other_correct_times": 1.0,
-                "person_total": 2.0,
                 "car_total": 2.0,
                 "other_total": 6.0
             }
